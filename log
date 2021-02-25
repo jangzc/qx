@@ -13,3 +13,1902 @@
 2021/02/25 09:15:01:326  <console>    [JS Console]: 
 🔔宠汪汪🐕喂食, 结束! 🕛 0.945 秒
 2021/02/25 09:15:01:329  <console>    [JS Console]: 
+/02/25 09:15:01:326  <console>    [JS Console]: 
+🔔宠汪汪🐕喂食, 结束! 🕛 0.945 秒
+2021/02/25 09:15:01:329  <console>    [JS Console]: 
+2021/02/25 10:00:00:012  <console>    [QTXTaskManager] Fire task<中国联通> https://raw.githubusercontent.com/chavyleung/scripts/master/10010/10010.js.
+2021/02/25 10:00:00:122  <console>    [JS Console]: 🔔 中国联通
+2021/02/25 10:00:00:125  <console>    [JS Console]: [object Object]
+2021/02/25 10:00:00:621  <console>    [JS Console]: ❌ 中国联通 签到失败: TypeError: undefined is not an object (evaluating 'VAL_signurl.endsWith')
+2021/02/25 10:01:00:999  <console>    [QTXTaskManager] Fire task<中青看点> https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth.js.
+2021/02/25 10:01:01:093  <console>    [JS Console]: 
+🔔中青看点, 开始!
+2021/02/25 10:01:01:142  <console>    [JS Console]: 
+ === 脚本执行2021/2/25 中国标准时间 10:01:01 === 
+2021/02/25 10:01:01:145  <console>    [JS Console]:  =========== 您共提供1个中青账号 ==========
+2021/02/25 10:01:01:668  <console>    [JS Console]: 
+ ********** 账号:志成 现金: 0.92元 ********
+2021/02/25 10:01:01:911  <console>    [JS Console]: 计时红包可领取，去领青豆
+2021/02/25 10:01:02:152  <console>    [JS Console]: 获得16青豆
+2021/02/25 10:01:03:192  <console>    [JS Console]: 去打卡赚钱
+2021/02/25 10:01:03:709  <console>    [JS Console]: 去阅读文章
+2021/02/25 10:01:04:224  <console>    [JS Console]: 去观看视频
+2021/02/25 10:01:04:739  <console>    [JS Console]: 去火爆转发
+2021/02/25 10:01:05:252  <console>    [JS Console]: 去阅读5分钟
+2021/02/25 10:01:06:740  <console>    [JS Console]: 去阅读60分钟
+2021/02/25 10:01:07:170  <console>    [JS Console]: 阅读时长共计3分钟
+2021/02/25 10:01:07:682  <console>    [JS Console]: 去转发文章
+2021/02/25 10:01:07:693  <console>    [JS Console]: 转发文章，已完成，已领取青豆+1100
+2021/02/25 10:01:08:202  <console>    [JS Console]: 去看福利视频
+2021/02/25 10:01:08:211  <console>    [JS Console]: 看福利视频，已完成，已领取青豆+150
+2021/02/25 10:01:09:055  <console>    [JS Console]: 去转发文章
+2021/02/25 10:01:09:057  <console>    [JS Console]: 17999元！华为突然宣布！美国傻眼，全世界都沸腾了！ ----- 轻风细雨
+2021/02/25 10:01:09:386  <console>    [JS Console]: 转发成功，共计转发6篇文章，获得青豆0
+2021/02/25 10:01:09:627  <console>    [JS Console]: 观看视频广告3次 +50青豆
+2021/02/25 10:01:09:850  <console>    [JS Console]: 激励视频 +30青豆
+2021/02/25 10:01:10:224  <console>    [JS Console]: 阅读奖励 +10个青豆
+2021/02/25 10:01:10:229  <console>    [JS Console]: 开始转盘抽奖任务
+2021/02/25 10:01:20:517  <console>    [JS Console]: 等待10秒进行开始转盘任务
+2021/02/25 10:01:20:521  <console>    [JS Console]: 进行11次转盘，获得11青豆
+2021/02/25 10:01:20:523  <console>    [JS Console]: 等待10s，获得双倍青豆
+2021/02/25 10:01:30:793  <console>    [JS Console]: 获得双倍青豆+11
+2021/02/25 10:01:40:959  <console>    [JS Console]: 等待10秒进行开始转盘任务
+2021/02/25 10:01:40:963  <console>    [JS Console]: 进行12次转盘，获得0青豆
+2021/02/25 10:01:51:111  <console>    [JS Console]: 等待10秒进行开始转盘任务
+2021/02/25 10:01:51:115  <console>    [JS Console]: 进行13次转盘，获得0青豆
+2021/02/25 10:02:01:421  <console>    [JS Console]: 等待10秒进行开始转盘任务
+2021/02/25 10:02:01:425  <console>    [JS Console]: 进行14次转盘，获得14青豆
+2021/02/25 10:02:01:429  <console>    [JS Console]: 等待10s，获得双倍青豆
+2021/02/25 10:02:11:714  <console>    [JS Console]: 获得双倍青豆+14
+2021/02/25 10:02:21:988  <console>    [JS Console]: 等待10秒进行开始转盘任务
+2021/02/25 10:02:21:992  <console>    [JS Console]: 进行15次转盘，获得15青豆
+2021/02/25 10:02:21:995  <console>    [JS Console]: 等待10s，获得双倍青豆
+2021/02/25 10:02:32:258  <console>    [JS Console]: 获得双倍青豆+15
+2021/02/25 10:02:32:263  <console>    [JS Console]: 转盘抽奖: 共计 + 40个青豆剩余85次
+2021/02/25 10:02:32:266  <console>    [JS Console]: 转盘双倍: +40青豆剩余12次
+2021/02/25 10:02:32:484  <console>    [JS Console]: 
+【收益总计】9285青豆 现金约0.92元
+【签到结果】🔁 (今天+108青豆)已连签2天
+<本次收益> ：
+【计时红包】获得16青豆
+【阅读时长】共计3分钟
+【转发文章】✅  +1100青豆
+【看福利视频】✅  +150青豆
+【时段宝箱】 +8青豆，120分钟后再次奖励
+【阅读奖励】+10个青豆
+【转盘抽奖】 + 40个青豆剩余85次
+【转盘双倍】 + 40青豆剩余12次
+<收益统计> ：
+【好友奖励】0个青豆
+【阅读收益】116个青豆
+【观看收益】240个青豆
+【分享收益】100个青豆
+【游戏收益】0个青豆
+【任务收益】3616个青豆
+<今日合计>： 4072 青豆
+2021/02/25 10:02:32:489  <console>    [JS Console]: 
+🔔中青看点, 结束! 🕛 91.397 秒
+2021/02/25 10:02:32:492  <console>    [JS Console]: 
+2021/02/25 10:03:00:006  <console>    [QTXTaskManager] Fire task<京东摇钱树> https://jdsharedresourcescdn.azureedge.net/jdresource/jd_moneyTree.js.
+2021/02/25 10:03:00:105  <console>    [JS Console]: 
+🔔京东摇钱树, 开始!
+2021/02/25 10:03:00:530  <console>    [JS Console]: 
+开始【京东账号1】zuojiaotuo
+2021/02/25 10:03:00:534  <console>    [JS Console]: 初始化摇钱树个人信息
+2021/02/25 10:03:01:401  <console>    [JS Console]: resultCode为0
+2021/02/25 10:03:02:558  <console>    [JS Console]: 开始做任务userInfo了
+2021/02/25 10:03:04:147  <console>    [JS Console]: canTask::[{"workStatus":-1,"workContent":"每天来签到","prizeType":2,"mid":0,"workName":"每日签到","prizeAmount":200,"workType":1},{"workStatus":2,"workContent":"每天分享一下","prizeType":2,"mid":0,"workName":"每日分享","prizeAmount":500,"workType":2},{"workStatus":0,"workContent":"每天分享新用户来玩5次","prizeType":2,"mid":0,"workName":"每日分享新用户","prizeAmount":30000,"workType":3}]
+2021/02/25 10:03:04:150  <console>    [JS Console]: 浏览任务列表taskInfo::[{"workStatus":2,"prizeType":0,"mapValues":[1,1,1,1,1,1,1],"workLabel":"已完成","mid":666,"prizeAmount":1000,"workType":7},{"workStatus":2,"prizeType":0,"mapValues":[1,1,1,1,1,1,1],"workLabel":"已完成","mid":667,"prizeAmount":1000,"workType":7}]
+2021/02/25 10:03:04:153  <console>    [JS Console]: 三餐签到任务不在时间范围内
+2021/02/25 10:03:04:156  <console>    [JS Console]: 分享任务已经做过
+2021/02/25 10:03:04:158  <console>    [JS Console]: 所有的浏览任务都做完了
+2021/02/25 10:03:04:161  <console>    [JS Console]: 所有的浏览任务都做完了
+2021/02/25 10:03:04:165  <console>    [JS Console]: 收获的操作:{"userInfo":"C3A21D2F20E282A90D2F8983E88B2645","firstLogin":false,"nick":"z**o","linkMissionIds":["666","667"],"showTips":false,"sharePin":"j_IM-SNvVQZg3stcb4YL1A","pushStatus":0,"workerList":[],"avatar":"https://storage.360buyimg.com/i.imageUpload/7a756f6a69616f74756f31353034393233393831333135_big.jpg","showUpgradeInfo":false,"stole":0,"userToken":"C323E26F268966C88645B2D3C44B48C0","realName":true,"stop":1,"treeInfo":{"upgradeDemand":50000,"treeName":"11级阳光小树","progressLeft":"42.8%","level":11,"fruit":123972,"fruitHarvest":28596,"fruitOnTree":10000,"workerSum":4,"coin":105,"capacity":10000},"prodtabs":[{"tab":1,"content":"1-12级兑换区"},{"tab":2,"content":"12级以上"},{"tab":3,"content":"节日专享"},{"tab":4,"content":"精选好券"}],"newVersion":false}
+2021/02/25 10:03:05:328  <console>    [JS Console]: 目前金果数量0
+2021/02/25 10:03:05:332  <console>    [JS Console]: 
+设置的不卖出金果
+2021/02/25 10:03:06:498  <console>    [JS Console]: 金币数量和金果：：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"gcAmount":115,"gaAmount":123972,"canGoldcoin":248}},"channelEncrypt":0}
+2021/02/25 10:03:07:672  <console>    [JS Console]: 今日已偷过好友的金果了，暂无好友可偷，请明天再来
+2021/02/25 10:03:07:690  <console>    [JS Console]: 
+【我的金果数量】123972
+【我的金币数量】115
+
+2021/02/25 10:03:07:695  <console>    [JS Console]: 
+🔔京东摇钱树, 结束! 🕛 7.592 秒
+2021/02/25 10:03:07:699  <console>    [JS Console]: 
+2021/02/25 10:10:00:018  <console>    [QTXTaskManager] Fire task<东东工厂> https://jdsharedresourcescdn.azureedge.net/jdresource/jd_jdfactory.js.
+2021/02/25 10:10:00:032  <console>    [QTXTaskManager] Fire task<京喜工厂> https://jdsharedresourcescdn.azureedge.net/jdresource/jd_dreamFactory.js.
+2021/02/25 10:10:00:046  <console>    [QTXTaskManager] Fire task<天天提鹅> https://jdsharedresourcescdn.azureedge.net/jdresource/jd_daily_egg.js.
+2021/02/25 10:10:00:132  <console>    [JS Console]: 
+🔔东东工厂, 开始!
+2021/02/25 10:10:00:137  <console>    [JS Console]: 
+🔔天天提鹅, 开始!
+2021/02/25 10:10:00:149  <console>    [JS Console]: 开始获取东东工厂配置文件
+2021/02/25 10:10:00:152  <console>    [JS Console]: 
+🔔京喜工厂, 开始!
+2021/02/25 10:10:00:155  <console>    [JS Console]: 共1个京东账号
+2021/02/25 10:10:00:160  <console>    [JS Console]: 您提供了0个账号的东东工厂助力码
+2021/02/25 10:10:00:514  <console>    [JS Console]: 
+***********开始【京东账号1】zuojiaotuo********
+2021/02/25 10:10:00:521  <console>    [JS Console]: SyntaxError: JSON Parse error: Unrecognized token '<'
+2021/02/25 10:10:00:525  <console>    [JS Console]: 京东服务器访问数据为空，请检查自身设备网络情况
+2021/02/25 10:10:00:530  <console>    [JS Console]: 开始获取京喜工厂配置文件
+2021/02/25 10:10:00:534  <console>    [JS Console]: tuanActiveId: 6S9y4sJUfA2vPQP6TLdVIQ==
+2021/02/25 10:10:00:539  <console>    [JS Console]: 共1个京东账号
+2021/02/25 10:10:00:546  <console>    [JS Console]: 
+BoxJs设置的京喜工厂邀请码:undefined
+2021/02/25 10:10:00:549  <console>    [JS Console]: 您提供了0个账号的京喜工厂助力码
+2021/02/25 10:10:00:576  <console>    [JS Console]: 
+******开始【京东账号1】zuojiaotuo*********
+2021/02/25 10:10:00:580  <console>    [JS Console]: 由于您第1个京东账号未提供shareCode,将采纳本脚本自带的助力码
+2021/02/25 10:10:00:583  <console>    [JS Console]: 开始
+2021/02/25 10:10:00:684  <console>    [JS Console]: 
+******开始【京东账号1】zuojiaotuo*********
+2021/02/25 10:10:00:700  <console>    [JS Console]: st:_time:1614219000692&materialTuanId:&materialTuanPin:&pin:&sharePin:&shareType:&source:&zone:dream_factory
+2021/02/25 10:10:00:995  <console>    [JS Console]: 收取鹅蛋失败:活动太火爆，请稍后尝试
+2021/02/25 10:10:01:109  <console>    [JS Console]: 兑换金币失败:活动太火爆，请稍后尝试
+2021/02/25 10:10:01:113  <console>    [JS Console]: 
+🔔天天提鹅, 结束! 🕛 0.978 秒
+2021/02/25 10:10:01:116  <console>    [JS Console]: 
+2021/02/25 10:10:01:191  <console>    [JS Console]: 随机取5个码放到您固定的互助码后面(不影响已有固定互助)
+2021/02/25 10:10:01:195  <console>    [JS Console]: 第1个京东账号将要助力的好友["P04z54XCjVWnYaS5u2ak7ZCdan1Bdd2GGiWvC6_uERj","T0225KkcRhxKoFyGKBmnlvAMIQCjVWnYaS5kRrbA","T014Z1fMmY2n9VXXIACjVWnYaS5kRrbA","T0205KkcBE9wtQCsR02d6r9XCjVWnYaS5kRrbA","T0225KkcRk1LpFCFIEz9wvJZJwCjVWnYaS5kRrbA","T0225KkcRhkfoVbRJx30lvMOdgCjVWnYaS5kRrbA"]
+2021/02/25 10:10:01:199  <console>    [JS Console]: 再加3.60%电力可开红包
+2021/02/25 10:10:01:205  <console>    [JS Console]: 当前电力：84
+2021/02/25 10:10:01:208  <console>    [JS Console]: 当前等级：2
+2021/02/25 10:10:01:211  <console>    [JS Console]: 
+【京东账号1（zuojiaotuo）的京喜工厂好友互助码】MNU1o08zJOSUaOULm8-Hxg==
+2021/02/25 10:10:01:215  <console>    [JS Console]: 已投入电力：205500
+2021/02/25 10:10:01:218  <console>    [JS Console]: 所需电力：550000
+2021/02/25 10:10:01:221  <console>    [JS Console]: 生产进度：37.36%
+2021/02/25 10:10:01:319  <console>    [JS Console]: 【今日招工进度】0/8
+2021/02/25 10:10:01:495  <console>    [JS Console]: SyntaxError: JSON Parse error: Unrecognized token '<'
+2021/02/25 10:10:01:498  <console>    [JS Console]: 京东服务器访问数据为空，请检查自身设备网络情况
+2021/02/25 10:10:01:503  <console>    [JS Console]: 由于您第1个京东账号未提供shareCode,将采纳本脚本自带的助力码
+2021/02/25 10:10:01:506  <console>    [JS Console]: 开始
+2021/02/25 10:10:02:431  <console>    [JS Console]: {"code":0,"data":{"bizCode":-9,"bizMsg":"助力失败丨助力已满员！谢谢你哦~","success":false},"msg":"调用成功"}
+2021/02/25 10:10:03:570  <console>    [JS Console]: {"code":0,"data":{"bizCode":-9,"bizMsg":"助力失败丨助力已满员！谢谢你哦~","success":false},"msg":"调用成功"}
+2021/02/25 10:10:04:695  <console>    [JS Console]: {"code":0,"data":{"bizCode":-9,"bizMsg":"助力失败丨助力已满员！谢谢你哦~","success":false},"msg":"调用成功"}
+2021/02/25 10:10:05:837  <console>    [JS Console]: {"code":0,"data":{"bizCode":-9,"bizMsg":"助力失败丨助力已满员！谢谢你哦~","success":false},"msg":"调用成功"}
+2021/02/25 10:10:06:950  <console>    [JS Console]: {"code":0,"data":{"bizCode":-9,"bizMsg":"助力失败丨助力已满员！谢谢你哦~","success":false},"msg":"调用成功"}
+2021/02/25 10:10:07:260  <console>    [JS Console]: 随机取5个码放到您固定的互助码后面(不影响已有固定互助)
+2021/02/25 10:10:07:264  <console>    [JS Console]: 第1个京东账号将要助力的好友["V5LkjP4WRyjeCKR9VRwcRX0bBuTz7MEK0-E99EJ7u0k=","0WtCMPNq7jekehT6d3AbFw==","O2BNWcUFyIV76EEcuJ98cw==","IKGruH9MPWyR4TizrOVyBw==","lvPc0neNE0lLfDhmw7f5rQ==","USjrMxABS-u_LKhmeLB1kA==","8dg4meOVPLmZcXSxPojErg=="]
+2021/02/25 10:10:07:371  <console>    [JS Console]: 助力朋友[V5LkjP4WRyjeCKR9VRwcRX0bBuTz7MEK0-E99EJ7u0k=]失败：亲,好友的工厂的工人已经满员了,不能去好友工厂打工啦!
+2021/02/25 10:10:07:495  <console>    [JS Console]: 助力朋友[0WtCMPNq7jekehT6d3AbFw==]失败：亲,活动太火爆了,请稍后再试吧!
+2021/02/25 10:10:07:594  <console>    [JS Console]: 助力朋友[O2BNWcUFyIV76EEcuJ98cw==]失败：亲,好友的工厂的工人已经满员了,不能去好友工厂打工啦!
+2021/02/25 10:10:07:694  <console>    [JS Console]: 助力朋友[IKGruH9MPWyR4TizrOVyBw==]失败：亲,好友的工厂的工人已经满员了,不能去好友工厂打工啦!
+2021/02/25 10:10:07:812  <console>    [JS Console]: 助力朋友[lvPc0neNE0lLfDhmw7f5rQ==]失败：亲,好友的工厂的工人已经满员了,不能去好友工厂打工啦!
+2021/02/25 10:10:07:911  <console>    [JS Console]: 助力朋友[USjrMxABS-u_LKhmeLB1kA==]失败：亲,好友的工厂暂未开启,不能去好友工厂打工啦!
+2021/02/25 10:10:08:014  <console>    [JS Console]: 助力朋友[8dg4meOVPLmZcXSxPojErg==]失败：亲,好友的工厂的工人已经满员了,不能去好友工厂打工啦!
+2021/02/25 10:10:08:045  <console>    [JS Console]: {"code":0,"data":{"bizCode":-7001,"bizMsg":"蓄电池已满，使用后才可获得更多电量哦！","success":false},"msg":"调用成功"}
+2021/02/25 10:10:08:106  <console>    [JS Console]: 
+nextCollectDoubleFlag::0
+2021/02/25 10:10:08:109  <console>    [JS Console]: nextCollectDoubleType::0
+2021/02/25 10:10:08:112  <console>    [JS Console]: 下次集满收取不可双倍电力
+2021/02/25 10:10:08:115  <console>    [JS Console]: 发电机：当前 330 电力，最大值 330 电力
+2021/02/25 10:10:08:149  <console>    [JS Console]: 成功收集360电量，当前蓄电池总电量：342324
+2021/02/25 10:10:08:242  <console>    [JS Console]: 收取 330 电力
+2021/02/25 10:10:08:290  <console>    [JS Console]: 
+【京东账号1（zuojiaotuo）的东东工厂好友互助码】T0149LgsGkdIqhCSfwCjVWnYaS5kRrbA
+2021/02/25 10:10:08:295  <console>    [JS Console]: 每日开工打卡已完成
+2021/02/25 10:10:08:297  <console>    [JS Console]: 准备做此任务：好友助力
+2021/02/25 10:10:08:301  <console>    [JS Console]: 去京东首页点击“数码电器”已完成
+2021/02/25 10:10:08:304  <console>    [JS Console]: 逛会场/互动游戏已做完
+2021/02/25 10:10:08:316  <console>    [JS Console]: 看看商品已做完
+2021/02/25 10:10:08:323  <console>    [JS Console]: 关注店铺已做完
+2021/02/25 10:10:08:326  <console>    [JS Console]: 此任务：开通趣猫品牌会员，跳过
+2021/02/25 10:10:08:329  <console>    [JS Console]: 准备做此任务：每日10-13点巡厂
+2021/02/25 10:10:08:381  <console>    [JS Console]: 完成任务：共领取330电力
+2021/02/25 10:10:08:504  <console>    [JS Console]: 成功投入电力400电力
+2021/02/25 10:10:09:437  <console>    [JS Console]: 领取做完任务的奖励：{"score":"2500","userScore":"344824"}
+2021/02/25 10:10:09:548  <console>    [JS Console]: 
+已选商品：极米H3智能家庭影院
+2021/02/25 10:10:09:550  <console>    [JS Console]: 当前已投入电量/所需电量：0/8888888
+2021/02/25 10:10:09:553  <console>    [JS Console]: 已选商品剩余量：12
+2021/02/25 10:10:09:556  <console>    [JS Console]: 当前总电量：344824
+2021/02/25 10:10:09:559  <console>    [JS Console]: 当前完成度：4%
+2021/02/25 10:10:09:561  <console>    [JS Console]: BoxJs或环境变量暂未提供心仪商品
+如需兑换心仪商品，请提供心仪商品名称，否则满足条件后会为您兑换当前所选商品：极米H3智能家庭影院
+2021/02/25 10:10:09:564  <console>    [JS Console]: 
+所选商品极米H3智能家庭影院目前数量：12，且当前总电量为：344824，【不满足】兑换此商品所需总电量：8888888
+2021/02/25 10:10:09:566  <console>    [JS Console]: 故不一次性投入电力，一直放到蓄电池累计
+2021/02/25 10:10:09:569  <console>    [JS Console]: 京东账号1zuojiaotuo
+京东账号1 zuojiaotuo
+已选商品：极米H3智能家庭影院
+当前已投入电量/所需电量：0/8888888
+已选商品剩余量：12
+当前总电量：344824
+当前完成度：4%
+2021/02/25 10:10:09:573  <console>    [JS Console]: 
+🔔东东工厂, 结束! 🕛 9.443 秒
+2021/02/25 10:10:09:576  <console>    [JS Console]: 
+2021/02/25 10:10:10:357  <console>    [JS Console]: 收取自家零件成功:获得8电力
+2021/02/25 10:10:11:523  <console>    [JS Console]: 收取自家零件成功:获得8电力
+2021/02/25 10:10:12:650  <console>    [JS Console]: 收取自家零件成功:获得10电力
+2021/02/25 10:10:13:789  <console>    [JS Console]: 收取自家零件成功:获得1电力
+2021/02/25 10:10:14:954  <console>    [JS Console]: 收取自家零件成功:获得5电力
+2021/02/25 10:10:16:829  <console>    [JS Console]: 收取好友[bxCmRhdPvDDh8X72ZbyNcA==]零件成功:获得8电力
+2021/02/25 10:10:17:989  <console>    [JS Console]: 收取好友[bxCmRhdPvDDh8X72ZbyNcA==]零件成功:获得9电力
+2021/02/25 10:10:18:607  <console>    [JS Console]: 好友【ConR1bHIbgyz2WsHpVj34A==】地下暂无零件可收
+2021/02/25 10:10:19:231  <console>    [JS Console]: 好友【cyCIY1_APsSKHJ2JIgf0zg==】地下暂无零件可收
+2021/02/25 10:10:19:339  <console>    [JS Console]: 
+团活动ID  6S9y4sJUfA2vPQP6TLdVIQ==
+2021/02/25 10:10:19:343  <console>    [JS Console]: 团ID  
+2021/02/25 10:10:19:347  <console>    [JS Console]: 今日剩余开团次数：3次
+2021/02/25 10:10:19:350  <console>    [JS Console]: 准备开团
+2021/02/25 10:10:19:360  <console>    [JS Console]: st:_time:1614219019352&activeId:&isOpenApp:
+2021/02/25 10:10:19:446  <console>    [JS Console]: 异常：{"msg":"活动已结束，请稍后再试~","nowTime":1614219019,"ret":10218}
+2021/02/25 10:10:19:643  <console>    [JS Console]: 
+  商品名     兑换状态
+2021/02/25 10:10:19:647  <console>    [JS Console]: 洁柔厨房纸2卷    已兑换
+2021/02/25 10:10:19:654  <console>    [JS Console]: 
+【京东账号1】zuojiaotuo
+【生产商品】保鲜袋套装
+【当前等级】高级学徒 2
+【生产进度】37.36%
+【招工进度】0/8
+【收取发电站】收取成功，获得 330 电力
+【每日任务】领奖成功，共计 330 电力
+【投入电力】投入成功，共计 400 电力
+【收取自己零件】今日已达上限
+【收取好友零件】今日已达上限
+2021/02/25 10:10:19:659  <console>    [JS Console]: zuojiaotuo去参加第一个cookie账号开的团
+2021/02/25 10:10:19:784  <console>    [JS Console]: 
+🔔京喜工厂, 结束! 🕛 19.635 秒
+2021/02/25 10:10:19:786  <console>    [JS Console]: 
+2021/02/25 10:11:00:014  <console>    [QTXTaskManager] Fire task<东东超市> https://jdsharedresourcescdn.azureedge.net/jdresource/jd_superMarket.js.
+2021/02/25 10:11:00:100  <console>    [JS Console]: 
+🔔东东超市, 开始!
+2021/02/25 10:11:00:111  <console>    [JS Console]: 共1个京东账号
+2021/02/25 10:11:00:478  <console>    [JS Console]: 
+开始【京东账号1】zuojiaotuo
+2021/02/25 10:11:00:850  <console>    [JS Console]: 当前无金币可领
+2021/02/25 10:11:00:949  <console>    [JS Console]: 
+{"code":0,"data":{"bizCode":231,"bizMsg":"战队PK功能暂被关闭","success":false}}
+2021/02/25 10:11:01:039  <console>    [JS Console]: 收取蓝币失败：今日小费已达上限
+2021/02/25 10:11:01:540  <console>    [JS Console]: 
+日常赚钱任务       完成状态
+2021/02/25 10:11:01:543  <console>    [JS Console]:  任务能手         已完成 1/1
+2021/02/25 10:11:01:546  <console>    [JS Console]:  入小游戏         已完成 1/1
+2021/02/25 10:11:01:549  <console>    [JS Console]:  关注商品         未完成 0/4
+2021/02/25 10:11:01:551  <console>    [JS Console]:  开会员卡         未完成 0/1
+2021/02/25 10:11:01:554  <console>    [JS Console]:  分享游戏         已完成 1/1
+2021/02/25 10:11:01:556  <console>    [JS Console]:  逛会场          已完成 6/6
+2021/02/25 10:11:01:558  <console>    [JS Console]:  关注店铺         已完成 3/3
+2021/02/25 10:11:01:561  <console>    [JS Console]:  去购物          未完成 0/1
+2021/02/25 10:11:01:563  <console>    [JS Console]:  卖货能手         已完成 1/1
+2021/02/25 10:11:01:565  <console>    [JS Console]: 关注商品
+2021/02/25 10:11:01:684  <console>    [JS Console]: 关注商品领蓝币结果{"code":0,"data":{"bizCode":204,"bizMsg":"今天已经做过该任务","success":false}}
+2021/02/25 10:11:01:688  <console>    [JS Console]: 开始开卡领蓝币任务
+2021/02/25 10:11:01:876  <console>    [JS Console]: 开卡领蓝币结果{"code":0,"data":{"bizCode":304,"bizMsg":"未完成CRM开卡操作","success":false}}
+2021/02/25 10:11:01:880  <console>    [JS Console]: 
+注意⚠:东东超市抽奖已改版,花费500蓝币抽奖一次,现在脚本默认已关闭抽奖功能
+2021/02/25 10:11:01:886  <console>    [JS Console]: 设置的为不抽奖
+2021/02/25 10:11:01:974  <console>    [JS Console]: [普通货架] 已解锁，当前等级：11级
+2021/02/25 10:11:01:977  <console>    [JS Console]: [冰柜] 未解锁
+2021/02/25 10:11:01:980  <console>    [JS Console]: [水果摊] 未解锁
+2021/02/25 10:11:01:982  <console>    [JS Console]: [酒柜] 未解锁
+2021/02/25 10:11:02:207  <console>    [JS Console]: 
+收取营业额：获得 4392蓝币
+2021/02/25 10:11:02:298  <console>    [JS Console]: 【京东账号1】zuojiaotuo
+【收取小费】今日小费已达上限
+【第4日签到】当日已签到
+【店铺等级】19
+【总蓝币】103400个
+2021/02/25 10:11:02:305  <console>    [JS Console]: 
+🔔东东超市, 结束! 🕛 2.206 秒
+2021/02/25 10:11:02:308  <console>    [JS Console]: 
+2021/02/25 10:12:00:006  <console>    [QTXTaskManager] Fire task<京东金融养猪猪> https://jdsharedresourcescdn.azureedge.net/jdresource/jd_pigPet.js.
+2021/02/25 10:12:00:087  <console>    [JS Console]: 
+🔔金融养猪, 开始!
+2021/02/25 10:12:00:513  <console>    [JS Console]: 
+开始【京东账号1】zuojiaotuo
+2021/02/25 10:12:01:549  <console>    [JS Console]: 第3天已签到
+2021/02/25 10:12:01:980  <console>    [JS Console]: 当前大转盘剩余免费抽奖次数：：1
+2021/02/25 10:12:02:823  <console>    [JS Console]: 
+去京东到家签到未完成
+2021/02/25 10:12:02:827  <console>    [JS Console]: 
+小金库还信用卡未完成
+2021/02/25 10:12:02:829  <console>    [JS Console]: 
+购买黄金产品未完成
+2021/02/25 10:12:02:831  <console>    [JS Console]: 
+去领金贴页面签到未完成
+2021/02/25 10:12:02:834  <console>    [JS Console]: 
+花金贴兑权益未完成
+2021/02/25 10:12:02:836  <console>    [JS Console]: 
+0.01元购大牌权益卡未完成
+2021/02/25 10:12:02:838  <console>    [JS Console]: 
+浏览京喜工厂活动未完成
+2021/02/25 10:12:02:841  <console>    [JS Console]: 
+浏览东东农场未完成
+2021/02/25 10:12:02:843  <console>    [JS Console]: 
+为自己充1笔话费未完成
+2021/02/25 10:12:02:845  <console>    [JS Console]: 
+完成一笔金币兑换未完成
+2021/02/25 10:12:02:848  <console>    [JS Console]: 
+浏览京喜财富岛活动未完成
+2021/02/25 10:12:02:851  <console>    [JS Console]: 
+完成每日分享已领取
+2021/02/25 10:12:03:140  <console>    [JS Console]: 
+食物名称     数量
+2021/02/25 10:12:03:143  <console>    [JS Console]: 普通猪粮      7g
+2021/02/25 10:12:03:146  <console>    [JS Console]: 南瓜      15g
+2021/02/25 10:12:03:149  <console>    [JS Console]: 白菜      3g
+2021/02/25 10:12:03:151  <console>    [JS Console]: 胡萝卜      15g
+2021/02/25 10:12:03:155  <console>    [JS Console]: 
+🔔金融养猪, 结束! 🕛 3.069 秒
+2021/02/25 10:12:03:158  <console>    [JS Console]: 
+2021/02/25 10:15:00:002  <console>    [QTXTaskManager] Fire task<宠汪汪邀请助力与赛跑助力> https://jdsharedresourcescdn.azureedge.net/jdresource/jd_joy_run.js.
+2021/02/25 10:15:00:022  <console>    [QTXTaskManager] Fire task<京东宠汪汪喂食> https://jdsharedresourcescdn.azureedge.net/jdresource/jd_joy_feedPets.js.
+2021/02/25 10:15:00:029  <console>    [QTXTaskManager] Fire task<京东宠汪汪> https://jdsharedresourcescdn.azureedge.net/jdresource/jd_joy.js.
+2021/02/25 10:15:00:135  <console>    [JS Console]: 
+🔔宠汪汪🐕喂食, 开始!
+2021/02/25 10:15:00:138  <console>    [JS Console]: 
+🔔宠汪汪, 开始!
+2021/02/25 10:15:00:140  <console>    [JS Console]: 
+🔔宠汪汪赛跑, 开始!
+2021/02/25 10:15:00:563  <console>    [JS Console]: 
+开始【京东账号1】zuojiaotuo
+2021/02/25 10:15:00:567  <console>    [JS Console]: 您设置的喂食数量::10g
+2021/02/25 10:15:00:570  <console>    [JS Console]: 实际的喂食数量::10g
+2021/02/25 10:15:00:613  <console>    [JS Console]: 
+开始【京东账号1】zuojiaotuo
+2021/02/25 10:15:01:010  <console>    [JS Console]: 喂食失败：正在食用
+2021/02/25 10:15:01:077  <console>    [JS Console]: 您设置的喂食数量:10g
+2021/02/25 10:15:01:080  <console>    [JS Console]: 实际的喂食数量:10g
+2021/02/25 10:15:01:111  <console>    [JS Console]: 
+【喂食失败】您的汪汪正在食用
+
+2021/02/25 10:15:01:118  <console>    [JS Console]: 
+🔔宠汪汪🐕喂食, 结束! 🕛 0.985 秒
+2021/02/25 10:15:01:121  <console>    [JS Console]: 
+2021/02/25 10:15:01:194  <console>    [JS Console]: {"code": 200, "message": "", "data": ["fe241e55a4e2d8ea016cd4f77baffd26"], "powered by": "TNanko"}
+2021/02/25 10:15:01:200  <console>    [JS Console]: 打印token 
+fe241e55a4e2d8ea016cd4f77baffd26
+2021/02/25 10:15:01:208  <console>    [JS Console]: 喂食成功
+2021/02/25 10:15:01:216  <console>    [JS Console]: 每日签到未完成,需要自己手动去微信小程序【来客有礼】签到，可获得京豆奖励
+2021/02/25 10:15:01:219  <console>    [JS Console]: 每日赛跑未完成
+2021/02/25 10:15:01:222  <console>    [JS Console]: 
+每日喂狗粮任务进行中
+2021/02/25 10:15:01:225  <console>    [JS Console]: 未完成,需要自己手动去邀请好友给你助力,可以获得狗粮
+2021/02/25 10:15:01:228  <console>    [JS Console]: -----每日三餐-----
+2021/02/25 10:15:01:230  <console>    [JS Console]: 关注店铺 任务已完成
+2021/02/25 10:15:01:233  <console>    [JS Console]: 每日参与一次兑换 任务已完成
+2021/02/25 10:15:01:235  <console>    [JS Console]: 逛会场 任务已完成
+2021/02/25 10:15:01:238  <console>    [JS Console]: 浏览频道 任务已完成
+2021/02/25 10:15:01:240  <console>    [JS Console]: 每日帮好友喂一次狗粮 任务已完成
+2021/02/25 10:15:01:243  <console>    [JS Console]: 关注商品 任务已完成
+2021/02/25 10:15:01:246  <console>    [JS Console]: 看激励视频 任务已完成
+2021/02/25 10:15:01:781  <console>    [JS Console]: 
+限时商品货架已下架
+2021/02/25 10:15:01:986  <console>    [JS Console]: 现有狗粮: 1204
+2021/02/25 10:15:02:116  <console>    [JS Console]: 
+共提供 30313个好友供来进行邀请助力
+2021/02/25 10:15:02:127  <console>    [JS Console]: 
+开始【京东账号1】zuojiaotuo
+2021/02/25 10:15:02:130  <console>    [JS Console]: =============【开始邀请助力】===============
+2021/02/25 10:15:02:134  <console>    [JS Console]: 账号1 [zuojiaotuo] 给下面名单的人进行邀请助力
+jd_6cd93e613b0e5,被折叠的记忆33,jd_704a2e5e28a66,jd_45a6b5953b15b,zooooo58,jd_66f5cecc1efcd,jd_41345a6f96aa5,jd_sIhNpDXJehOr,jd_mCbhXxmqzYJC,wddpzLSxORvLGo,jd_7bb2be8dbd65c,jszjmwjd,jd_49813c650cd1a,jd_BsgYEMRRfhRj,13517408-84718902,五百万都救不了你,jd_6ca3b24cee80f,u_42a8bb297adf8,念青,jd_4d15b483d0e85,125687798-743439,jd_7dea0dc0583fd,jd_47aa4bc6389d1,jd_75728312e0239,jd_47310f2ced778,jd_762c0d126b95c,jd_7b9c2ce5ae8b3,aliasaxin,青涩的山楂
+2021/02/25 10:15:02:137  <console>    [JS Console]: 
+账号1 [zuojiaotuo] 开始给好友 [jd_6cd93e613b0e5] 进行邀请助力
+2021/02/25 10:15:02:350  <console>    [JS Console]: 
+===以下是京东账号1 zuojiaotuo 2人赛跑信息===
+2021/02/25 10:15:02:353  <console>    [JS Console]: 赛跑状态：not_participate
+2021/02/25 10:15:02:356  <console>    [JS Console]: 暂未参赛，现在为您参加2人赛跑
+2021/02/25 10:15:02:359  <console>    [JS Console]: 正在参赛中，请稍等5秒，以防多个账号匹配到统一赛场
+2021/02/25 10:15:02:569  <console>    [JS Console]: helpStatus invite_full
+2021/02/25 10:15:02:572  <console>    [JS Console]: 助力失败，该好友 jd_6cd93e613b0e5 已经满3人给他助力了,无需您再次助力
+2021/02/25 10:15:02:575  <console>    [JS Console]: 
+账号1 [zuojiaotuo] 开始给好友 [被折叠的记忆33] 进行邀请助力
+2021/02/25 10:15:03:226  <console>    [JS Console]: helpStatus invite_full
+2021/02/25 10:15:03:230  <console>    [JS Console]: 助力失败，该好友 被折叠的记忆33 已经满3人给他助力了,无需您再次助力
+2021/02/25 10:15:03:232  <console>    [JS Console]: 
+账号1 [zuojiaotuo] 开始给好友 [jd_704a2e5e28a66] 进行邀请助力
+2021/02/25 10:15:03:944  <console>    [JS Console]: helpStatus invite_full
+2021/02/25 10:15:03:947  <console>    [JS Console]: 助力失败，该好友 jd_704a2e5e28a66 已经满3人给他助力了,无需您再次助力
+2021/02/25 10:15:03:950  <console>    [JS Console]: 
+账号1 [zuojiaotuo] 开始给好友 [jd_45a6b5953b15b] 进行邀请助力
+2021/02/25 10:15:04:649  <console>    [JS Console]: helpStatus invite_full
+2021/02/25 10:15:04:652  <console>    [JS Console]: 助力失败，该好友 jd_45a6b5953b15b 已经满3人给他助力了,无需您再次助力
+2021/02/25 10:15:04:655  <console>    [JS Console]: 
+账号1 [zuojiaotuo] 开始给好友 [zooooo58] 进行邀请助力
+2021/02/25 10:15:04:796  <console>    [JS Console]: helpStatus invite_full
+2021/02/25 10:15:04:807  <console>    [JS Console]: 助力失败，该好友 zooooo58 已经满3人给他助力了,无需您再次助力
+2021/02/25 10:15:04:812  <console>    [JS Console]: 
+账号1 [zuojiaotuo] 开始给好友 [jd_66f5cecc1efcd] 进行邀请助力
+2021/02/25 10:15:04:954  <console>    [JS Console]: helpStatus invite_full
+2021/02/25 10:15:04:957  <console>    [JS Console]: 助力失败，该好友 jd_66f5cecc1efcd 已经满3人给他助力了,无需您再次助力
+2021/02/25 10:15:04:960  <console>    [JS Console]: 
+账号1 [zuojiaotuo] 开始给好友 [jd_41345a6f96aa5] 进行邀请助力
+2021/02/25 10:15:05:139  <console>    [JS Console]: helpStatus invite_full
+2021/02/25 10:15:05:144  <console>    [JS Console]: 助力失败，该好友 jd_41345a6f96aa5 已经满3人给他助力了,无需您再次助力
+2021/02/25 10:15:05:147  <console>    [JS Console]: 
+账号1 [zuojiaotuo] 开始给好友 [jd_sIhNpDXJehOr] 进行邀请助力
+2021/02/25 10:15:05:303  <console>    [JS Console]: helpStatus invite_full
+2021/02/25 10:15:05:306  <console>    [JS Console]: 助力失败，该好友 jd_sIhNpDXJehOr 已经满3人给他助力了,无需您再次助力
+2021/02/25 10:15:05:310  <console>    [JS Console]: 
+账号1 [zuojiaotuo] 开始给好友 [jd_mCbhXxmqzYJC] 进行邀请助力
+2021/02/25 10:15:05:460  <console>    [JS Console]: helpStatus invite_full
+2021/02/25 10:15:05:463  <console>    [JS Console]: 助力失败，该好友 jd_mCbhXxmqzYJC 已经满3人给他助力了,无需您再次助力
+2021/02/25 10:15:05:467  <console>    [JS Console]: 
+账号1 [zuojiaotuo] 开始给好友 [wddpzLSxORvLGo] 进行邀请助力
+2021/02/25 10:15:05:653  <console>    [JS Console]: helpStatus invite_full
+2021/02/25 10:15:05:656  <console>    [JS Console]: 助力失败，该好友 wddpzLSxORvLGo 已经满3人给他助力了,无需您再次助力
+2021/02/25 10:15:05:659  <console>    [JS Console]: 
+账号1 [zuojiaotuo] 开始给好友 [jd_7bb2be8dbd65c] 进行邀请助力
+2021/02/25 10:15:05:883  <console>    [JS Console]: helpStatus invite_full
+2021/02/25 10:15:05:896  <console>    [JS Console]: 助力失败，该好友 jd_7bb2be8dbd65c 已经满3人给他助力了,无需您再次助力
+2021/02/25 10:15:05:899  <console>    [JS Console]: 
+账号1 [zuojiaotuo] 开始给好友 [jszjmwjd] 进行邀请助力
+2021/02/25 10:15:06:062  <console>    [JS Console]: helpStatus can_help
+2021/02/25 10:15:06:066  <console>    [JS Console]: 开始给好友 jszjmwjd 助力
+2021/02/25 10:15:06:176  <console>    [JS Console]: 邀请助力结果：{"errorCode":"help_ok","errorMessage":null,"currentTime":1614219306110,"data":4955,"success":true}
+2021/02/25 10:15:06:181  <console>    [JS Console]: 
+账号1 [zuojiaotuo] 开始给好友 [jd_49813c650cd1a] 进行邀请助力
+2021/02/25 10:15:06:344  <console>    [JS Console]: helpStatus can_help
+2021/02/25 10:15:06:347  <console>    [JS Console]: 开始给好友 jd_49813c650cd1a 助力
+2021/02/25 10:15:06:466  <console>    [JS Console]: 邀请助力结果：{"errorCode":"help_ok","errorMessage":null,"currentTime":1614219306404,"data":4985,"success":true}
+2021/02/25 10:15:06:470  <console>    [JS Console]: 
+账号1 [zuojiaotuo] 开始给好友 [jd_BsgYEMRRfhRj] 进行邀请助力
+2021/02/25 10:15:06:654  <console>    [JS Console]: helpStatus can_help
+2021/02/25 10:15:06:658  <console>    [JS Console]: 开始给好友 jd_BsgYEMRRfhRj 助力
+2021/02/25 10:15:06:774  <console>    [JS Console]: 邀请助力结果：{"errorCode":"help_ok","errorMessage":null,"currentTime":1614219306704,"data":5015,"success":true}
+2021/02/25 10:15:06:780  <console>    [JS Console]: 
+账号1 [zuojiaotuo] 开始给好友 [13517408-84718902] 进行邀请助力
+2021/02/25 10:15:06:954  <console>    [JS Console]: helpStatus help_full
+2021/02/25 10:15:06:957  <console>    [JS Console]: 您的邀请助力机会已耗尽
+2021/02/25 10:15:06:961  <console>    [JS Console]: ===========【开始助力好友赛跑】===========
+2021/02/25 10:15:06:965  <console>    [JS Console]: 账号1 [zuojiaotuo] 给下面名单的人进行赛跑助力
+jd_6cd93e613b0e5,被折叠的记忆33,jd_41345a6f96aa5,jd_66f5cecc1efcd,jd_7bb2be8dbd65c,jd_704a2e5e28a66
+2021/02/25 10:15:06:968  <console>    [JS Console]: 
+账号1 [zuojiaotuo] 开始给好友 [jd_6cd93e613b0e5] 进行赛跑助力
+2021/02/25 10:15:07:073  <console>    [JS Console]: petRaceResult can_help
+2021/02/25 10:15:07:077  <console>    [JS Console]: 开始赛跑助力好友 jd_6cd93e613b0e5
+2021/02/25 10:15:07:256  <console>    [JS Console]: 赛跑助力结果{"errorCode":"help_ok","errorMessage":null,"currentTime":1614219307135,"data":{"rewardNum":5,"helpStatus":"help_ok","newUser":false},"success":true}
+2021/02/25 10:15:07:260  <console>    [JS Console]: 助力jd_6cd93e613b0e5成功
+获得狗粮5g
+2021/02/25 10:15:07:265  <console>    [JS Console]: 
+账号1 [zuojiaotuo] 开始给好友 [被折叠的记忆33] 进行赛跑助力
+2021/02/25 10:15:07:376  <console>    [JS Console]: petRaceResult can_help
+2021/02/25 10:15:07:380  <console>    [JS Console]: 开始赛跑助力好友 被折叠的记忆33
+2021/02/25 10:15:07:489  <console>    [JS Console]: 赛跑助力结果{"errorCode":"help_ok","errorMessage":null,"currentTime":1614219307424,"data":{"rewardNum":5,"helpStatus":"help_ok","newUser":false},"success":true}
+2021/02/25 10:15:07:494  <console>    [JS Console]: 助力被折叠的记忆33成功
+获得狗粮5g
+2021/02/25 10:15:07:498  <console>    [JS Console]: 
+账号1 [zuojiaotuo] 开始给好友 [jd_41345a6f96aa5] 进行赛跑助力
+2021/02/25 10:15:07:589  <console>    [JS Console]: 2人赛跑参加成功
+2021/02/25 10:15:07:693  <console>    [JS Console]: 双人赛跑助力请自己手动去邀请好友，脚本不带赛跑助力功能
+2021/02/25 10:15:07:700  <console>    [JS Console]: 
+现有积分: 4925
+现有狗粮: 1204
+喂养次数: 2
+宠物等级: 7
+2人赛跑：成功参加
+
+2021/02/25 10:15:07:705  <console>    [JS Console]: 
+🔔宠汪汪, 结束! 🕛 7.57 秒
+2021/02/25 10:15:07:709  <console>    [JS Console]: 
+2021/02/25 10:15:07:824  <console>    [JS Console]: petRaceResult can_help
+2021/02/25 10:15:07:827  <console>    [JS Console]: 开始赛跑助力好友 jd_41345a6f96aa5
+2021/02/25 10:15:07:933  <console>    [JS Console]: 赛跑助力结果{"errorCode":"help_ok","errorMessage":null,"currentTime":1614219307868,"data":{"rewardNum":5,"helpStatus":"help_ok","newUser":false},"success":true}
+2021/02/25 10:15:07:936  <console>    [JS Console]: 助力jd_41345a6f96aa5成功
+获得狗粮5g
+2021/02/25 10:15:07:940  <console>    [JS Console]: 
+账号1 [zuojiaotuo] 开始给好友 [jd_66f5cecc1efcd] 进行赛跑助力
+2021/02/25 10:15:08:043  <console>    [JS Console]: petRaceResult can_help
+2021/02/25 10:15:08:047  <console>    [JS Console]: 开始赛跑助力好友 jd_66f5cecc1efcd
+2021/02/25 10:15:08:157  <console>    [JS Console]: 赛跑助力结果{"errorCode":"help_ok","errorMessage":null,"currentTime":1614219308091,"data":{"rewardNum":5,"helpStatus":"help_ok","newUser":false},"success":true}
+2021/02/25 10:15:08:161  <console>    [JS Console]: 助力jd_66f5cecc1efcd成功
+获得狗粮5g
+2021/02/25 10:15:08:165  <console>    [JS Console]: 
+账号1 [zuojiaotuo] 开始给好友 [jd_7bb2be8dbd65c] 进行赛跑助力
+2021/02/25 10:15:08:265  <console>    [JS Console]: petRaceResult can_help
+2021/02/25 10:15:08:268  <console>    [JS Console]: 开始赛跑助力好友 jd_7bb2be8dbd65c
+2021/02/25 10:15:08:393  <console>    [JS Console]: 赛跑助力结果{"errorCode":"help_ok","errorMessage":null,"currentTime":1614219308328,"data":{"rewardNum":5,"helpStatus":"help_ok","newUser":false},"success":true}
+2021/02/25 10:15:08:397  <console>    [JS Console]: 助力jd_7bb2be8dbd65c成功
+获得狗粮5g
+2021/02/25 10:15:08:401  <console>    [JS Console]: 
+账号1 [zuojiaotuo] 开始给好友 [jd_704a2e5e28a66] 进行赛跑助力
+2021/02/25 10:15:08:497  <console>    [JS Console]: petRaceResult can_help
+2021/02/25 10:15:08:500  <console>    [JS Console]: 开始赛跑助力好友 jd_704a2e5e28a66
+2021/02/25 10:15:08:649  <console>    [JS Console]: 赛跑助力结果{"errorCode":"help_ok","errorMessage":null,"currentTime":1614219308576,"data":{"rewardNum":5,"helpStatus":"help_ok","newUser":false},"success":true}
+2021/02/25 10:15:08:653  <console>    [JS Console]: 助力jd_704a2e5e28a66成功
+获得狗粮5g
+2021/02/25 10:15:08:660  <console>    [JS Console]: 
+==============📣系统通知📣==============
+宠汪汪赛跑
+京东账号1 zuojiaotuo
+给3人邀请助力成功,获得90积分
+给6人赛跑助力成功,获得狗粮30g
+2021/02/25 10:15:08:664  <console>    [JS Console]: 
+🔔宠汪汪赛跑, 结束! 🕛 8.527 秒
+2021/02/25 10:15:08:668  <console>    [JS Console]: 
+2021/02/25 10:50:10:865  <console>    [JS Console]: 
+爱奇艺-与本机储存Cookie相同, 跳过写入 ⚠️
+2021/02/25 11:00:00:389  <console>    [QTXTaskManager] Fire task<中国联通> https://raw.githubusercontent.com/chavyleung/scripts/master/10010/10010.js.
+2021/02/25 11:00:00:503  <console>    [JS Console]: 🔔 中国联通
+2021/02/25 11:00:00:507  <console>    [JS Console]: [object Object]
+2021/02/25 11:00:01:023  <console>    [JS Console]: ❌ 中国联通 签到失败: TypeError: undefined is not an object (evaluating 'VAL_signurl.endsWith')
+2021/02/25 11:01:00:407  <console>    [QTXTaskManager] Fire task<种豆得豆> https://jdsharedresourcescdn.azureedge.net/jdresource/jd_plantBean.js.
+2021/02/25 11:01:00:506  <console>    [JS Console]: 
+🔔京东种豆得豆, 开始!
+2021/02/25 11:01:00:511  <console>    [JS Console]: 开始获取种豆得豆配置文件
+2021/02/25 11:01:00:524  <console>    [JS Console]: 共1个京东账号
+2021/02/25 11:01:00:531  <console>    [JS Console]: 您提供了0个账号的种豆得豆助力码
+2021/02/25 11:01:00:974  <console>    [JS Console]: 
+开始【京东账号1】zuojiaotuo
+2021/02/25 11:01:00:978  <console>    [JS Console]: 由于您第1个京东账号未提供shareCode,将采纳本脚本自带的助力码
+2021/02/25 11:01:20:144  <console>    [JS Console]: {"error":"Read operation timed out"}
+2021/02/25 11:01:20:148  <console>    [JS Console]: 京东种豆得豆 API请求失败，请检查网路重试
+2021/02/25 11:01:20:152  <console>    [JS Console]: 第1个京东账号将要助力的好友["66j4yt3ebl5ierjljoszp7e4izzbzaqhi5k2unz2afwlyqsgnasq","olmijoxgmjutyrsovl2xalt2tbtfmg6sqldcb3q","e7lhibzb3zek27amgsvywffxx7hxgtzstrk2lba","e7lhibzb3zek32e72n4xesxmgc2m76eju62zk3y","l4ex6vx6yynovp6l5zmgzx4nssii54ewecu36gi","l4ex6vx6yynovp6l5zmgzx4nssii54ewecu36gi"]
+2021/02/25 11:01:20:156  <console>    [JS Console]: 获取任务及基本信息
+2021/02/25 11:01:22:595  <console>    [JS Console]: 
+【京东账号1（zuojiaotuo）的京东种豆得豆好友互助码】exgbpdshta7w5ickpheh5x7c6i
+2021/02/25 11:01:24:996  <console>    [JS Console]: 开始助力京东账号1 - zuojiaotuo的好友: 66j4yt3ebl5ierjljoszp7e4izzbzaqhi5k2unz2afwlyqsgnasq
+2021/02/25 11:01:24:999  <console>    [JS Console]: 
+开始助力好友: 66j4yt3ebl5ierjljoszp7e4izzbzaqhi5k2unz2afwlyqsgnasq
+2021/02/25 11:01:27:147  <console>    [JS Console]: 助力结果的code:0
+2021/02/25 11:01:27:151  <console>    [JS Console]: 开始助力京东账号1 - zuojiaotuo的好友: olmijoxgmjutyrsovl2xalt2tbtfmg6sqldcb3q
+2021/02/25 11:01:27:154  <console>    [JS Console]: 
+开始助力好友: olmijoxgmjutyrsovl2xalt2tbtfmg6sqldcb3q
+2021/02/25 11:01:29:333  <console>    [JS Console]: 助力结果的code:0
+2021/02/25 11:01:29:337  <console>    [JS Console]: 开始助力京东账号1 - zuojiaotuo的好友: e7lhibzb3zek27amgsvywffxx7hxgtzstrk2lba
+2021/02/25 11:01:29:340  <console>    [JS Console]: 
+开始助力好友: e7lhibzb3zek27amgsvywffxx7hxgtzstrk2lba
+2021/02/25 11:01:31:499  <console>    [JS Console]: 助力结果的code:0
+2021/02/25 11:01:31:503  <console>    [JS Console]: 开始助力京东账号1 - zuojiaotuo的好友: e7lhibzb3zek32e72n4xesxmgc2m76eju62zk3y
+2021/02/25 11:01:31:506  <console>    [JS Console]: 
+开始助力好友: e7lhibzb3zek32e72n4xesxmgc2m76eju62zk3y
+2021/02/25 11:01:34:073  <console>    [JS Console]: 助力结果的code:0
+2021/02/25 11:01:34:077  <console>    [JS Console]: 开始助力京东账号1 - zuojiaotuo的好友: l4ex6vx6yynovp6l5zmgzx4nssii54ewecu36gi
+2021/02/25 11:01:34:080  <console>    [JS Console]: 
+开始助力好友: l4ex6vx6yynovp6l5zmgzx4nssii54ewecu36gi
+2021/02/25 11:01:36:252  <console>    [JS Console]: 助力结果的code:0
+2021/02/25 11:01:36:256  <console>    [JS Console]: 开始助力京东账号1 - zuojiaotuo的好友: l4ex6vx6yynovp6l5zmgzx4nssii54ewecu36gi
+2021/02/25 11:01:36:259  <console>    [JS Console]: 
+开始助力好友: l4ex6vx6yynovp6l5zmgzx4nssii54ewecu36gi
+2021/02/25 11:01:38:419  <console>    [JS Console]: 助力结果的code:0
+2021/02/25 11:01:38:426  <console>    [JS Console]: 
+【评价商品】任务未完成,需自行手动去京东APP完成，评价商品可得6瓶营养液
+2021/02/25 11:01:38:429  <console>    [JS Console]: 
+【好友助力】任务未完成,邀请好友助力最多可得20瓶营养液
+2021/02/25 11:01:38:432  <console>    [JS Console]: 逛逛会场 任务已完成
+2021/02/25 11:01:38:434  <console>    [JS Console]:  1元抢肉 任务已完成
+2021/02/25 11:01:38:437  <console>    [JS Console]: 浏览店铺 任务已完成
+2021/02/25 11:01:38:439  <console>    [JS Console]: 关注频道 任务已完成
+2021/02/25 11:01:38:442  <console>    [JS Console]: 挑选商品 任务已完成
+2021/02/25 11:01:38:444  <console>    [JS Console]: 每日签到 任务已完成
+2021/02/25 11:01:38:447  <console>    [JS Console]: 金融双签 任务已完成
+2021/02/25 11:01:38:450  <console>    [JS Console]: 免费水果 任务已完成
+2021/02/25 11:01:40:580  <console>    [JS Console]: 暂无扭蛋机会
+2021/02/25 11:01:44:962  <console>    [JS Console]: 开始收取营养液
+2021/02/25 11:01:44:966  <console>    [JS Console]: 【上轮京豆】已领取
+2021/02/25 11:01:47:118  <console>    [JS Console]:      任务   进度
+2021/02/25 11:01:47:122  <console>    [JS Console]: [评价商品]  0/6   0
+2021/02/25 11:01:47:124  <console>    [JS Console]: [好友助力]  0/20   0
+2021/02/25 11:01:47:127  <console>    [JS Console]: [逛逛会场]  1/1   1
+2021/02/25 11:01:47:129  <console>    [JS Console]: [ 1元抢肉]  1/1   1
+2021/02/25 11:01:47:132  <console>    [JS Console]: [浏览店铺]  4/4   1
+2021/02/25 11:01:47:135  <console>    [JS Console]: [关注频道]  3/3   1
+2021/02/25 11:01:47:137  <console>    [JS Console]: [挑选商品]  6/6   1
+2021/02/25 11:01:47:140  <console>    [JS Console]: [每日签到]  1/1   1
+2021/02/25 11:01:47:142  <console>    [JS Console]: [金融双签]  1/1   1
+2021/02/25 11:01:47:145  <console>    [JS Console]: [免费水果]  1/1   1
+2021/02/25 11:01:49:266  <console>    [JS Console]: 
+【上期时间】2月15日-2月21日
+【上期成长值】191
+【上期兑换京豆】76个
+【本期时间】2月22日-2月28日
+【本期成长值】113
+【助力您的好友】共0人
+2021/02/25 11:01:49:273  <console>    [JS Console]: 
+🔔京东种豆得豆, 结束! 🕛 48.772 秒
+2021/02/25 11:01:49:276  <console>    [JS Console]: 
+2021/02/25 11:09:07:763  <console>    [JS Console]: [INFO] [滴滴出行]
+新的Token：
+RpX9HoxISl_svAQcniP-uWD2wEEgs4ab4xlrEURR-ZgkzDkOwkAMQNG7_NqK7FmcGbf03IElLM0ggagi7o4C9f96K0MJ8qSTIgwjTBiJMFVVYWTC5tpTU82ac91yIcyT9aKtujAqwW6PcCBAOBKpWZlLb5rcairCmXBhIVZej_fztBD6ES4bZcW8_KgrgTWv5qlXbwi3P3nf9m8AAAD__w%3D%3D，旧的Token：
+RpX9HoxISl_svAQcniP-uWD2wEEgs4ab4xlrEURR-ZgkzDkOwkAMQNG7_NqK7FmcGbf03IElLM0ggagi7o4C9f96K0MJ8qSTIgwjTBiJMFVVYWTC5tpTU82ac91yIcyT9aKtujAqwW6PcCBAOBKpWZlLb5rcairCmXBhIVZej_fztBD6ES4bZcW8_KgrgTWv5qlXbwi3P3nf9m8AAAD__w%3D%3D，滴滴出行Token没有变化，无需更新。
+2021/02/25 11:09:09:030  <console>    [JS Console]: [INFO] [滴滴出行]
+新的Token：
+RpX9HoxISl_svAQcniP-uWD2wEEgs4ab4xlrEURR-ZgkzDkOwkAMQNG7_NqK7FmcGbf03IElLM0ggagi7o4C9f96K0MJ8qSTIgwjTBiJMFVVYWTC5tpTU82ac91yIcyT9aKtujAqwW6PcCBAOBKpWZlLb5rcairCmXBhIVZej_fztBD6ES4bZcW8_KgrgTWv5qlXbwi3P3nf9m8AAAD__w%3D%3D，旧的Token：
+RpX9HoxISl_svAQcniP-uWD2wEEgs4ab4xlrEURR-ZgkzDkOwkAMQNG7_NqK7FmcGbf03IElLM0ggagi7o4C9f96K0MJ8qSTIgwjTBiJMFVVYWTC5tpTU82ac91yIcyT9aKtujAqwW6PcCBAOBKpWZlLb5rcairCmXBhIVZej_fztBD6ES4bZcW8_KgrgTWv5qlXbwi3P3nf9m8AAAD__w%3D%3D，滴滴出行Token没有变化，无需更新。
+2021/02/25 11:09:13:467  <console>    [JS Console]: [INFO] [滴滴出行]
+新的Token：
+RpX9HoxISl_svAQcniP-uWD2wEEgs4ab4xlrEURR-ZgkzDkOwkAMQNG7_NqK7FmcGbf03IElLM0ggagi7o4C9f96K0MJ8qSTIgwjTBiJMFVVYWTC5tpTU82ac91yIcyT9aKtujAqwW6PcCBAOBKpWZlLb5rcairCmXBhIVZej_fztBD6ES4bZcW8_KgrgTWv5qlXbwi3P3nf9m8AAAD__w%3D%3D，旧的Token：
+RpX9HoxISl_svAQcniP-uWD2wEEgs4ab4xlrEURR-ZgkzDkOwkAMQNG7_NqK7FmcGbf03IElLM0ggagi7o4C9f96K0MJ8qSTIgwjTBiJMFVVYWTC5tpTU82ac91yIcyT9aKtujAqwW6PcCBAOBKpWZlLb5rcairCmXBhIVZej_fztBD6ES4bZcW8_KgrgTWv5qlXbwi3P3nf9m8AAAD__w%3D%3D，滴滴出行Token没有变化，无需更新。
+2021/02/25 11:09:13:995  <console>    [JS Console]: [INFO] [滴滴出行]
+新的Token：
+RpX9HoxISl_svAQcniP-uWD2wEEgs4ab4xlrEURR-ZgkzDkOwkAMQNG7_NqK7FmcGbf03IElLM0ggagi7o4C9f96K0MJ8qSTIgwjTBiJMFVVYWTC5tpTU82ac91yIcyT9aKtujAqwW6PcCBAOBKpWZlLb5rcairCmXBhIVZej_fztBD6ES4bZcW8_KgrgTWv5qlXbwi3P3nf9m8AAAD__w%3D%3D，旧的Token：
+RpX9HoxISl_svAQcniP-uWD2wEEgs4ab4xlrEURR-ZgkzDkOwkAMQNG7_NqK7FmcGbf03IElLM0ggagi7o4C9f96K0MJ8qSTIgwjTBiJMFVVYWTC5tpTU82ac91yIcyT9aKtujAqwW6PcCBAOBKpWZlLb5rcairCmXBhIVZej_fztBD6ES4bZcW8_KgrgTWv5qlXbwi3P3nf9m8AAAD__w%3D%3D，滴滴出行Token没有变化，无需更新。
+2021/02/25 11:10:00:279  <console>    [QTXTaskManager] Fire task<东东工厂> https://jdsharedresourcescdn.azureedge.net/jdresource/jd_jdfactory.js.
+2021/02/25 11:10:00:294  <console>    [QTXTaskManager] Fire task<京喜工厂> https://jdsharedresourcescdn.azureedge.net/jdresource/jd_dreamFactory.js.
+2021/02/25 11:10:00:306  <console>    [QTXTaskManager] Fire task<天天提鹅> https://jdsharedresourcescdn.azureedge.net/jdresource/jd_daily_egg.js.
+2021/02/25 11:10:00:388  <console>    [JS Console]: 
+🔔东东工厂, 开始!
+2021/02/25 11:10:00:392  <console>    [JS Console]: 
+🔔天天提鹅, 开始!
+2021/02/25 11:10:00:405  <console>    [JS Console]: 
+🔔京喜工厂, 开始!
+2021/02/25 11:10:00:408  <console>    [JS Console]: 开始获取东东工厂配置文件
+2021/02/25 11:10:00:412  <console>    [JS Console]: 共1个京东账号
+2021/02/25 11:10:00:417  <console>    [JS Console]: 您提供了0个账号的东东工厂助力码
+2021/02/25 11:10:00:698  <console>    [JS Console]: SyntaxError: JSON Parse error: Unrecognized token '<'
+2021/02/25 11:10:00:702  <console>    [JS Console]: 京东服务器访问数据为空，请检查自身设备网络情况
+2021/02/25 11:10:00:705  <console>    [JS Console]: 开始获取京喜工厂配置文件
+2021/02/25 11:10:00:708  <console>    [JS Console]: tuanActiveId: 6S9y4sJUfA2vPQP6TLdVIQ==
+2021/02/25 11:10:00:710  <console>    [JS Console]: 共1个京东账号
+2021/02/25 11:10:00:716  <console>    [JS Console]: 
+BoxJs设置的京喜工厂邀请码:undefined
+2021/02/25 11:10:00:719  <console>    [JS Console]: 您提供了0个账号的京喜工厂助力码
+2021/02/25 11:10:00:814  <console>    [JS Console]: 
+***********开始【京东账号1】zuojiaotuo********
+2021/02/25 11:10:00:827  <console>    [JS Console]: 
+******开始【京东账号1】zuojiaotuo*********
+2021/02/25 11:10:00:832  <console>    [JS Console]: 由于您第1个京东账号未提供shareCode,将采纳本脚本自带的助力码
+2021/02/25 11:10:00:836  <console>    [JS Console]: 开始
+2021/02/25 11:10:01:069  <console>    [JS Console]: 
+******开始【京东账号1】zuojiaotuo*********
+2021/02/25 11:10:01:085  <console>    [JS Console]: st:_time:1614222601077&materialTuanId:&materialTuanPin:&pin:&sharePin:&shareType:&source:&zone:dream_factory
+2021/02/25 11:10:01:377  <console>    [JS Console]: 收取鹅蛋失败:活动太火爆，请稍后尝试
+2021/02/25 11:10:01:516  <console>    [JS Console]: 再加3.53%电力可开红包
+2021/02/25 11:10:01:519  <console>    [JS Console]: 兑换金币失败:活动太火爆，请稍后尝试
+2021/02/25 11:10:01:521  <console>    [JS Console]: 当前电力：63
+2021/02/25 11:10:01:523  <console>    [JS Console]: 
+🔔天天提鹅, 结束! 🕛 1.133 秒
+2021/02/25 11:10:01:525  <console>    [JS Console]: 当前等级：2
+2021/02/25 11:10:01:527  <console>    [JS Console]: 
+2021/02/25 11:10:01:529  <console>    [JS Console]: 
+【京东账号1（zuojiaotuo）的京喜工厂好友互助码】MNU1o08zJOSUaOULm8-Hxg==
+2021/02/25 11:10:01:537  <console>    [JS Console]: 已投入电力：205900
+2021/02/25 11:10:01:541  <console>    [JS Console]: 所需电力：550000
+2021/02/25 11:10:01:544  <console>    [JS Console]: 生产进度：37.44%
+2021/02/25 11:10:01:647  <console>    [JS Console]: 【今日招工进度】0/8
+2021/02/25 11:10:01:808  <console>    [JS Console]: SyntaxError: JSON Parse error: Unrecognized token '<'
+2021/02/25 11:10:01:811  <console>    [JS Console]: 京东服务器访问数据为空，请检查自身设备网络情况
+2021/02/25 11:10:01:816  <console>    [JS Console]: 由于您第1个京东账号未提供shareCode,将采纳本脚本自带的助力码
+2021/02/25 11:10:01:819  <console>    [JS Console]: 开始
+2021/02/25 11:10:05:946  <console>    [JS Console]: {"error":"Read operation timed out"}
+2021/02/25 11:10:05:950  <console>    [JS Console]: 东东工厂 API请求失败，请检查网路重试
+2021/02/25 11:10:05:954  <console>    [JS Console]: 第1个京东账号将要助力的好友["P04z54XCjVWnYaS5u2ak7ZCdan1Bdd2GGiWvC6_uERj"]
+2021/02/25 11:10:06:927  <console>    [JS Console]: {"error":"Read operation timed out"}
+2021/02/25 11:10:06:932  <console>    [JS Console]: 京喜工厂 API请求失败，请检查网路重试
+2021/02/25 11:10:06:935  <console>    [JS Console]: 第1个京东账号将要助力的好友["V5LkjP4WRyjeCKR9VRwcRX0bBuTz7MEK0-E99EJ7u0k=","0WtCMPNq7jekehT6d3AbFw=="]
+2021/02/25 11:10:07:061  <console>    [JS Console]: 助力朋友[V5LkjP4WRyjeCKR9VRwcRX0bBuTz7MEK0-E99EJ7u0k=]失败：亲,活动太火爆了,请稍后再试吧!
+2021/02/25 11:10:07:135  <console>    [JS Console]: {"code":0,"data":{"bizCode":-9,"bizMsg":"助力失败丨助力已满员！谢谢你哦~","success":false},"msg":"调用成功"}
+2021/02/25 11:10:07:163  <console>    [JS Console]: 助力朋友[0WtCMPNq7jekehT6d3AbFw==]失败：亲,好友的工厂的工人已经满员了,不能去好友工厂打工啦!
+2021/02/25 11:10:07:221  <console>    [JS Console]: 成功收集359电量，当前蓄电池总电量：345183
+2021/02/25 11:10:07:270  <console>    [JS Console]: 
+nextCollectDoubleFlag::0
+2021/02/25 11:10:07:274  <console>    [JS Console]: nextCollectDoubleType::0
+2021/02/25 11:10:07:277  <console>    [JS Console]: 下次集满收取不可双倍电力
+2021/02/25 11:10:07:279  <console>    [JS Console]: 发电机：当前 330 电力，最大值 330 电力
+2021/02/25 11:10:07:342  <console>    [JS Console]: 
+【京东账号1（zuojiaotuo）的东东工厂好友互助码】T0149LgsGkdIqhCSfwCjVWnYaS5kRrbA
+2021/02/25 11:10:07:347  <console>    [JS Console]: 每日开工打卡已完成
+2021/02/25 11:10:07:350  <console>    [JS Console]: 准备做此任务：好友助力
+2021/02/25 11:10:07:353  <console>    [JS Console]: 去京东首页点击“数码电器”已完成
+2021/02/25 11:10:07:355  <console>    [JS Console]: 逛会场/互动游戏已做完
+2021/02/25 11:10:07:358  <console>    [JS Console]: 看看商品已做完
+2021/02/25 11:10:07:360  <console>    [JS Console]: 关注店铺已做完
+2021/02/25 11:10:07:363  <console>    [JS Console]: 此任务：开通趣猫品牌会员，跳过
+2021/02/25 11:10:07:365  <console>    [JS Console]: 每日10-13点巡厂已完成
+2021/02/25 11:10:07:401  <console>    [JS Console]: 收取 330 电力
+2021/02/25 11:10:07:459  <console>    [JS Console]: 
+已选商品：极米H3智能家庭影院
+2021/02/25 11:10:07:463  <console>    [JS Console]: 当前已投入电量/所需电量：0/8888888
+2021/02/25 11:10:07:466  <console>    [JS Console]: 已选商品剩余量：12
+2021/02/25 11:10:07:469  <console>    [JS Console]: 当前总电量：345183
+2021/02/25 11:10:07:471  <console>    [JS Console]: 当前完成度：4%
+2021/02/25 11:10:07:474  <console>    [JS Console]: BoxJs或环境变量暂未提供心仪商品
+如需兑换心仪商品，请提供心仪商品名称，否则满足条件后会为您兑换当前所选商品：极米H3智能家庭影院
+2021/02/25 11:10:07:477  <console>    [JS Console]: 
+所选商品极米H3智能家庭影院目前数量：12，且当前总电量为：345183，【不满足】兑换此商品所需总电量：8888888
+2021/02/25 11:10:07:480  <console>    [JS Console]: 故不一次性投入电力，一直放到蓄电池累计
+2021/02/25 11:10:07:484  <console>    [JS Console]: 京东账号1zuojiaotuo
+京东账号1 zuojiaotuo
+已选商品：极米H3智能家庭影院
+当前已投入电量/所需电量：0/8888888
+已选商品剩余量：12
+当前总电量：345183
+当前完成度：4%
+2021/02/25 11:10:07:489  <console>    [JS Console]: 
+🔔东东工厂, 结束! 🕛 7.102 秒
+2021/02/25 11:10:07:492  <console>    [JS Console]: 
+2021/02/25 11:10:07:541  <console>    [JS Console]: 任务：每日11-14点巡厂检查可完成
+2021/02/25 11:10:07:670  <console>    [JS Console]: 领取每日11-14点巡厂检查任务奖励成功，收获：1000电力
+2021/02/25 11:10:08:682  <console>    [JS Console]: 完成任务：共领取1330电力
+2021/02/25 11:10:08:831  <console>    [JS Console]: 成功投入电力1300电力
+2021/02/25 11:10:10:722  <console>    [JS Console]: 收取自家零件成功:获得8电力
+2021/02/25 11:10:11:573  <console>    [JS Console]: [INFO] [滴滴出行]
+新的Token：
+RpX9HoxISl_svAQcniP-uWD2wEEgs4ab4xlrEURR-ZgkzDkOwkAMQNG7_NqK7FmcGbf03IElLM0ggagi7o4C9f96K0MJ8qSTIgwjTBiJMFVVYWTC5tpTU82ac91yIcyT9aKtujAqwW6PcCBAOBKpWZlLb5rcairCmXBhIVZej_fztBD6ES4bZcW8_KgrgTWv5qlXbwi3P3nf9m8AAAD__w%3D%3D，旧的Token：
+RpX9HoxISl_svAQcniP-uWD2wEEgs4ab4xlrEURR-ZgkzDkOwkAMQNG7_NqK7FmcGbf03IElLM0ggagi7o4C9f96K0MJ8qSTIgwjTBiJMFVVYWTC5tpTU82ac91yIcyT9aKtujAqwW6PcCBAOBKpWZlLb5rcairCmXBhIVZej_fztBD6ES4bZcW8_KgrgTWv5qlXbwi3P3nf9m8AAAD__w%3D%3D，滴滴出行Token没有变化，无需更新。
+2021/02/25 11:10:11:838  <console>    [JS Console]: 收取自家零件成功:获得10电力
+2021/02/25 11:10:12:253  <console>    [JS Console]: [INFO] [滴滴出行]
+新的Token：
+RpX9HoxISl_svAQcniP-uWD2wEEgs4ab4xlrEURR-ZgkzDkOwkAMQNG7_NqK7FmcGbf03IElLM0ggagi7o4C9f96K0MJ8qSTIgwjTBiJMFVVYWTC5tpTU82ac91yIcyT9aKtujAqwW6PcCBAOBKpWZlLb5rcairCmXBhIVZej_fztBD6ES4bZcW8_KgrgTWv5qlXbwi3P3nf9m8AAAD__w%3D%3D，旧的Token：
+RpX9HoxISl_svAQcniP-uWD2wEEgs4ab4xlrEURR-ZgkzDkOwkAMQNG7_NqK7FmcGbf03IElLM0ggagi7o4C9f96K0MJ8qSTIgwjTBiJMFVVYWTC5tpTU82ac91yIcyT9aKtujAqwW6PcCBAOBKpWZlLb5rcairCmXBhIVZej_fztBD6ES4bZcW8_KgrgTWv5qlXbwi3P3nf9m8AAAD__w%3D%3D，滴滴出行Token没有变化，无需更新。
+2021/02/25 11:10:12:987  <console>    [JS Console]: 收取自家零件成功:获得8电力
+2021/02/25 11:10:14:145  <console>    [JS Console]: 收取自家零件成功:获得4电力
+2021/02/25 11:10:15:348  <console>    [JS Console]: 收取自家零件成功:获得2电力
+2021/02/25 11:10:16:133  <console>    [JS Console]: 好友【bxCmRhdPvDDh8X72ZbyNcA==】地下暂无零件可收
+2021/02/25 11:10:16:800  <console>    [JS Console]: 好友【ConR1bHIbgyz2WsHpVj34A==】地下暂无零件可收
+2021/02/25 11:10:18:600  <console>    [JS Console]: 收取好友[cyCIY1_APsSKHJ2JIgf0zg==]零件成功:获得5电力
+2021/02/25 11:10:18:715  <console>    [JS Console]: 
+团活动ID  6S9y4sJUfA2vPQP6TLdVIQ==
+2021/02/25 11:10:18:718  <console>    [JS Console]: 团ID  
+2021/02/25 11:10:18:722  <console>    [JS Console]: 今日剩余开团次数：3次
+2021/02/25 11:10:18:725  <console>    [JS Console]: 准备开团
+2021/02/25 11:10:18:735  <console>    [JS Console]: st:_time:1614222618727&activeId:&isOpenApp:
+2021/02/25 11:10:18:837  <console>    [JS Console]: 异常：{"msg":"活动已结束，请稍后再试~","nowTime":1614222618,"ret":10218}
+2021/02/25 11:10:19:066  <console>    [JS Console]: 
+  商品名     兑换状态
+2021/02/25 11:10:19:071  <console>    [JS Console]: 洁柔厨房纸2卷    已兑换
+2021/02/25 11:10:19:078  <console>    [JS Console]: 
+【京东账号1】zuojiaotuo
+【生产商品】保鲜袋套装
+【当前等级】高级学徒 2
+【生产进度】37.44%
+【招工进度】0/8
+【收取发电站】收取成功，获得 330 电力
+【每日任务】领奖成功，共计 1330 电力
+【投入电力】投入成功，共计 1300 电力
+【收取自己零件】获得32电力
+【收取好友零件】获得5电力
+2021/02/25 11:10:19:083  <console>    [JS Console]: zuojiaotuo去参加第一个cookie账号开的团
+2021/02/25 11:10:19:222  <console>    [JS Console]: 
+🔔京喜工厂, 结束! 🕛 18.818 秒
+2021/02/25 11:10:19:225  <console>    [JS Console]: 
+2021/02/25 11:11:00:277  <console>    [QTXTaskManager] Fire task<东东超市> https://jdsharedresourcescdn.azureedge.net/jdresource/jd_superMarket.js.
+2021/02/25 11:11:00:397  <console>    [JS Console]: 
+🔔东东超市, 开始!
+2021/02/25 11:11:00:408  <console>    [JS Console]: 共1个京东账号
+2021/02/25 11:11:00:792  <console>    [JS Console]: 
+开始【京东账号1】zuojiaotuo
+2021/02/25 11:11:01:142  <console>    [JS Console]: 当前无金币可领
+2021/02/25 11:11:01:260  <console>    [JS Console]: 
+{"code":0,"data":{"bizCode":231,"bizMsg":"战队PK功能暂被关闭","success":false}}
+2021/02/25 11:11:01:356  <console>    [JS Console]: 收取蓝币失败：今日小费已达上限
+2021/02/25 11:11:01:842  <console>    [JS Console]: 
+注意⚠:东东超市抽奖已改版,花费500蓝币抽奖一次,现在脚本默认已关闭抽奖功能
+2021/02/25 11:11:01:850  <console>    [JS Console]: 设置的为不抽奖
+2021/02/25 11:11:01:940  <console>    [JS Console]: [普通货架] 已解锁，当前等级：11级
+2021/02/25 11:11:01:945  <console>    [JS Console]: [冰柜] 未解锁
+2021/02/25 11:11:01:949  <console>    [JS Console]: [水果摊] 未解锁
+2021/02/25 11:11:01:952  <console>    [JS Console]: [酒柜] 未解锁
+2021/02/25 11:11:02:162  <console>    [JS Console]: 
+收取营业额：获得 4392蓝币
+2021/02/25 11:11:02:257  <console>    [JS Console]: 【京东账号1】zuojiaotuo
+【收取小费】今日小费已达上限
+【第4日签到】当日已签到
+【店铺等级】19
+【总蓝币】103400个
+2021/02/25 11:11:02:265  <console>    [JS Console]: 
+🔔东东超市, 结束! 🕛 1.869 秒
+2021/02/25 11:11:02:269  <console>    [JS Console]: 
+2021/02/25 11:12:00:285  <console>    [QTXTaskManager] Fire task<京东金融养猪猪> https://jdsharedresourcescdn.azureedge.net/jdresource/jd_pigPet.js.
+2021/02/25 11:12:00:383  <console>    [JS Console]: 
+🔔金融养猪, 开始!
+2021/02/25 11:12:00:945  <console>    [JS Console]: 
+开始【京东账号1】zuojiaotuo
+2021/02/25 11:12:01:340  <console>    [JS Console]: 
+🔔金融养猪, 结束! 🕛 0.958 秒
+2021/02/25 11:12:01:344  <console>    [JS Console]: 
+2021/02/25 11:15:00:589  <console>    [QTXTaskManager] Fire task<京东宠汪汪喂食> https://jdsharedresourcescdn.azureedge.net/jdresource/jd_joy_feedPets.js.
+2021/02/25 11:15:00:686  <console>    [JS Console]: 
+🔔宠汪汪🐕喂食, 开始!
+2021/02/25 11:15:01:472  <console>    [JS Console]: 
+开始【京东账号1】zuojiaotuo
+2021/02/25 11:15:01:476  <console>    [JS Console]: 您设置的喂食数量::10g
+2021/02/25 11:15:01:479  <console>    [JS Console]: 实际的喂食数量::10g
+2021/02/25 11:15:01:898  <console>    [JS Console]: 喂食失败：正在食用
+2021/02/25 11:15:01:996  <console>    [JS Console]: 
+【喂食失败】您的汪汪正在食用
+
+2021/02/25 11:15:02:002  <console>    [JS Console]: 
+🔔宠汪汪🐕喂食, 结束! 🕛 1.318 秒
+2021/02/25 11:15:02:005  <console>    [JS Console]: 
+2021/02/25 12:00:00:869  <console>    [QTXTaskManager] Fire task<中国联通> https://raw.githubusercontent.com/chavyleung/scripts/master/10010/10010.js.
+2021/02/25 12:00:00:884  <console>    [QTXTaskManager] Fire task<京喜农场> https://jdsharedresourcescdn.azureedge.net/jdresource/jd_jxnc.js.
+2021/02/25 12:00:00:890  <console>    [QTXTaskManager] Fire task<京东国际盲盒> https://jdsharedresourcescdn.azureedge.net/jdresource/jd_global_mh.js.
+2021/02/25 12:00:01:308  <console>    [JS Console]: 
+🔔京东国际盲盒, 开始!
+2021/02/25 12:00:01:311  <console>    [JS Console]: 
+🔔京喜农场, 开始!
+2021/02/25 12:00:01:319  <console>    [JS Console]: 开始获取配置文件
+2021/02/25 12:00:01:329  <console>    [JS Console]: 共2个京东账号
+2021/02/25 12:00:01:341  <console>    [JS Console]: 您提供了0个账号的京喜农场助力码
+2021/02/25 12:00:01:349  <console>    [JS Console]: 
+************* 检查【京东账号1】zuojiaotuo cookie 是否有效 *************
+2021/02/25 12:00:01:352  <console>    [JS Console]: 🔔 中国联通
+2021/02/25 12:00:01:357  <console>    [JS Console]: [object Object]
+2021/02/25 12:00:01:738  <console>    [JS Console]: 开始【京东账号1】zuojiaotuo
+2021/02/25 12:00:01:742  <console>    [JS Console]: 由于您第1个京东账号未提供shareCode,将采纳本脚本自带的助力码
+2021/02/25 12:00:01:749  <console>    [JS Console]: 第1个京东账号将要助力的好友["<!DOCTYPE html>\n<html>\n\n<head>\n  <meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />\n  <title>服务不可用 (503)</title>\n  <link href=\"/static/errors/favicon.ico\" rel=\"shortcut icon\" type=\"image/vnd.microsoft.icon\">\n  <link href=\"/static/errors/stylesheets/static_error.css?1562925143822\" media=\"screen\" rel=\"stylesheet\"\n    type=\"text/css\">\n  <link href=\"/static/errors/stylesheets/iconfont.css\" media=\"screen\" rel=\"stylesheet\" type=\"text/css\">\n</head>\n\n<body class=\"ui_basic application\">\n  <header class=\"common-header fixed noborder floating\" id=\"git-header-nav\">\n    <div class=\"ui container\">\n      <div class=\"ui menu\">\n        <div class=\"item gitosc-logo\"><a href=\"/\"><img class=\"ui inline image\"\n              src=\"/static/errors/images/logo.svg?t=158106664\"></a></div><a href=\"/explore\" class=\"item \"\n          title=\"开源项目\">开源软件</a><a href=\"/enterprises\" class=\"item \" title=\"企业版\">企业版<sup\n            class=\"ui red label\">特惠</sup></a><a href=\"/education\" class=\"item \" title=\"高校版\">高校版</a><a\n          href=\"https://blog.gitee.com\" class=\"item \" title=\"博客\" target=\"_blank\">博客</a>\n        <div class=\"right menu userbar\" id=\"git-nav-user-bar\">\n          <div class=\"item\">\n            <form accept-charset=\"UTF-8\" action=\"/search\" id=\"projects-search-form\" method=\"get\" autocomplete=\"on\">\n              <div class=\"ui icon left mini fluid input\"><input id=\"search_top-search-input\" name=\"q\" placeholder=\"搜索项目\"\n                  type=\"text\"><i class=\"iconfont icon-search\" id=\"projects-search\"></i><input id=\"group_id\"\n                  name=\"group_id\" type=\"hidden\"><input id=\"project_id\" name=\"project_id\" type=\"hidden\"><input id=\"type\"\n                  name=\"type\" type=\"hidden\"></div>\n            </form>\n          </div>\n        </div>\n      </div>\n    </div>\n  </header>\n  <div class=\"container error midCenter\">\n    <div class=\"content\">\n      <center>\n        <div class=\"image-box\"><img src=\"/static/errors/images/503.png\"></div>\n        <h3>欢迎浏览我们的网站，你的IP访问过于频繁？有点小受不住哦。</h3>\n        <p><a href=\"/\">点击这里</a>返回首页</p>\n      </center>\n    </div>\n  </div>\n  <footer id=\"git-footer-main\" style='margin: 0'>\n    <div class=\"ui container footer-content\">\n      <div class=\"ui two column grid\">\n        <div class=\"column\">\n          <p><a href=\"/\" target=\"_blank\">© Gitee.com</a></p>\n          <div class=\"ui two column grid\" id=\"footer-left\">\n            <div class=\"column\">\n              <div class=\"ui link list\">\n                <div class=\"item\"><a href=\"/about_us\" class=\"item\">关于我们</a></div>\n                <div class=\"item\"><a href=\"/terms\" class=\"item\">使用条款</a></div>\n                <div class=\"item\"><a href=\"/oschina/git-osc/issues\" class=\"item\">意见建议</a></div>\n                <div class=\"item\"><a href=\"/links.html\" class=\"item\">合作伙伴</a></div>\n              </div>\n            </div>\n            <div class=\"column\">\n              <div class=\"ui link list\">\n                <div class=\"item\"><a href=\"/all-about-git\" class=\"item\">Git 大全</a></div>\n                <div class=\"item\"><a href=\"https://oschina.gitee.io/learn-git-branching\" class=\"item\">Git 命令学习</a></div>\n                <div class=\"item\"><a href=\"https://copycat.gitee.com\" class=\"item\">代码克隆检测</a></div>\n                <div class=\"item\"><a href=\"/appclient\" class=\"item\">APP与插件下载</a></div>\n              </div>\n            </div>\n            <div class=\"column\">\n              <div class=\"ui link list\">\n                <div class=\"item\"></div>\n                <div class=\"item\"><a href=\"/gitee-stars\" class=\"item\">Gitee 封面人物</a></div>\n                <div class=\"item\"><a href=\"/gvp\" class=\"item\">GVP 项目</a></div>\n                <div class=\"item\"><a href=\"https://blog.gitee.com\" class=\"item\">Gitee 博客</a></div>\n              </div>\n            </div>\n            <div class=\"column\">\n              <div class=\"ui link list\">\n                <div class=\"item\"><a href=\"/api/v5/swagger\" class=\"item\">OpenAPI</a></div>\n                <div class=\"item\"><a href=\"/help\" class=\"item\">帮助文档</a></div>\n                <div class=\"item\"><a href=\"/self_services\" class=\"item\">在线自助服务</a></div>\n                <div class=\"item\"><a href=\"/git-osc\" class=\"item\">更新日志</a></div>\n              </div>\n            </div>\n          </div>\n        </div>\n        <div class=\"column right aligned followus\">\n          <div class=\"qrcode weixin\"><img alt=\"Qrcode-weixin\" src=\"/static/errors/images/qrcode-weixin.jpg\">\n            <p class=\"weixin-text\">微信服务号</p>\n          </div>\n          <div class=\"phone-and-qq column\">\n            <div class=\"ui list official-support-container\">\n              <div class=\"item official-support\"><a\n                  href=\"//shang.qq.com/wpa/qunwpa?idkey=b37511816c39dde9ca9bbb659747d12c473368151952456ccfe533bf07b03887\"\n                  class=\"icon-popup\" title=\"点击加入 Gitee 官方群\"><i\n                    class=\"iconfont icon-logo-qq\"></i><span>官方技术交流QQ群：1050025484</span></a></div>\n              <div class=\"item mail-and-zhihu\"><a href=\"mailto: git","oschina.cn\"><i\n                    class=\"iconfont icon-ic-mail\"></i><span id=\"git-footer-email\">git#oschina.cn</span></a><a\n                  href=\"https://www.zhihu.com/org/ma-yun-osc/\" target=\"_blank\"><i\n                    class=\"iconfont icon-zhihu\"></i><span>Gitee</span></a></div>\n              <div class=\"item\">企业版售前及售后使用咨询：400-606-0201</div>\n            </div>\n          </div>\n        </div>\n      </div>\n    </div>\n    <div class=\"bottombar\">\n      <div class=\"ui container\">\n        <div class=\"ui grid\">\n          <div class=\"five wide column partner\">本站带宽由<a href=\"https://www.anchnet.com/\" target=\"_blank\"\n              title=\"anchnet\"><img alt=\"51idc\" src=\"/static/errors/images/51idc.png\"></a> 提供</div>\n          <div class=\"eleven wide column right aligned\">\n            <div class=\"copyright\"><a href=\"http://beian.miit.gov.cn/\">粤ICP备12009483号-8</a>深圳市奥思网络科技有限公司版权所有</div>\n          </div>\n        </div>\n      </div>\n    </div>\n  </footer>\n  <script src=\"/static/errors/javascripts/jquery.min.js\"></script>\n  <script src=\"/static/errors/javascripts/static_error.js\" type=\"text/javascript\"></script>\n  <script src=\"/static/errors/javascripts/letter_avatar.js\" type=\"text/javascript\"></script>\n  <script>var email = $(\"#git-footer-email\").text(); $(\"#git-footer-email\").text(email.replace(\"#\", \"","\"));</script>\n</body>\n\n</html>"]
+2021/02/25 12:00:01:755  <console>    [JS Console]: 获取用户信息 & 任务列表
+2021/02/25 12:00:01:759  <console>    [JS Console]: 
+******开始【京东账号1】zuojiaotuo*********
+2021/02/25 12:00:01:883  <console>    [JS Console]: 获取任务列表  总共13个任务！
+2021/02/25 12:00:01:887  <console>    [JS Console]: 【京东账号1（zuojiaotuo）的京喜农场好友互助码】{"smp":"8a1e913c8c115e911d11083eb4de987f","active":"jdnc_1_2yuanxuebing210209_2","joinnum":1}
+2021/02/25 12:00:01:984  <console>    [JS Console]: ❌ 中国联通 签到失败: TypeError: undefined is not an object (evaluating 'VAL_signurl.endsWith')
+2021/02/25 12:00:02:120  <console>    [JS Console]: 
+❗️京东国际盲盒, 错误!
+TypeError: undefined is not an object (evaluating 'luckyBoxList.filter')
+2021/02/25 12:00:02:231  <console>    [JS Console]: 
+❗️京东国际盲盒, 错误!
+TypeError: undefined is not an object
+2021/02/25 12:00:02:326  <console>    [JS Console]: 
+❗️京东国际盲盒, 错误!
+TypeError: undefined is not an object (evaluating 'luckyBoxList.filter')
+2021/02/25 12:00:02:332  <console>    [JS Console]: 
+==============📣系统通知📣==============
+京东国际盲盒
+京东账号1zuojiaotuo
+本次运行获得0碎片，0京豆，共计0碎片
+2021/02/25 12:00:02:336  <console>    [JS Console]: 
+🔔京东国际盲盒, 结束! 🕛 1.04 秒
+2021/02/25 12:00:02:340  <console>    [JS Console]: 
+2021/02/25 12:00:02:395  <console>    [JS Console]: 开始第1个任务：每日签到
+2021/02/25 12:00:04:151  <console>    [JS Console]: 每日签到[做任务]：ret:1013 retmsg:"expired"
+2021/02/25 12:00:04:155  <console>    [JS Console]: 结束第1个任务：每日签到
+2021/02/25 12:00:04:158  <console>    [JS Console]: 开始第2个任务：开启明日免费领水滴提醒
+2021/02/25 12:00:04:501  <console>    [JS Console]: 开启明日免费领水滴提醒[做任务]：ret:1013 retmsg:"expired"
+2021/02/25 12:00:04:505  <console>    [JS Console]: 结束第2个任务：开启明日免费领水滴提醒
+2021/02/25 12:00:04:508  <console>    [JS Console]: 开始第3个任务：去每日提现100元
+2021/02/25 12:00:06:935  <console>    [JS Console]: 去每日提现100元[做任务]：ret:1013 retmsg:"expired"
+2021/02/25 12:00:06:939  <console>    [JS Console]: 结束第3个任务：去每日提现100元
+2021/02/25 12:00:06:943  <console>    [JS Console]: 开始第4个任务：天天收金果，点点就赚钱
+2021/02/25 12:00:08:940  <console>    [JS Console]: 天天收金果，点点就赚钱[做任务]：ret:1013 retmsg:"expired"
+2021/02/25 12:00:08:943  <console>    [JS Console]: 结束第4个任务：天天收金果，点点就赚钱
+2021/02/25 12:00:08:946  <console>    [JS Console]: 开始第5个任务：9.9元抢3斤耙耙柑
+2021/02/25 12:00:10:245  <console>    [JS Console]: 9.9元抢3斤耙耙柑[做任务]：ret:1013 retmsg:"expired"
+2021/02/25 12:00:10:249  <console>    [JS Console]: 结束第5个任务：9.9元抢3斤耙耙柑
+2021/02/25 12:00:10:252  <console>    [JS Console]: 开始第6个任务：吐司面包500g只要7.9元
+2021/02/25 12:00:13:386  <console>    [JS Console]: 吐司面包500g只要7.9元[做任务]：ret:1013 retmsg:"expired"
+2021/02/25 12:00:13:390  <console>    [JS Console]: 结束第6个任务：吐司面包500g只要7.9元
+2021/02/25 12:00:13:394  <console>    [JS Console]: 开始第7个任务：逛产地直发会场抢好货
+2021/02/25 12:00:13:916  <console>    [JS Console]: 逛产地直发会场抢好货[做任务]：ret:1013 retmsg:"expired"
+2021/02/25 12:00:13:920  <console>    [JS Console]: 结束第7个任务：逛产地直发会场抢好货
+2021/02/25 12:00:13:923  <console>    [JS Console]: 开始第8个任务：原产地好货8.9元封顶
+2021/02/25 12:00:15:599  <console>    [JS Console]: 原产地好货8.9元封顶[做任务]：ret:1013 retmsg:"expired"
+2021/02/25 12:00:15:603  <console>    [JS Console]: 结束第8个任务：原产地好货8.9元封顶
+2021/02/25 12:00:15:606  <console>    [JS Console]: 开始第9个任务：爆款好物,全网超低价
+2021/02/25 12:00:17:262  <console>    [JS Console]: 爆款好物,全网超低价[做任务]：ret:1013 retmsg:"expired"
+2021/02/25 12:00:17:266  <console>    [JS Console]: 结束第9个任务：爆款好物,全网超低价
+2021/02/25 12:00:17:270  <console>    [JS Console]: 开始第10个任务：上岛0元领好物
+2021/02/25 12:00:18:413  <console>    [JS Console]: 上岛0元领好物[做任务]：ret:1013 retmsg:"expired"
+2021/02/25 12:00:18:418  <console>    [JS Console]: 结束第10个任务：上岛0元领好物
+2021/02/25 12:00:18:421  <console>    [JS Console]: 开始第11个任务：去工厂0元领好物
+2021/02/25 12:00:21:170  <console>    [JS Console]: 去工厂0元领好物[做任务]：ret:1013 retmsg:"expired"
+2021/02/25 12:00:21:174  <console>    [JS Console]: 结束第11个任务：去工厂0元领好物
+2021/02/25 12:00:21:177  <console>    [JS Console]: 开始第12个任务：看明星直播，领福利大礼
+2021/02/25 12:00:21:474  <console>    [JS Console]: 看明星直播，领福利大礼[做任务]：ret:1013 retmsg:"expired"
+2021/02/25 12:00:21:478  <console>    [JS Console]: 结束第12个任务：看明星直播，领福利大礼
+2021/02/25 12:00:21:989  <console>    [JS Console]: 准备做答题任务：每日答题
+2021/02/25 12:00:22:165  <console>    [JS Console]: 每日答题[做任务]：ret:1013 retmsg:"expired"
+2021/02/25 12:00:23:176  <console>    [JS Console]: 准备做答题任务：每日答题
+2021/02/25 12:00:23:351  <console>    [JS Console]: 每日答题[做任务]：ret:1013 retmsg:"expired"
+2021/02/25 12:00:24:362  <console>    [JS Console]: 准备做答题任务：每日答题
+2021/02/25 12:00:24:540  <console>    [JS Console]: 每日答题[做任务]：ret:1013 retmsg:"expired"
+2021/02/25 12:00:25:552  <console>    [JS Console]: 准备做答题任务：每日答题
+2021/02/25 12:00:25:721  <console>    [JS Console]: 每日答题[做任务]：ret:1013 retmsg:"expired"
+2021/02/25 12:00:26:371  <console>    [JS Console]: 获取任务列表  总共13个任务！
+2021/02/25 12:00:33:943  <console>    [JS Console]: 邀请码提交失败 API 返回异常
+2021/02/25 12:00:34:457  <console>    [JS Console]: 助力码非 json 格式，跳过
+2021/02/25 12:00:34:463  <console>    [JS Console]: 助力码非 json 格式，跳过
+2021/02/25 12:00:34:468  <console>    [JS Console]: 助力码非 json 格式，跳过
+2021/02/25 12:00:57:802  <console>    [JS Console]: 获取随机助力码失败 API 返回异常
+2021/02/25 12:00:57:809  <console>    [JS Console]: 
+==============📣系统通知📣==============
+京喜农场
+【京东账号1】zuojiaotuo
+【水果名称】香雪饼
+【水滴】本次获得0 离线获得0 今日获得0 还需水滴179
+2021/02/25 12:00:57:814  <console>    [JS Console]: 
+🔔京喜农场, 结束! 🕛 56.527 秒
+2021/02/25 12:00:57:818  <console>    [JS Console]: 
+2021/02/25 12:01:00:094  <console>    [QTXTaskManager] Fire task<口袋书店> https://jdsharedresourcescdn.azureedge.net/jdresource/jd_bookshop.js.
+2021/02/25 12:01:00:177  <console>    [JS Console]: 
+🔔口袋书店, 开始!
+2021/02/25 12:01:00:188  <console>    [JS Console]: 开始获取口袋书店配置文件
+2021/02/25 12:01:00:192  <console>    [JS Console]: 共1个京东账号
+2021/02/25 12:01:00:194  <console>    [JS Console]: 您提供了0个账号的口袋书店助力码
+2021/02/25 12:01:00:808  <console>    [JS Console]: 
+******开始【京东账号1】zuojiaotuo*********
+2021/02/25 12:01:00:812  <console>    [JS Console]: 由于您第1个京东账号未提供shareCode,将采纳本脚本自带的助力码
+2021/02/25 12:01:00:815  <console>    [JS Console]: 第1个京东账号将要助力的好友["28a699ac78d74aa3b31f7103597f8927","2f14ee9c92954cf79829320dd482bf49","fdf827db272543d88dbb51a505c2e869","ce2536153a8742fb9e8754a9a7d361da","38ba4e7ba8074b78851e928af2b4f6b2"]
+2021/02/25 12:01:07:356  <console>    [JS Console]: 用户【zuojiaotuo】信息获取成功
+2021/02/25 12:01:07:882  <console>    [JS Console]: 您的好友助力码为b68afb9d68874e46be8f266432b3656b
+2021/02/25 12:01:07:885  <console>    [JS Console]: 去做每日签到任务
+2021/02/25 12:01:08:133  <console>    [JS Console]: 任务完成成功，获得100积分
+2021/02/25 12:01:08:138  <console>    [JS Console]: 去做浏览店铺任务
+2021/02/25 12:01:08:342  <console>    [JS Console]: 任务完成成功，获得100积分
+2021/02/25 12:01:09:337  <console>    [JS Console]: 今日助力情况0/10
+2021/02/25 12:01:10:664  <console>    [JS Console]: 拥有200积分，可购买20本
+2021/02/25 12:01:10:885  <console>    [JS Console]: 购买【云中记】成功
+2021/02/25 12:01:11:614  <console>    [JS Console]: SyntaxError: JSON Parse error: Unrecognized token '<'
+2021/02/25 12:01:11:617  <console>    [JS Console]: 京东服务器访问数据为空，请检查自身设备网络情况
+2021/02/25 12:01:11:620  <console>    [JS Console]: 金币大于800，去抽奖
+2021/02/25 12:01:12:988  <console>    [JS Console]: SyntaxError: JSON Parse error: Unrecognized token '<'
+2021/02/25 12:01:12:992  <console>    [JS Console]: 京东服务器访问数据为空，请检查自身设备网络情况
+2021/02/25 12:01:20:657  <console>    [JS Console]: 金币收获成功，获得1200
+2021/02/25 12:01:20:662  <console>    [JS Console]: 去助力好友28a699ac78d74aa3b31f7103597f8927
+2021/02/25 12:01:21:531  <console>    [JS Console]: 去助力好友2f14ee9c92954cf79829320dd482bf49
+2021/02/25 12:01:22:447  <console>    [JS Console]: 去助力好友fdf827db272543d88dbb51a505c2e869
+2021/02/25 12:01:23:333  <console>    [JS Console]: 去助力好友ce2536153a8742fb9e8754a9a7d361da
+2021/02/25 12:01:24:233  <console>    [JS Console]: 去助力好友38ba4e7ba8074b78851e928af2b4f6b2
+2021/02/25 12:01:25:147  <console>    [JS Console]: 
+==============📣系统通知📣==============
+口袋书店
+京东账号1zuojiaotuo
+本次运行获得积分200
+2021/02/25 12:01:25:160  <console>    [JS Console]: 
+🔔口袋书店, 结束! 🕛 24.985 秒
+2021/02/25 12:01:25:164  <console>    [JS Console]: 
+2021/02/25 12:02:00:089  <console>    [QTXTaskManager] Fire task<签到领现金> https://jdsharedresourcescdn.azureedge.net/jdresource/jd_cash.js.
+2021/02/25 12:02:00:169  <console>    [JS Console]: 
+🔔签到领现金, 开始!
+2021/02/25 12:02:00:181  <console>    [JS Console]: 开始获取签到领现金配置文件
+2021/02/25 12:02:00:185  <console>    [JS Console]: 共1个京东账号
+2021/02/25 12:02:00:188  <console>    [JS Console]: 您提供了0个账号的签到领现金助力码
+2021/02/25 12:02:00:711  <console>    [JS Console]: 
+❗️签到领现金, 错误!
+SyntaxError: JSON Parse error: Unrecognized token '<'
+2021/02/25 12:02:01:306  <console>    [JS Console]: 
+******开始【京东账号1】zuojiaotuo*********
+2021/02/25 12:02:01:676  <console>    [JS Console]: 您的助力码为aV5oNrXjObhjrg
+2021/02/25 12:02:01:679  <console>    [JS Console]: shareDate: IRs1beywZPk
+2021/02/25 12:02:01:682  <console>    [JS Console]: 去做逛商品任务 1/3
+2021/02/25 12:02:01:775  <console>    [JS Console]: 任务完成成功
+2021/02/25 12:02:06:789  <console>    [JS Console]: 去做逛商品任务 2/3
+2021/02/25 12:02:06:918  <console>    [JS Console]: 任务完成成功
+2021/02/25 12:02:24:247  <console>    [JS Console]: 去做逛商品任务 3/3
+2021/02/25 12:02:24:545  <console>    [JS Console]: 任务完成成功
+2021/02/25 12:02:29:557  <console>    [JS Console]: 去做逛互动任务 1/3
+2021/02/25 12:02:29:690  <console>    [JS Console]: 任务完成成功
+2021/02/25 12:02:57:016  <console>    [JS Console]: 去做逛互动任务 2/3
+2021/02/25 12:02:57:249  <console>    [JS Console]: 任务完成成功
+2021/02/25 12:03:00:714  <console>    [QTXTaskManager] Fire task<京东摇钱树> https://jdsharedresourcescdn.azureedge.net/jdresource/jd_moneyTree.js.
+2021/02/25 12:03:00:800  <console>    [JS Console]: 
+🔔京东摇钱树, 开始!
+2021/02/25 12:03:01:261  <console>    [JS Console]: 
+开始【京东账号1】zuojiaotuo
+2021/02/25 12:03:01:265  <console>    [JS Console]: 初始化摇钱树个人信息
+2021/02/25 12:03:01:671  <console>    [JS Console]: 其他情况::{"resultCode":-1,"resultMsg":"您访问的该接口出现异常！Message:系统异常请稍后再试！(error:222)","success":false,"channelEncrypt":0}
+2021/02/25 12:03:01:676  <console>    [JS Console]: 
+🔔京东摇钱树, 结束! 🕛 0.876 秒
+2021/02/25 12:03:01:679  <console>    [JS Console]: 
+2021/02/25 12:03:02:261  <console>    [JS Console]: 去做逛互动任务 3/3
+2021/02/25 12:03:02:376  <console>    [JS Console]: 任务完成成功
+2021/02/25 12:03:33:838  <console>    [JS Console]: 去做逛一逛任务 1/3
+2021/02/25 12:03:34:256  <console>    [JS Console]: 任务完成成功
+2021/02/25 12:03:39:268  <console>    [JS Console]: 去做逛一逛任务 2/3
+2021/02/25 12:03:39:418  <console>    [JS Console]: 任务完成成功
+2021/02/25 12:03:58:606  <console>    [JS Console]: 去做逛一逛任务 3/3
+2021/02/25 12:03:58:718  <console>    [JS Console]: 任务完成成功
+2021/02/25 12:04:03:727  <console>    [JS Console]: 去做逛点点券任务 1/1
+2021/02/25 12:04:03:846  <console>    [JS Console]: 任务完成成功
+2021/02/25 12:04:08:859  <console>    [JS Console]: 由于您第1个京东账号未提供shareCode,将采纳本脚本自带的助力码
+2021/02/25 12:04:08:872  <console>    [JS Console]: 开始
+2021/02/25 12:04:10:142  <console>    [JS Console]: 随机取5个码放到您固定的互助码后面(不影响已有固定互助)
+2021/02/25 12:04:10:147  <console>    [JS Console]: 第1个京东账号将要助力的好友[{"inviteCode":"YFjh6Vll-l3zb9cCf_U","shareDate":"IRs1beywZPk"},{"inviteCode":"aURoM7PtY_Q","shareDate":"IRs1beywZPk"},{"inviteCode":"eU9YL5XqGLxSmRSAkwxR","shareDate":"IRs1beywZPk"},{"inviteCode":"eU9YaO7jMvwh-W_VzyUX0Q","shareDate":"IRs1beywZPk"},{"inviteCode":"eU9YaurkY69zoj3UniVAgg","shareDate":"IRs1beywZPk"},{"inviteCode":"eU9YaOnjYK4j-GvWmXIWhA","shareDate":"IRs1beywZPk"},{"inviteCode":"eU9YMZ_gPpRurC-foglg","shareDate":"IRs1beywZPk"},{"inviteCode":"eU9Ya7q2Nf8n9GnVznYSgw","shareDate":"IRs1beywZPk"},{"inviteCode":"IRs1beywZP0","shareDate":"IRs1beywZPk"},{"inviteCode":"eU9YFK3UB6dTpzOcvQJ7","shareDate":"IRs1beywZPk"},{"inviteCode":"akl0Zey7ZPo","shareDate":"IRs1beywZPk"},{"inviteCode":"eU9YabmyN_8k922HziUWhQ","shareDate":"IRs1beywZPk"}]
+2021/02/25 12:04:10:151  <console>    [JS Console]: 去帮助好友YFjh6Vll-l3zb9cCf_U
+2021/02/25 12:04:10:246  <console>    [JS Console]: 啊哦~今日助力次数用完啦
+2021/02/25 12:04:10:464  <console>    [JS Console]: 领奖失败，请求失败，请求参数错误
+2021/02/25 12:04:10:469  <console>    [JS Console]: 京东账号1zuojiaotuo
+当前现金：1.30
+2021/02/25 12:04:10:473  <console>    [JS Console]: 
+🔔签到领现金, 结束! 🕛 130.305 秒
+2021/02/25 12:04:10:476  <console>    [JS Console]: 
+2021/02/25 12:05:00:095  <console>    [QTXTaskManager] Fire task<东东农场> https://jdsharedresourcescdn.azureedge.net/jdresource/jd_fruit.js.
+2021/02/25 12:05:00:190  <console>    [JS Console]: 
+🔔东东农场, 开始!
+2021/02/25 12:05:00:195  <console>    [JS Console]: 开始获取配置文件
+2021/02/25 12:05:00:205  <console>    [JS Console]: 共1个京东账号
+2021/02/25 12:05:00:213  <console>    [JS Console]: 您提供了0个账号的农场助力码
+2021/02/25 12:05:00:648  <console>    [JS Console]: 
+开始【京东账号1】zuojiaotuo
+2021/02/25 12:05:00:653  <console>    [JS Console]: 由于您第1个京东账号未提供shareCode,将采纳本脚本自带的助力码
+2021/02/25 12:05:23:992  <console>    [JS Console]: {"error":"Read operation timed out"}
+2021/02/25 12:05:23:996  <console>    [JS Console]: 东东农场 API请求失败，请检查网路重试
+2021/02/25 12:05:24:000  <console>    [JS Console]: 第1个京东账号将要助力的好友["0a74407df5df4fa99672a037eec61f7e","dbb21614667246fabcfd9685b6f448f3","6fbd26cc27ac44d6a7fed34092453f77","61ff5c624949454aa88561f2cd721bf6","56db8e7bc5874668ba7d5195230d067a","b9d287c974cc498d94112f1b064cf934","23b49f5a106b4d61b2ea505d5a4e1056","8107cad4b82847a698ca7d7de9115f36"]
+2021/02/25 12:05:24:466  <console>    [JS Console]: 
+【京东账号1（zuojiaotuo）的东东农场好友互助码】af44c3c818d6435ba76cf8c72ae87cb2
+2021/02/25 12:05:24:469  <console>    [JS Console]: 
+【已成功兑换水果】1次
+2021/02/25 12:05:24:473  <console>    [JS Console]: 开始助力好友
+2021/02/25 12:05:24:476  <console>    [JS Console]: 格式化后的助力码::["0a74407df5df4fa99672a037eec61f7e","dbb21614667246fabcfd9685b6f448f3","6fbd26cc27ac44d6a7fed34092453f77","61ff5c624949454aa88561f2cd721bf6","56db8e7bc5874668ba7d5195230d067a","b9d287c974cc498d94112f1b064cf934","23b49f5a106b4d61b2ea505d5a4e1056","8107cad4b82847a698ca7d7de9115f36"]
+2021/02/25 12:05:24:479  <console>    [JS Console]: 开始助力京东账号1 - zuojiaotuo的好友: 0a74407df5df4fa99672a037eec61f7e
+2021/02/25 12:05:25:678  <console>    [JS Console]: 【助力好友结果】: 好友【】已满五人助力
+2021/02/25 12:05:25:681  <console>    [JS Console]: 【今日助力次数还剩】0次
+2021/02/25 12:05:25:684  <console>    [JS Console]: 您当前助力次数已耗尽，跳出助力
+2021/02/25 12:05:25:691  <console>    [JS Console]: 助力好友结束，即将开始领取额外水滴奖励
+2021/02/25 12:05:25:695  <console>    [JS Console]: 
+60包零食礼盒种植中...
+2021/02/25 12:05:25:699  <console>    [JS Console]: 
+初始化任务列表
+2021/02/25 12:05:26:890  <console>    [JS Console]: 开始签到
+2021/02/25 12:05:26:893  <console>    [JS Console]: 今天已签到,连续签到5,下次签到可得25g
+2021/02/25 12:05:26:896  <console>    [JS Console]: 被水滴砸中： 否
+2021/02/25 12:05:26:899  <console>    [JS Console]: 签到结束,开始广告浏览任务
+2021/02/25 12:05:26:902  <console>    [JS Console]: 今天已经做过浏览广告任务
+2021/02/25 12:05:28:050  <console>    [JS Console]: 【定时领水】获得10g💧
+2021/02/25 12:05:29:290  <console>    [JS Console]: 开始给好友浇水...
+2021/02/25 12:05:29:294  <console>    [JS Console]: 
+初始化任务列表
+2021/02/25 12:05:30:539  <console>    [JS Console]: 今日已给0个好友浇水
+2021/02/25 12:05:30:543  <console>    [JS Console]: 需要浇水的好友列表shareCodes:[]
+2021/02/25 12:05:30:546  <console>    [JS Console]: 【好友浇水】已给0个好友浇水,消耗0g水
+2021/02/25 12:05:31:725  <console>    [JS Console]: 查询好友列表数据：{"shareCodeInviteNotFarmAddOn":"-inviteFriendNotFarm","friendInfos":[{"2021-02-25":[{"time":1614204340677,"type":2,"name":"不吃饭的熊猫","shareCode":"54b2cb20fb42474ca61a8212fd5ba79f"}]},{"2021-02-24":[{"time":1614128869947,"type":2,"name":"jd_157106jjk","shareCode":"653562ddf1b34959920d7f23c4b22f5f"}]},{"2021-02-23":[{"time":1614074736583,"type":2,"name":"jd_vJREegchscTl","shareCode":"2d132fbb4fb44972be8fffbf283ba81b"}]},{"2021-02-21":[{"time":1613900114921,"type":2,"name":"Evine007","shareCode":"5efc7fdbb8e0436f8694c4c393359576"},{"time":1613900112425,"type":2,"name":"晨星鞋服","shareCode":"18fd7a1b0c07494c80ae5260df88d8d1"}]},{"2021-02-19":[{"time":1613707668355,"type":2,"name":"Steven","shareCode":"34d87128453e43aa9578a7a74ec2801d"},{"time":1613707667168,"type":2,"name":"hcxu009","shareCode":"129b9513ad784d2e99ad61af558a3ab2"},{"time":1613707665978,"type":2,"name":"大萍果?","shareCode":"42d27b1feb7a4d9db90d232a057c1b1c"},{"time":1613707664795,"type":2,"name":"Cathy.Xu","shareCode":"795b31daf36748648367e2a216258613"}]},{"2021-02-18":[{"time":1613642733326,"type":2,"name":"jd_156812tkh","shareCode":"87aee6feca33474fb808e1eda5f0ba4d"},{"time":1613642731049,"type":2,"name":"马云小弟的阿里巴巴","shareCode":"b7d46efa471a499793eea59c3f6e45fc"}]},{"2021-02-17":[{"time":1613556322856,"type":2,"name":"qmy13339262377","shareCode":"fa4729ce466c47cb940c197b2f71e76d"},{"time":1613556321632,"type":2,"name":"小刚6587","shareCode":"bd3ed25e6f394a17bb37d3cc420e08f5"},{"time":1613556318127,"type":2,"name":"Mystery-hao","shareCode":"9e19a0527c304ecfbf13480350c18a88"},{"time":1613537591454,"type":2,"name":"jd_sXmCRALJihiY","shareCode":"4b07f44ec46a4a6fa09cbf0997fd9561"},{"time":1613537589160,"type":2,"shareCode":"676f2515e0cf4f95af59290165257263"},{"time":1613537585758,"type":2,"name":"jd_mCbhXxmqzYJC","shareCode":"23b49f5a106b4d61b2ea505d5a4e1056"},{"time":1613520787069,"type":1,"name":"jd_wditBsYNSPda","shareCode":"ca06754428ec4c60b46a47aa435cd821"},{"time":1613513150084,"type":2,"name":"沃里斯","shareCode":"80f5c92536114b54bd9bfbbb9a6efe60"},{"time":1613513147754,"type":2,"name":"no5gc","shareCode":"33deecd8651d4b24b8cf84176782cfa0"}]},{"2021-02-16":[{"time":1613470004586,"type":2,"name":"zzzzzyx0525","shareCode":"da03494e3d9f4e54ab57a65ac272b875"},{"time":1613470002249,"type":2,"name":"jd_46309604","shareCode":"9a1ee9af3a4a403c84d3e8ff689d6928"},{"time":1613470001105,"type":2,"name":"少奶奶","shareCode":"3b46838d8694405392d994e7756130d2"},{"time":1613469982685,"type":2,"name":"癫蟹癫蟹","shareCode":"4c4a43845bba4dc7aefbd6c7b2e9f34b"},{"time":1613458601750,"type":2,"name":"罗大大yoi","shareCode":"f0fe5f5a730748348223dad0c0ae1208"},{"time":1613458600578,"type":2,"name":"窗间过马","shareCode":"dd088aee723446cdbb203700309bd3d2"}]},{"2020-08-06":[{"time":1596667430229,"type":2,"name":"jd_wditBsYNSPda","shareCode":"ca06754428ec4c60b46a47aa435cd821"}]}],"code":"0","shareCodeCallAddOn":"-callFriend","inviteFriendCountToPropsSendCard":"fastCard","inviteFriendCountToProps":3,"inviteFriendGotAwardCount":0,"inviteFriendCount":0,"inviteFirstFriendAwardWater":50,"awardCallUserWater":60,"shareCodeInviteAddOn":"-inviteFriend","hadGotInviteFriendCountToProps":false,"statisticsTimes":null,"sysTime":1614225931647,"fullFriend":false,"inviteFriendAwardEach":10,"countOfFriend":1,"message":null,"friends":[{"id":"1614204340662000","nickName":"不吃饭的熊猫","imageUrl":"http://storage.360buyimg.com/i.imageUpload/666967687436363631343633353430393036333038_mid.jpg","shareCode":"54b2cb20fb42474ca61a8212fd5ba79f","friendState":0}],"newUserAward":true,"deleteFriendCount":25,"awardInviteNewUserSendWater":100,"inviteFriendMax":4,"newFriendMsg":false,"loadFriend":false}
+2021/02/25 12:05:31:728  <console>    [JS Console]: 
+今日已邀请好友0个 / 每日邀请上限4个
+2021/02/25 12:05:31:731  <console>    [JS Console]: 开始删除1个好友,可拿每天的邀请奖励
+2021/02/25 12:05:31:734  <console>    [JS Console]: 
+开始删除好友 [54b2cb20fb42474ca61a8212fd5ba79f]
+2021/02/25 12:05:32:876  <console>    [JS Console]: 删除好友 [54b2cb20fb42474ca61a8212fd5ba79f] 成功
+2021/02/25 12:05:42:330  <console>    [JS Console]: 今日未邀请过好友
+2021/02/25 12:05:42:336  <console>    [JS Console]: 开始打卡领水活动（签到，关注，领券）
+2021/02/25 12:05:43:838  <console>    [JS Console]: 开始打卡领水活动（签到，关注，领券）结束
+2021/02/25 12:05:43:844  <console>    [JS Console]: 水滴雨任务，每天两次，最多可得10g水滴
+2021/02/25 12:05:43:848  <console>    [JS Console]: 两次水滴雨任务是否全部完成：否
+2021/02/25 12:05:43:851  <console>    [JS Console]: 开始水滴雨任务,这是第2次，剩余0次
+2021/02/25 12:05:44:991  <console>    [JS Console]: 水滴雨waterRain
+2021/02/25 12:05:44:995  <console>    [JS Console]: 水滴雨任务执行成功，获得水滴：10g
+2021/02/25 12:05:44:998  <console>    [JS Console]: 【第2次水滴雨】获得10g水滴
+2021/02/25 12:05:46:173  <console>    [JS Console]: 助力好友未达到5个
+2021/02/25 12:05:46:177  <console>    [JS Console]: 领取额外奖励水滴结束
+2021/02/25 12:05:47:357  <console>    [JS Console]: 是否到了领取免费赠送的抽奖机会----true
+2021/02/25 12:05:48:504  <console>    [JS Console]: 领取定时奖励结果{"code":"0","addTimes":1,"statisticsTimes":null,"sysTime":1614225948437,"message":null,"remainLotteryTimes":1}
+2021/02/25 12:05:49:622  <console>    [JS Console]: 开始浏览天天抽奖的第1个逛会场任务
+2021/02/25 12:05:49:629  <console>    [JS Console]: 浏览爆品会场
+2021/02/25 12:05:50:736  <console>    [JS Console]: 第1个逛会场任务完成，开始领取水滴奖励
+2021/02/25 12:05:50:740  <console>    [JS Console]: 天天抽奖浏览任务领取水滴
+2021/02/25 12:05:51:882  <console>    [JS Console]: 第1个逛会场任务领取水滴奖励完成
+2021/02/25 12:05:53:028  <console>    [JS Console]: 开始浏览天天抽奖的第2个逛会场任务
+2021/02/25 12:05:53:032  <console>    [JS Console]: 浏览爆品会场
+2021/02/25 12:05:54:175  <console>    [JS Console]: 第2个逛会场任务完成，开始领取水滴奖励
+2021/02/25 12:05:54:180  <console>    [JS Console]: 天天抽奖浏览任务领取水滴
+2021/02/25 12:05:55:311  <console>    [JS Console]: 第2个逛会场任务领取水滴奖励完成
+2021/02/25 12:05:56:478  <console>    [JS Console]: 开始天天抽奖--好友助力--每人每天只有三次助力机会.
+2021/02/25 12:05:57:657  <console>    [JS Console]: 天天抽奖-助力失败,助力次数耗尽
+2021/02/25 12:05:57:660  <console>    [JS Console]: ---天天抽奖次数remainLotteryTimes----3次
+2021/02/25 12:05:57:663  <console>    [JS Console]: 开始抽奖
+2021/02/25 12:05:59:669  <console>    [JS Console]: 等待了2秒
+2021/02/25 12:06:00:789  <console>    [JS Console]: 第1次抽奖结果{"code":"0","statisticsTimes":null,"sysTime":1614225960740,"message":null,"type":"thanks","remainLotteryTimes":2}
+2021/02/25 12:06:00:794  <console>    [JS Console]: lotteryRes.typethanks
+2021/02/25 12:06:02:801  <console>    [JS Console]: 等待了2秒
+2021/02/25 12:06:03:954  <console>    [JS Console]: 第2次抽奖结果{"code":"0","statisticsTimes":null,"sysTime":1614225963891,"addWater":10,"message":null,"type":"water1","remainLotteryTimes":1}
+2021/02/25 12:06:03:958  <console>    [JS Console]: lotteryRes.typewater1
+2021/02/25 12:06:05:966  <console>    [JS Console]: 等待了2秒
+2021/02/25 12:06:07:110  <console>    [JS Console]: 第3次抽奖结果{"beanCount":1,"code":"0","statisticsTimes":null,"sysTime":1614225967050,"message":null,"type":"bean1","remainLotteryTimes":0}
+2021/02/25 12:06:07:115  <console>    [JS Console]: lotteryRes.typebean1
+2021/02/25 12:06:07:119  <console>    [JS Console]: 【天天抽奖】谢谢参与，水滴10g，京豆1个
+2021/02/25 12:06:08:214  <console>    [JS Console]: 
+今日已完成10次浇水任务
+2021/02/25 12:06:08:219  <console>    [JS Console]: 
+初始化任务列表
+2021/02/25 12:06:09:345  <console>    [JS Console]: 首次浇水奖励已领取
+2021/02/25 12:06:09:350  <console>    [JS Console]: finished 水果任务完成!
+2021/02/25 12:06:09:353  <console>    [JS Console]: 
+初始化任务列表
+2021/02/25 12:06:10:490  <console>    [JS Console]: 暂未给2个好友浇水
+2021/02/25 12:06:10:588  <console>    [JS Console]: 小鸭子游戏达到上限
+2021/02/25 12:06:10:595  <console>    [JS Console]: 开始检查剩余水滴能否再次浇水再次浇水
+2021/02/25 12:06:10:698  <console>    [JS Console]: 剩余水滴131g
+2021/02/25 12:06:11:799  <console>    [JS Console]: 背包已有道具:
+快速浇水卡:6张
+水滴翻倍卡:未解锁
+水滴换京豆卡:5张
+加签卡:0张
+2021/02/25 12:06:11:803  <console>    [JS Console]: 目前剩余水滴：【131】g，可继续浇水
+2021/02/25 12:06:12:810  <console>    [JS Console]: 等待了1秒
+2021/02/25 12:06:14:061  <console>    [JS Console]: 本次浇水结果:   {"code":"0","totalEnergy":121,"statisticsTimes":null,"totalWaterTimes":15,"sysTime":1614225973876,"finished":false,"message":null,"waterStatus":0,"sendAmount":10,"treeEnergy":1240}
+2021/02/25 12:06:14:065  <console>    [JS Console]: 
+浇水10g成功,剩余121
+2021/02/25 12:06:15:073  <console>    [JS Console]: 等待了1秒
+2021/02/25 12:06:16:215  <console>    [JS Console]: 本次浇水结果:   {"code":"0","totalEnergy":111,"statisticsTimes":null,"totalWaterTimes":16,"sysTime":1614225976153,"finished":false,"message":null,"waterStatus":0,"sendAmount":10,"treeEnergy":1250}
+2021/02/25 12:06:16:218  <console>    [JS Console]: 
+浇水10g成功,剩余111
+2021/02/25 12:06:17:226  <console>    [JS Console]: 等待了1秒
+2021/02/25 12:06:18:364  <console>    [JS Console]: 本次浇水结果:   {"code":"0","totalEnergy":101,"statisticsTimes":null,"totalWaterTimes":17,"sysTime":1614225978303,"finished":false,"message":null,"waterStatus":0,"sendAmount":10,"treeEnergy":1260}
+2021/02/25 12:06:18:368  <console>    [JS Console]: 
+浇水10g成功,剩余101
+2021/02/25 12:06:18:373  <console>    [JS Console]: 开始预测水果成熟时间
+2021/02/25 12:06:18:515  <console>    [JS Console]: 
+初始化任务列表
+2021/02/25 12:06:19:649  <console>    [JS Console]: 
+==============📣系统通知📣==============
+东东农场
+【京东账号1】zuojiaotuo
+【水果名称】60包零食礼盒
+【已兑换水果】1次
+【您助力的好友👬】不吃饭的熊猫,衅,L19900510
+【今日剩余助力👬】0次
+【额外奖励】领取失败,原因：给您助力的人未达5个
+【今日共浇水】17次
+【剩余 水滴】101g💧
+【水果🍉进度】15.75%，已浇水126次,还需674次
+【预测】40天之后(2021-04-06日)可兑换水果🍉
+2021/02/25 12:06:19:654  <console>    [JS Console]: 
+🔔东东农场, 结束! 🕛 79.466 秒
+2021/02/25 12:06:19:658  <console>    [JS Console]: 
+2021/02/25 12:08:00:317  <console>    [QTXTaskManager] Fire task<京东天天加速> https://jdsharedresourcescdn.azureedge.net/jdresource/jd_speed.js.
+2021/02/25 12:08:00:408  <console>    [JS Console]: 
+🔔✈️天天加速, 开始!
+2021/02/25 12:08:00:838  <console>    [JS Console]: 
+开始【京东账号1】zuojiaotuo
+2021/02/25 12:08:01:384  <console>    [JS Console]: 
+天天加速任务进行中
+2021/02/25 12:08:01:389  <console>    [JS Console]: 
+天天加速进行中-结束时间: 
+2021-02-26 00:48:01
+2021/02/25 12:08:01:704  <console>    [JS Console]: 
+天天加速-暂无太空特殊事件
+2021/02/25 12:08:02:098  <console>    [JS Console]: 
+天天加速-检查燃料-暂无可用燃料
+2021/02/25 12:08:02:605  <console>    [JS Console]: 
+天天加速-查询无燃料ID
+2021/02/25 12:08:02:809  <console>    [JS Console]: 
+检查是否可领虫洞京豆奖励
+2021/02/25 12:08:02:813  <console>    [JS Console]: 暂无可领取的虫洞京豆奖励
+2021/02/25 12:08:02:820  <console>    [JS Console]: 
+【空间站】 JD-F20
+【结束时间】 2021-02-26 00:48:01
+【进度】 47.22%
+
+2021/02/25 12:08:02:825  <console>    [JS Console]: 
+🔔✈️天天加速, 结束! 🕛 2.418 秒
+2021/02/25 12:08:02:828  <console>    [JS Console]: 
+2021/02/25 12:10:00:289  <console>    [QTXTaskManager] Fire task<宠汪汪偷好友积分与狗粮> https://jdsharedresourcescdn.azureedge.net/jdresource/jd_joy_steal.js.
+2021/02/25 12:10:00:299  <console>    [QTXTaskManager] Fire task<东东工厂> https://jdsharedresourcescdn.azureedge.net/jdresource/jd_jdfactory.js.
+2021/02/25 12:10:00:303  <console>    [QTXTaskManager] Fire task<京喜工厂> https://jdsharedresourcescdn.azureedge.net/jdresource/jd_dreamFactory.js.
+2021/02/25 12:10:00:310  <console>    [QTXTaskManager] Fire task<天天提鹅> https://jdsharedresourcescdn.azureedge.net/jdresource/jd_daily_egg.js.
+2021/02/25 12:10:00:312  <console>    [QTXTaskManager] Fire task<监控crazyJoy分红> https://jdsharedresourcescdn.azureedge.net/jdresource/jd_crazy_joy_bonus.js.
+2021/02/25 12:10:00:435  <console>    [JS Console]: 
+🔔东东工厂, 开始!
+2021/02/25 12:10:00:458  <console>    [JS Console]: 
+🔔天天提鹅, 开始!
+2021/02/25 12:10:00:462  <console>    [JS Console]: 
+🔔监控crazyJoy分红, 开始!
+2021/02/25 12:10:00:467  <console>    [JS Console]: 
+🔔宠汪汪偷好友积分与狗粮, 开始!
+2021/02/25 12:10:00:473  <console>    [JS Console]: 
+🔔京喜工厂, 开始!
+2021/02/25 12:10:00:483  <console>    [JS Console]: 开始获取东东工厂配置文件
+2021/02/25 12:10:00:487  <console>    [JS Console]: 共1个京东账号
+2021/02/25 12:10:00:490  <console>    [JS Console]: 您提供了0个账号的东东工厂助力码
+2021/02/25 12:10:00:891  <console>    [JS Console]: 
+开始【京东账号1】zuojiaotuo
+2021/02/25 12:10:00:906  <console>    [JS Console]: 
+******开始【京东账号1】zuojiaotuo*********
+2021/02/25 12:10:00:912  <console>    [JS Console]: 由于您第1个京东账号未提供shareCode,将采纳本脚本自带的助力码
+2021/02/25 12:10:00:920  <console>    [JS Console]: 开始
+2021/02/25 12:10:00:926  <console>    [JS Console]: SyntaxError: JSON Parse error: Unrecognized token '<'
+2021/02/25 12:10:00:933  <console>    [JS Console]: 京东服务器访问数据为空，请检查自身设备网络情况
+2021/02/25 12:10:00:940  <console>    [JS Console]: 
+开始【京东账号1】zuojiaotuo
+2021/02/25 12:10:00:945  <console>    [JS Console]: 开始获取京喜工厂配置文件
+2021/02/25 12:10:00:951  <console>    [JS Console]: tuanActiveId: 6S9y4sJUfA2vPQP6TLdVIQ==
+2021/02/25 12:10:00:955  <console>    [JS Console]: 共1个京东账号
+2021/02/25 12:10:00:970  <console>    [JS Console]: 
+BoxJs设置的京喜工厂邀请码:undefined
+2021/02/25 12:10:00:973  <console>    [JS Console]: 
+***********开始【京东账号1】zuojiaotuo********
+2021/02/25 12:10:00:977  <console>    [JS Console]: 您提供了0个账号的京喜工厂助力码
+2021/02/25 12:10:01:066  <console>    [JS Console]: 
+❗️京喜工厂, 错误!
+TypeError: undefined is not an object (evaluating 'data['base'].nickname')
+2021/02/25 12:10:01:071  <console>    [JS Console]: 
+******开始【京东账号1】zuojiaotuo*********
+2021/02/25 12:10:01:085  <console>    [JS Console]: st:_time:1614226201077&materialTuanId:&materialTuanPin:&pin:&sharePin:&shareType:&source:&zone:dream_factory
+2021/02/25 12:10:01:258  <console>    [JS Console]: 分红JOY数量：0,昨日是否达标：false
+2021/02/25 12:10:01:262  <console>    [JS Console]: 昨日获得京豆数量：0
+2021/02/25 12:10:01:266  <console>    [JS Console]: 
+🔔监控crazyJoy分红, 结束! 🕛 0.816 秒
+2021/02/25 12:10:01:270  <console>    [JS Console]: 
+2021/02/25 12:10:01:354  <console>    [JS Console]: 
+京东返回宠汪汪好友列表数据为空
+2021/02/25 12:10:01:362  <console>    [JS Console]: 
+==============📣系统通知📣==============
+宠汪汪偷好友积分与狗粮
+【京东账号1】zuojiaotuo
+【领取好友积分】获得0个
+【偷好友狗粮】获取0g狗粮
+【给好友喂食】消耗0g狗粮,获得积分0个
+2021/02/25 12:10:01:365  <console>    [JS Console]: 
+🔔宠汪汪偷好友积分与狗粮, 结束! 🕛 0.912 秒
+2021/02/25 12:10:01:368  <console>    [JS Console]: 
+2021/02/25 12:10:01:430  <console>    [JS Console]: 收取鹅蛋失败:活动太火爆，请稍后尝试
+2021/02/25 12:10:01:527  <console>    [JS Console]: 再加3.30%电力可开红包
+2021/02/25 12:10:01:530  <console>    [JS Console]: 当前电力：130
+2021/02/25 12:10:01:533  <console>    [JS Console]: 兑换金币失败:活动太火爆，请稍后尝试
+2021/02/25 12:10:01:536  <console>    [JS Console]: 当前等级：2
+2021/02/25 12:10:01:538  <console>    [JS Console]: 
+🔔天天提鹅, 结束! 🕛 1.09 秒
+2021/02/25 12:10:01:541  <console>    [JS Console]: 
+【京东账号1（zuojiaotuo）的京喜工厂好友互助码】MNU1o08zJOSUaOULm8-Hxg==
+2021/02/25 12:10:01:544  <console>    [JS Console]: 
+2021/02/25 12:10:01:546  <console>    [JS Console]: 已投入电力：207200
+2021/02/25 12:10:01:553  <console>    [JS Console]: 所需电力：550000
+2021/02/25 12:10:01:556  <console>    [JS Console]: 生产进度：37.67%
+2021/02/25 12:10:01:651  <console>    [JS Console]: 【今日招工进度】0/8
+2021/02/25 12:10:01:787  <console>    [JS Console]: SyntaxError: JSON Parse error: Unrecognized token '<'
+2021/02/25 12:10:01:791  <console>    [JS Console]: 京东服务器访问数据为空，请检查自身设备网络情况
+2021/02/25 12:10:01:797  <console>    [JS Console]: 由于您第1个京东账号未提供shareCode,将采纳本脚本自带的助力码
+2021/02/25 12:10:01:800  <console>    [JS Console]: 开始
+2021/02/25 12:10:06:031  <console>    [JS Console]: {"error":"Read operation timed out"}
+2021/02/25 12:10:06:035  <console>    [JS Console]: 东东工厂 API请求失败，请检查网路重试
+2021/02/25 12:10:06:039  <console>    [JS Console]: 第1个京东账号将要助力的好友["P04z54XCjVWnYaS5u2ak7ZCdan1Bdd2GGiWvC6_uERj"]
+2021/02/25 12:10:06:921  <console>    [JS Console]: {"error":"Read operation timed out"}
+2021/02/25 12:10:06:926  <console>    [JS Console]: 京喜工厂 API请求失败，请检查网路重试
+2021/02/25 12:10:06:930  <console>    [JS Console]: 第1个京东账号将要助力的好友["V5LkjP4WRyjeCKR9VRwcRX0bBuTz7MEK0-E99EJ7u0k=","0WtCMPNq7jekehT6d3AbFw=="]
+2021/02/25 12:10:07:043  <console>    [JS Console]: 助力朋友[V5LkjP4WRyjeCKR9VRwcRX0bBuTz7MEK0-E99EJ7u0k=]失败：亲,活动太火爆了,请稍后再试吧!
+2021/02/25 12:10:07:159  <console>    [JS Console]: 助力朋友[0WtCMPNq7jekehT6d3AbFw==]失败：亲,活动太火爆了,请稍后再试吧!
+2021/02/25 12:10:07:229  <console>    [JS Console]: {"code":0,"data":{"bizCode":-9,"bizMsg":"助力失败丨助力已满员！谢谢你哦~","success":false},"msg":"调用成功"}
+2021/02/25 12:10:07:276  <console>    [JS Console]: 
+nextCollectDoubleFlag::0
+2021/02/25 12:10:07:279  <console>    [JS Console]: nextCollectDoubleType::0
+2021/02/25 12:10:07:283  <console>    [JS Console]: 下次集满收取不可双倍电力
+2021/02/25 12:10:07:287  <console>    [JS Console]: 发电机：当前 330 电力，最大值 330 电力
+2021/02/25 12:10:07:326  <console>    [JS Console]: 成功收集360电量，当前蓄电池总电量：345543
+2021/02/25 12:10:07:464  <console>    [JS Console]: 收取 330 电力
+2021/02/25 12:10:07:490  <console>    [JS Console]: 
+【京东账号1（zuojiaotuo）的东东工厂好友互助码】T0149LgsGkdIqhCSfwCjVWnYaS5kRrbA
+2021/02/25 12:10:07:498  <console>    [JS Console]: 每日开工打卡已完成
+2021/02/25 12:10:07:501  <console>    [JS Console]: 准备做此任务：好友助力
+2021/02/25 12:10:07:504  <console>    [JS Console]: 去京东首页点击“数码电器”已完成
+2021/02/25 12:10:07:507  <console>    [JS Console]: 逛会场/互动游戏已做完
+2021/02/25 12:10:07:511  <console>    [JS Console]: 看看商品已做完
+2021/02/25 12:10:07:514  <console>    [JS Console]: 关注店铺已做完
+2021/02/25 12:10:07:517  <console>    [JS Console]: 此任务：开通趣猫品牌会员，跳过
+2021/02/25 12:10:07:520  <console>    [JS Console]: 每日10-13点巡厂已完成
+2021/02/25 12:10:07:611  <console>    [JS Console]: 完成任务：共领取330电力
+2021/02/25 12:10:07:619  <console>    [JS Console]: 
+已选商品：极米H3智能家庭影院
+2021/02/25 12:10:07:623  <console>    [JS Console]: 当前已投入电量/所需电量：0/8888888
+2021/02/25 12:10:07:627  <console>    [JS Console]: 已选商品剩余量：12
+2021/02/25 12:10:07:629  <console>    [JS Console]: 当前总电量：345543
+2021/02/25 12:10:07:632  <console>    [JS Console]: 当前完成度：4%
+2021/02/25 12:10:07:635  <console>    [JS Console]: BoxJs或环境变量暂未提供心仪商品
+如需兑换心仪商品，请提供心仪商品名称，否则满足条件后会为您兑换当前所选商品：极米H3智能家庭影院
+2021/02/25 12:10:07:637  <console>    [JS Console]: 
+所选商品极米H3智能家庭影院目前数量：12，且当前总电量为：345543，【不满足】兑换此商品所需总电量：8888888
+2021/02/25 12:10:07:640  <console>    [JS Console]: 故不一次性投入电力，一直放到蓄电池累计
+2021/02/25 12:10:07:643  <console>    [JS Console]: 京东账号1zuojiaotuo
+京东账号1 zuojiaotuo
+已选商品：极米H3智能家庭影院
+当前已投入电量/所需电量：0/8888888
+已选商品剩余量：12
+当前总电量：345543
+当前完成度：4%
+2021/02/25 12:10:07:648  <console>    [JS Console]: 
+==============📣系统通知📣==============
+东东工厂
+京东账号1 zuojiaotuo
+已选商品：极米H3智能家庭影院
+当前已投入电量/所需电量：0/8888888
+已选商品剩余量：12
+当前总电量：345543
+当前完成度：4%
+2021/02/25 12:10:07:653  <console>    [JS Console]: 
+🔔东东工厂, 结束! 🕛 7.222 秒
+2021/02/25 12:10:07:656  <console>    [JS Console]: 
+2021/02/25 12:10:07:737  <console>    [JS Console]: 成功投入电力400电力
+2021/02/25 12:10:09:643  <console>    [JS Console]: 收取自家零件成功:获得8电力
+2021/02/25 12:10:10:851  <console>    [JS Console]: 收取自家零件成功:获得7电力
+2021/02/25 12:10:12:008  <console>    [JS Console]: 收取自家零件成功:获得4电力
+2021/02/25 12:10:13:168  <console>    [JS Console]: 收取自家零件成功:获得4电力
+2021/02/25 12:10:14:284  <console>    [JS Console]: 收取自家零件成功:获得1电力
+2021/02/25 12:10:16:187  <console>    [JS Console]: 收取好友[bxCmRhdPvDDh8X72ZbyNcA==]零件成功:获得5电力
+2021/02/25 12:10:16:846  <console>    [JS Console]: 好友【ConR1bHIbgyz2WsHpVj34A==】地下暂无零件可收
+2021/02/25 12:10:18:657  <console>    [JS Console]: 收取好友[cyCIY1_APsSKHJ2JIgf0zg==]零件成功:获得9电力
+2021/02/25 12:10:18:776  <console>    [JS Console]: 
+团活动ID  6S9y4sJUfA2vPQP6TLdVIQ==
+2021/02/25 12:10:18:779  <console>    [JS Console]: 团ID  
+2021/02/25 12:10:18:783  <console>    [JS Console]: 今日剩余开团次数：3次
+2021/02/25 12:10:18:786  <console>    [JS Console]: 准备开团
+2021/02/25 12:10:18:796  <console>    [JS Console]: st:_time:1614226218789&activeId:&isOpenApp:
+2021/02/25 12:10:18:902  <console>    [JS Console]: 异常：{"msg":"活动已结束，请稍后再试~","nowTime":1614226218,"ret":10218}
+2021/02/25 12:10:19:095  <console>    [JS Console]: 
+  商品名     兑换状态
+2021/02/25 12:10:19:099  <console>    [JS Console]: 洁柔厨房纸2卷    已兑换
+2021/02/25 12:10:19:106  <console>    [JS Console]: 
+【京东账号1】
+【生产商品】保鲜袋套装
+【当前等级】高级学徒 2
+【生产进度】37.67%
+【招工进度】0/8
+【收取发电站】收取成功，获得 330 电力
+【每日任务】领奖成功，共计 330 电力
+【投入电力】投入成功，共计 400 电力
+【收取自己零件】获得24电力
+【收取好友零件】获得14电力
+2021/02/25 12:10:19:110  <console>    [JS Console]: zuojiaotuo去参加第一个cookie账号开的团
+2021/02/25 12:10:19:259  <console>    [JS Console]: 
+🔔京喜工厂, 结束! 🕛 18.804 秒
+2021/02/25 12:10:19:263  <console>    [JS Console]: 
+2021/02/25 12:11:00:320  <console>    [QTXTaskManager] Fire task<东东超市> https://jdsharedresourcescdn.azureedge.net/jdresource/jd_superMarket.js.
+2021/02/25 12:11:00:424  <console>    [JS Console]: 
+🔔东东超市, 开始!
+2021/02/25 12:11:00:434  <console>    [JS Console]: 共1个京东账号
+2021/02/25 12:11:00:823  <console>    [JS Console]: 
+开始【京东账号1】zuojiaotuo
+2021/02/25 12:11:01:200  <console>    [JS Console]: 当前无金币可领
+2021/02/25 12:11:01:297  <console>    [JS Console]: 
+{"code":0,"data":{"bizCode":231,"bizMsg":"战队PK功能暂被关闭","success":false}}
+2021/02/25 12:11:01:409  <console>    [JS Console]: 收取蓝币失败：今日小费已达上限
+2021/02/25 12:11:01:960  <console>    [JS Console]: 
+日常赚钱任务       完成状态
+2021/02/25 12:11:01:962  <console>    [JS Console]:  任务能手         已完成 1/1
+2021/02/25 12:11:01:964  <console>    [JS Console]:  入小游戏         已完成 1/1
+2021/02/25 12:11:01:966  <console>    [JS Console]:  关注商品         未完成 0/4
+2021/02/25 12:11:01:968  <console>    [JS Console]:  开会员卡         未完成 0/1
+2021/02/25 12:11:01:971  <console>    [JS Console]:  分享游戏         已完成 1/1
+2021/02/25 12:11:01:973  <console>    [JS Console]:  逛会场          已完成 6/6
+2021/02/25 12:11:01:975  <console>    [JS Console]:  关注店铺         已完成 3/3
+2021/02/25 12:11:01:977  <console>    [JS Console]:  去购物          未完成 0/1
+2021/02/25 12:11:01:979  <console>    [JS Console]:  卖货能手         已完成 1/1
+2021/02/25 12:11:01:981  <console>    [JS Console]: 关注商品
+2021/02/25 12:11:02:087  <console>    [JS Console]: 关注商品领蓝币结果{"code":0,"data":{"bizCode":204,"bizMsg":"今天已经做过该任务","success":false}}
+2021/02/25 12:11:02:089  <console>    [JS Console]: 开始开卡领蓝币任务
+2021/02/25 12:11:02:206  <console>    [JS Console]: 开卡领蓝币结果{"code":0,"data":{"bizCode":304,"bizMsg":"未完成CRM开卡操作","success":false}}
+2021/02/25 12:11:02:209  <console>    [JS Console]: 
+注意⚠:东东超市抽奖已改版,花费500蓝币抽奖一次,现在脚本默认已关闭抽奖功能
+2021/02/25 12:11:02:213  <console>    [JS Console]: 设置的为不抽奖
+2021/02/25 12:11:02:299  <console>    [JS Console]: [普通货架] 已解锁，当前等级：11级
+2021/02/25 12:11:02:302  <console>    [JS Console]: [冰柜] 未解锁
+2021/02/25 12:11:02:304  <console>    [JS Console]: [水果摊] 未解锁
+2021/02/25 12:11:02:307  <console>    [JS Console]: [酒柜] 未解锁
+2021/02/25 12:11:02:515  <console>    [JS Console]: 
+收取营业额：获得 4393蓝币
+2021/02/25 12:11:02:624  <console>    [JS Console]: 【京东账号1】zuojiaotuo
+【收取小费】今日小费已达上限
+【第4日签到】当日已签到
+【店铺等级】19
+【总蓝币】103400个
+2021/02/25 12:11:02:630  <console>    [JS Console]: 
+🔔东东超市, 结束! 🕛 2.207 秒
+2021/02/25 12:11:02:633  <console>    [JS Console]: 
+2021/02/25 12:12:00:317  <console>    [QTXTaskManager] Fire task<京东金融养猪猪> https://jdsharedresourcescdn.azureedge.net/jdresource/jd_pigPet.js.
+2021/02/25 12:12:00:411  <console>    [JS Console]: 
+🔔金融养猪, 开始!
+2021/02/25 12:12:00:790  <console>    [JS Console]: 
+开始【京东账号1】zuojiaotuo
+2021/02/25 12:12:01:228  <console>    [JS Console]: 
+🔔金融养猪, 结束! 🕛 0.818 秒
+2021/02/25 12:12:01:232  <console>    [JS Console]: 
+2021/02/25 12:15:00:402  <console>    [QTXTaskManager] Fire task<东东萌宠> https://jdsharedresourcescdn.azureedge.net/jdresource/jd_pet.js.
+2021/02/25 12:15:00:417  <console>    [QTXTaskManager] Fire task<京东宠汪汪喂食> https://jdsharedresourcescdn.azureedge.net/jdresource/jd_joy_feedPets.js.
+2021/02/25 12:15:00:425  <console>    [QTXTaskManager] Fire task<京东宠汪汪> https://jdsharedresourcescdn.azureedge.net/jdresource/jd_joy.js.
+2021/02/25 12:15:00:587  <console>    [JS Console]: 
+🔔东东萌宠, 开始!
+2021/02/25 12:15:00:594  <console>    [JS Console]: 开始获取东东萌宠配置文件
+2021/02/25 12:15:00:603  <console>    [JS Console]: 
+🔔宠汪汪🐕喂食, 开始!
+2021/02/25 12:15:00:609  <console>    [JS Console]: 
+🔔宠汪汪, 开始!
+2021/02/25 12:15:00:617  <console>    [JS Console]: 共1个京东账号
+2021/02/25 12:15:00:638  <console>    [JS Console]: 您提供了0个账号的东东萌宠助力码
+2021/02/25 12:15:00:979  <console>    [JS Console]: 
+开始【京东账号1】zuojiaotuo
+2021/02/25 12:15:00:987  <console>    [JS Console]: 
+开始【京东账号1】zuojiaotuo
+2021/02/25 12:15:00:992  <console>    [JS Console]: 您设置的喂食数量::10g
+2021/02/25 12:15:00:997  <console>    [JS Console]: 实际的喂食数量::10g
+2021/02/25 12:15:01:015  <console>    [JS Console]: 
+开始【京东账号1】zuojiaotuo
+2021/02/25 12:15:01:021  <console>    [JS Console]: 由于您第1个京东账号未提供shareCode,将采纳本脚本自带的助力码
+2021/02/25 12:15:01:339  <console>    [JS Console]: 喂食失败：正在食用
+2021/02/25 12:15:01:812  <console>    [JS Console]: 您设置的喂食数量:10g
+2021/02/25 12:15:01:815  <console>    [JS Console]: 实际的喂食数量:10g
+2021/02/25 12:15:01:944  <console>    [JS Console]: 三餐结果领取成功
+2021/02/25 12:15:01:949  <console>    [JS Console]: 
+【喂食失败】您的汪汪正在食用
+【三餐】领取成功，获得5g狗粮
+
+2021/02/25 12:15:01:955  <console>    [JS Console]: 
+🔔宠汪汪🐕喂食, 结束! 🕛 1.352 秒
+2021/02/25 12:15:01:958  <console>    [JS Console]: 
+2021/02/25 12:15:02:396  <console>    [JS Console]: 喂食失败：您的汪汪正在食用中,请稍后再喂食
+2021/02/25 12:15:02:402  <console>    [JS Console]: -----每日三餐-----
+2021/02/25 12:15:03:256  <console>    [JS Console]: 领取每日赛跑狗粮结果：5
+2021/02/25 12:15:03:260  <console>    [JS Console]: 每日签到未完成,需要自己手动去微信小程序【来客有礼】签到，可获得京豆奖励
+2021/02/25 12:15:03:263  <console>    [JS Console]: 
+每日喂狗粮任务进行中
+2021/02/25 12:15:03:274  <console>    [JS Console]: 未完成,需要自己手动去邀请好友给你助力,可以获得狗粮
+2021/02/25 12:15:03:277  <console>    [JS Console]: 关注店铺 任务已完成
+2021/02/25 12:15:03:280  <console>    [JS Console]: 每日参与一次兑换 任务已完成
+2021/02/25 12:15:03:293  <console>    [JS Console]: 逛会场 任务已完成
+2021/02/25 12:15:03:298  <console>    [JS Console]: 浏览频道 任务已完成
+2021/02/25 12:15:03:305  <console>    [JS Console]: 关注商品 任务已完成
+2021/02/25 12:15:03:308  <console>    [JS Console]: 每日帮好友喂一次狗粮 任务已完成
+2021/02/25 12:15:03:310  <console>    [JS Console]: 看激励视频 任务已完成
+2021/02/25 12:15:03:545  <console>    [JS Console]: 
+限时商品货架已下架
+2021/02/25 12:15:03:763  <console>    [JS Console]: 现有狗粮: 1244
+2021/02/25 12:15:03:844  <console>    [JS Console]: 随机取个5码放到您固定的互助码后面(不影响已有固定互助)
+2021/02/25 12:15:03:848  <console>    [JS Console]: 
+❗️东东萌宠, 错误!
+SyntaxError: JSON Parse error: Unrecognized token '<'
+2021/02/25 12:15:03:852  <console>    [JS Console]: 第1个京东账号将要助力的好友["MTAxODc2NTEzNTAwMDAwMDAwMjg3MDg2MA==","MTAxODc2NTEzMzAwMDAwMDAyNzUwMDA4MQ==","MTAxODc2NTEzMjAwMDAwMDAzMDI3MTMyOQ==","MTAxODc2NTEzNDAwMDAwMDAzMDI2MDI4MQ==","MTAxODcxOTI2NTAwMDAwMDAxOTQ3MjkzMw=="]
+2021/02/25 12:15:04:003  <console>    [JS Console]: 
+===以下是京东账号1 zuojiaotuo 2人赛跑信息===
+2021/02/25 12:15:04:006  <console>    [JS Console]: 赛跑状态：participate
+2021/02/25 12:15:04:589  <console>    [JS Console]: 您当前里程：29.86KM
+当前排名:第2名
+将获得积分:0
+2021/02/25 12:15:04:592  <console>    [JS Console]: 对手 清池 当前里程：61.63KM
+2021/02/25 12:15:04:595  <console>    [JS Console]: 
+今日已参赛，下面显示应援团信息
+2021/02/25 12:15:04:967  <console>    [JS Console]: zuojiaotuo的应援团信息如下
+团员：0个
+团员助力的里程数：0
+2021/02/25 12:15:04:970  <console>    [JS Console]: 暂无好友为您助力赛跑，如需助力，请手动去邀请好友助力
+2021/02/25 12:15:04:978  <console>    [JS Console]: 
+现有积分: 5015
+现有狗粮: 1244
+喂养次数: 2
+宠物等级: 7
+
+2021/02/25 12:15:04:983  <console>    [JS Console]: 
+🔔宠汪汪, 结束! 🕛 4.379 秒
+2021/02/25 12:15:04:986  <console>    [JS Console]: 
+2021/02/25 12:15:07:226  <console>    [JS Console]: 
+【京东账号1（zuojiaotuo）的东东萌宠好友互助码】MTAxODc2NTE0NzAwMDAwMDAzMTE0ODg3OQ==
+2021/02/25 12:15:07:232  <console>    [JS Console]: 开始任务初始化
+2021/02/25 12:15:10:370  <console>    [JS Console]: 开始遛弯
+2021/02/25 12:15:13:494  <console>    [JS Console]: 第1次遛狗完成: {"code":"0","resultCode":"3001","message":"达到宠物运动次数上限"}
+2021/02/25 12:15:13:499  <console>    [JS Console]: 开始助力京东账号1 - zuojiaotuo的好友: MTAxODc2NTEzNTAwMDAwMDAwMjg3MDg2MA==
+2021/02/25 12:15:16:626  <console>    [JS Console]: 该好友未来可期。已满5人助力，无需您再次助力
+2021/02/25 12:15:16:630  <console>    [JS Console]: 开始助力京东账号1 - zuojiaotuo的好友: MTAxODc2NTEzMzAwMDAwMDAyNzUwMDA4MQ==
+2021/02/25 12:15:19:757  <console>    [JS Console]: 该好友如期而至。已满5人助力，无需您再次助力
+2021/02/25 12:15:19:762  <console>    [JS Console]: 开始助力京东账号1 - zuojiaotuo的好友: MTAxODc2NTEzMjAwMDAwMDAzMDI3MTMyOQ==
+2021/02/25 12:15:22:882  <console>    [JS Console]: 该好友ㅤㅤ已满5人助力，无需您再次助力
+2021/02/25 12:15:22:885  <console>    [JS Console]: 开始助力京东账号1 - zuojiaotuo的好友: MTAxODc2NTEzNDAwMDAwMDAzMDI2MDI4MQ==
+2021/02/25 12:15:26:006  <console>    [JS Console]: 该好友可爱的🐢 🐢已满5人助力，无需您再次助力
+2021/02/25 12:15:26:009  <console>    [JS Console]: 开始助力京东账号1 - zuojiaotuo的好友: MTAxODcxOTI2NTAwMDAwMDAxOTQ3MjkzMw==
+2021/02/25 12:15:29:204  <console>    [JS Console]: 该好友borrring已满5人助力，无需您再次助力
+2021/02/25 12:15:32:402  <console>    [JS Console]: 助力好友未达到5个
+2021/02/25 12:15:32:408  <console>    [JS Console]: 任务 signInit 已完成
+2021/02/25 12:15:32:411  <console>    [JS Console]: 任务 firstFeedInit 已完成
+2021/02/25 12:15:32:414  <console>    [JS Console]: 任务 browseSingleShopInit 已完成
+2021/02/25 12:15:32:418  <console>    [JS Console]: 任务 browseSingleShopInit1 已完成
+2021/02/25 12:15:32:421  <console>    [JS Console]: 任务 browseSingleShopInit2 已完成
+2021/02/25 12:15:32:425  <console>    [JS Console]: 准备三餐签到
+2021/02/25 12:15:35:540  <console>    [JS Console]: 三餐签到结果: {"code":"0","resultCode":"0","message":"success","result":{"couponImage":"","foodAmount":12,"threeMealReward":6}}
+2021/02/25 12:15:35:545  <console>    [JS Console]: 【定时领狗粮】获得6g
+2021/02/25 12:15:35:549  <console>    [JS Console]: 投食任务开始...
+2021/02/25 12:15:35:552  <console>    [JS Console]: 还需要投食4次
+2021/02/25 12:15:38:686  <console>    [JS Console]: 本次投食结果: {"code":"0","resultCode":"0","message":"success","result":{"petSportStatus":3,"feedAmount":10,"petPlaceInfoList":[{"place":1,"updateSign":true,"energy":8},{"place":2,"energy":0},{"place":3,"energy":0},{"place":4,"energy":0},{"place":5,"energy":0}],"updatePlace":1,"foodAmount":2,"firstFeedReward":0,"feedReachReward":0,"showNeedCollectPop":false,"energyReward":8,"firstFeedFinishedPop":false,"feedReachFinishedPop":false,"showForceCollectPop":false}}
+2021/02/25 12:15:38:689  <console>    [JS Console]: 还需要投食3次
+2021/02/25 12:15:41:778  <console>    [JS Console]: 本次投食结果: {"code":"0","resultCode":"3003","message":"狗粮剩余不足~"}
+2021/02/25 12:15:41:782  <console>    [JS Console]: 剩余狗粮不足, 投食结束
+2021/02/25 12:15:41:785  <console>    [JS Console]: 投食任务结束...
+2021/02/25 12:15:44:946  <console>    [JS Console]: 目前剩余狗粮：【2】g,不再继续投食,保留部分狗粮用于完成第二天任务
+2021/02/25 12:15:44:950  <console>    [JS Console]: 开始收取任务奖励好感度
+2021/02/25 12:15:48:083  <console>    [JS Console]: 
+==============📣系统通知📣==============
+东东萌宠
+3层抽纸巾30包
+【京东账号1】zuojiaotuo
+【额外奖励】领取失败，原因：给您助力的人未达5个
+【第3块勋章完成进度】17%，还需收集1824好感
+【已获得勋章】2块，还需收集2块即可兑换奖品“3层抽纸巾30包”
+2021/02/25 12:15:48:087  <console>    [JS Console]: 全部任务完成, 如果帮助到您可以点下🌟STAR鼓励我一下, 明天见~
+2021/02/25 12:15:48:091  <console>    [JS Console]: 
+🔔东东萌宠, 结束! 🕛 47.508 秒
+2021/02/25 12:15:48:094  <console>    [JS Console]: 
+2021/02/25 13:00:00:252  <console>    [QTXTaskManager] Fire task<中国联通> https://raw.githubusercontent.com/chavyleung/scripts/master/10010/10010.js.
+2021/02/25 13:00:00:710  <console>    [JS Console]: 🔔 中国联通
+2021/02/25 13:00:00:714  <console>    [JS Console]: [object Object]
+2021/02/25 13:00:01:561  <console>    [JS Console]: ❌ 中国联通 签到失败: TypeError: undefined is not an object (evaluating 'VAL_signurl.endsWith')
+2021/02/25 13:01:00:399  <console>    [QTXTaskManager] Fire task<种豆得豆> https://jdsharedresourcescdn.azureedge.net/jdresource/jd_plantBean.js.
+2021/02/25 13:01:00:480  <console>    [JS Console]: 
+🔔京东种豆得豆, 开始!
+2021/02/25 13:01:00:485  <console>    [JS Console]: 开始获取种豆得豆配置文件
+2021/02/25 13:01:00:498  <console>    [JS Console]: 共1个京东账号
+2021/02/25 13:01:00:505  <console>    [JS Console]: 您提供了0个账号的种豆得豆助力码
+2021/02/25 13:01:01:071  <console>    [JS Console]: 
+开始【京东账号1】zuojiaotuo
+2021/02/25 13:01:01:075  <console>    [JS Console]: 由于您第1个京东账号未提供shareCode,将采纳本脚本自带的助力码
+2021/02/25 13:01:17:157  <console>    [JS Console]: {"error":"Read operation timed out"}
+2021/02/25 13:01:17:160  <console>    [JS Console]: 京东种豆得豆 API请求失败，请检查网路重试
+2021/02/25 13:01:17:165  <console>    [JS Console]: 第1个京东账号将要助力的好友["66j4yt3ebl5ierjljoszp7e4izzbzaqhi5k2unz2afwlyqsgnasq","olmijoxgmjutyrsovl2xalt2tbtfmg6sqldcb3q","e7lhibzb3zek27amgsvywffxx7hxgtzstrk2lba","e7lhibzb3zek32e72n4xesxmgc2m76eju62zk3y","l4ex6vx6yynovp6l5zmgzx4nssii54ewecu36gi","l4ex6vx6yynovp6l5zmgzx4nssii54ewecu36gi"]
+2021/02/25 13:01:17:169  <console>    [JS Console]: 获取任务及基本信息
+2021/02/25 13:01:19:605  <console>    [JS Console]: 
+【京东账号1（zuojiaotuo）的京东种豆得豆好友互助码】exgbpdshta7w5ickpheh5x7c6i
+2021/02/25 13:01:21:776  <console>    [JS Console]: 开始助力京东账号1 - zuojiaotuo的好友: 66j4yt3ebl5ierjljoszp7e4izzbzaqhi5k2unz2afwlyqsgnasq
+2021/02/25 13:01:21:780  <console>    [JS Console]: 
+开始助力好友: 66j4yt3ebl5ierjljoszp7e4izzbzaqhi5k2unz2afwlyqsgnasq
+2021/02/25 13:01:23:939  <console>    [JS Console]: 助力结果的code:0
+2021/02/25 13:01:23:943  <console>    [JS Console]: 开始助力京东账号1 - zuojiaotuo的好友: olmijoxgmjutyrsovl2xalt2tbtfmg6sqldcb3q
+2021/02/25 13:01:23:946  <console>    [JS Console]: 
+开始助力好友: olmijoxgmjutyrsovl2xalt2tbtfmg6sqldcb3q
+2021/02/25 13:01:26:137  <console>    [JS Console]: 助力结果的code:0
+2021/02/25 13:01:26:141  <console>    [JS Console]: 开始助力京东账号1 - zuojiaotuo的好友: e7lhibzb3zek27amgsvywffxx7hxgtzstrk2lba
+2021/02/25 13:01:26:144  <console>    [JS Console]: 
+开始助力好友: e7lhibzb3zek27amgsvywffxx7hxgtzstrk2lba
+2021/02/25 13:01:28:378  <console>    [JS Console]: 助力结果的code:0
+2021/02/25 13:01:28:382  <console>    [JS Console]: 开始助力京东账号1 - zuojiaotuo的好友: e7lhibzb3zek32e72n4xesxmgc2m76eju62zk3y
+2021/02/25 13:01:28:385  <console>    [JS Console]: 
+开始助力好友: e7lhibzb3zek32e72n4xesxmgc2m76eju62zk3y
+2021/02/25 13:01:30:561  <console>    [JS Console]: 助力结果的code:0
+2021/02/25 13:01:30:565  <console>    [JS Console]: 开始助力京东账号1 - zuojiaotuo的好友: l4ex6vx6yynovp6l5zmgzx4nssii54ewecu36gi
+2021/02/25 13:01:30:568  <console>    [JS Console]: 
+开始助力好友: l4ex6vx6yynovp6l5zmgzx4nssii54ewecu36gi
+2021/02/25 13:01:32:771  <console>    [JS Console]: 助力结果的code:0
+2021/02/25 13:01:32:775  <console>    [JS Console]: 开始助力京东账号1 - zuojiaotuo的好友: l4ex6vx6yynovp6l5zmgzx4nssii54ewecu36gi
+2021/02/25 13:01:32:778  <console>    [JS Console]: 
+开始助力好友: l4ex6vx6yynovp6l5zmgzx4nssii54ewecu36gi
+2021/02/25 13:01:34:962  <console>    [JS Console]: 助力结果的code:0
+2021/02/25 13:01:34:969  <console>    [JS Console]: 
+【评价商品】任务未完成,需自行手动去京东APP完成，评价商品可得6瓶营养液
+2021/02/25 13:01:34:972  <console>    [JS Console]: 
+【好友助力】任务未完成,邀请好友助力最多可得20瓶营养液
+2021/02/25 13:01:34:974  <console>    [JS Console]: 逛逛会场 任务已完成
+2021/02/25 13:01:34:977  <console>    [JS Console]:  1元抢肉 任务已完成
+2021/02/25 13:01:34:979  <console>    [JS Console]: 浏览店铺 任务已完成
+2021/02/25 13:01:34:982  <console>    [JS Console]: 关注频道 任务已完成
+2021/02/25 13:01:34:985  <console>    [JS Console]: 挑选商品 任务已完成
+2021/02/25 13:01:34:987  <console>    [JS Console]: 每日签到 任务已完成
+2021/02/25 13:01:34:990  <console>    [JS Console]: 金融双签 任务已完成
+2021/02/25 13:01:34:992  <console>    [JS Console]: 免费水果 任务已完成
+2021/02/25 13:01:37:221  <console>    [JS Console]: 暂无扭蛋机会
+2021/02/25 13:01:41:596  <console>    [JS Console]: 开始收取营养液
+2021/02/25 13:01:41:601  <console>    [JS Console]: 【上轮京豆】已领取
+2021/02/25 13:01:43:781  <console>    [JS Console]:      任务   进度
+2021/02/25 13:01:43:784  <console>    [JS Console]: [评价商品]  0/6   0
+2021/02/25 13:01:43:787  <console>    [JS Console]: [好友助力]  0/20   0
+2021/02/25 13:01:43:790  <console>    [JS Console]: [逛逛会场]  1/1   1
+2021/02/25 13:01:43:792  <console>    [JS Console]: [ 1元抢肉]  1/1   1
+2021/02/25 13:01:43:795  <console>    [JS Console]: [浏览店铺]  4/4   1
+2021/02/25 13:01:43:797  <console>    [JS Console]: [关注频道]  3/3   1
+2021/02/25 13:01:43:800  <console>    [JS Console]: [挑选商品]  6/6   1
+2021/02/25 13:01:43:803  <console>    [JS Console]: [每日签到]  1/1   1
+2021/02/25 13:01:43:805  <console>    [JS Console]: [金融双签]  1/1   1
+2021/02/25 13:01:43:808  <console>    [JS Console]: [免费水果]  1/1   1
+2021/02/25 13:01:45:937  <console>    [JS Console]: 
+【上期时间】2月15日-2月21日
+【上期成长值】191
+【上期兑换京豆】76个
+【本期时间】2月22日-2月28日
+【本期成长值】115
+【助力您的好友】共0人
+2021/02/25 13:01:45:944  <console>    [JS Console]: 
+🔔京东种豆得豆, 结束! 🕛 45.465 秒
+2021/02/25 13:01:45:947  <console>    [JS Console]: 
+2021/02/25 13:11:03:366  <console>    [QTXTaskManager] Fire task<东东超市> https://jdsharedresourcescdn.azureedge.net/jdresource/jd_superMarket.js.
+2021/02/25 13:11:03:372  <console>    [QTXTaskManager] Fire task<东东工厂> https://jdsharedresourcescdn.azureedge.net/jdresource/jd_jdfactory.js.
+2021/02/25 13:11:03:376  <console>    [QTXTaskManager] Fire task<京喜工厂> https://jdsharedresourcescdn.azureedge.net/jdresource/jd_dreamFactory.js.
+2021/02/25 13:11:03:385  <console>    [QTXTaskManager] Fire task<天天提鹅> https://jdsharedresourcescdn.azureedge.net/jdresource/jd_daily_egg.js.
+2021/02/25 13:11:03:518  <console>    [JS Console]: 
+🔔天天提鹅, 开始!
+2021/02/25 13:11:03:523  <console>    [JS Console]: 
+🔔东东超市, 开始!
+2021/02/25 13:11:03:526  <console>    [JS Console]: 
+🔔东东工厂, 开始!
+2021/02/25 13:11:03:535  <console>    [JS Console]: 
+🔔京喜工厂, 开始!
+2021/02/25 13:11:03:544  <console>    [JS Console]: 共1个京东账号
+2021/02/25 13:11:03:557  <console>    [JS Console]: 开始获取东东工厂配置文件
+2021/02/25 13:11:03:565  <console>    [JS Console]: 共1个京东账号
+2021/02/25 13:11:03:574  <console>    [JS Console]: 您提供了0个账号的东东工厂助力码
+2021/02/25 13:11:03:973  <console>    [JS Console]: 开始获取京喜工厂配置文件
+2021/02/25 13:11:03:977  <console>    [JS Console]: tuanActiveId: TvjO5k4gaVqVHMRJIogd_g==
+2021/02/25 13:11:03:985  <console>    [JS Console]: 
+***********开始【京东账号1】zuojiaotuo********
+2021/02/25 13:11:03:988  <console>    [JS Console]: 共1个京东账号
+2021/02/25 13:11:04:000  <console>    [JS Console]: 
+开始【京东账号1】zuojiaotuo
+2021/02/25 13:11:04:003  <console>    [JS Console]: 
+BoxJs设置的京喜工厂邀请码:undefined
+2021/02/25 13:11:04:009  <console>    [JS Console]: 您提供了0个账号的京喜工厂助力码
+2021/02/25 13:11:04:034  <console>    [JS Console]: 
+******开始【京东账号1】zuojiaotuo*********
+2021/02/25 13:11:04:040  <console>    [JS Console]: 由于您第1个京东账号未提供shareCode,将采纳本脚本自带的助力码
+2021/02/25 13:11:04:043  <console>    [JS Console]: 开始
+2021/02/25 13:11:04:171  <console>    [JS Console]: 
+******开始【京东账号1】zuojiaotuo*********
+2021/02/25 13:11:04:188  <console>    [JS Console]: st:_time:1614229864179&materialTuanId:&materialTuanPin:&pin:&sharePin:&shareType:&source:&zone:dream_factory
+2021/02/25 13:11:04:395  <console>    [JS Console]: 当前无金币可领
+2021/02/25 13:11:04:580  <console>    [JS Console]: 收取鹅蛋失败:活动太火爆，请稍后尝试
+2021/02/25 13:11:04:663  <console>    [JS Console]: 
+{"code":0,"data":{"bizCode":231,"bizMsg":"战队PK功能暂被关闭","success":false}}
+2021/02/25 13:11:04:677  <console>    [JS Console]: 兑换金币失败:活动太火爆，请稍后尝试
+2021/02/25 13:11:04:683  <console>    [JS Console]: 
+🔔天天提鹅, 结束! 🕛 1.171 秒
+2021/02/25 13:11:04:687  <console>    [JS Console]: 
+2021/02/25 13:11:04:805  <console>    [JS Console]: 收取蓝币失败：今日小费已达上限
+2021/02/25 13:11:04:808  <console>    [JS Console]: 再加3.22%电力可开红包
+2021/02/25 13:11:04:815  <console>    [JS Console]: 当前电力：98
+2021/02/25 13:11:04:820  <console>    [JS Console]: 当前等级：2
+2021/02/25 13:11:04:823  <console>    [JS Console]: 
+【京东账号1（zuojiaotuo）的京喜工厂好友互助码】MNU1o08zJOSUaOULm8-Hxg==
+2021/02/25 13:11:04:826  <console>    [JS Console]: 已投入电力：207600
+2021/02/25 13:11:04:830  <console>    [JS Console]: 所需电力：550000
+2021/02/25 13:11:04:833  <console>    [JS Console]: 生产进度：37.75%
+2021/02/25 13:11:04:927  <console>    [JS Console]: 【今日招工进度】0/8
+2021/02/25 13:11:05:101  <console>    [JS Console]: 由于您第1个京东账号未提供shareCode,将采纳本脚本自带的助力码
+2021/02/25 13:11:05:106  <console>    [JS Console]: 开始
+2021/02/25 13:11:05:325  <console>    [JS Console]: 
+日常赚钱任务       完成状态
+2021/02/25 13:11:05:330  <console>    [JS Console]:  任务能手         已完成 1/1
+2021/02/25 13:11:05:333  <console>    [JS Console]:  入小游戏         已完成 1/1
+2021/02/25 13:11:05:336  <console>    [JS Console]:  关注商品         未完成 0/4
+2021/02/25 13:11:05:339  <console>    [JS Console]:  开会员卡         未完成 0/1
+2021/02/25 13:11:05:342  <console>    [JS Console]:  分享游戏         已完成 1/1
+2021/02/25 13:11:05:345  <console>    [JS Console]:  逛会场          已完成 6/6
+2021/02/25 13:11:05:348  <console>    [JS Console]:  关注店铺         已完成 3/3
+2021/02/25 13:11:05:351  <console>    [JS Console]:  去购物          未完成 0/1
+2021/02/25 13:11:05:353  <console>    [JS Console]:  卖货能手         已完成 1/1
+2021/02/25 13:11:05:356  <console>    [JS Console]: 关注商品
+2021/02/25 13:11:05:572  <console>    [JS Console]: 关注商品领蓝币结果{"code":0,"data":{"bizCode":204,"bizMsg":"今天已经做过该任务","success":false}}
+2021/02/25 13:11:05:575  <console>    [JS Console]: 开始开卡领蓝币任务
+2021/02/25 13:11:05:771  <console>    [JS Console]: 开卡领蓝币结果{"code":0,"data":{"bizCode":304,"bizMsg":"未完成CRM开卡操作","success":false}}
+2021/02/25 13:11:05:775  <console>    [JS Console]: 
+注意⚠:东东超市抽奖已改版,花费500蓝币抽奖一次,现在脚本默认已关闭抽奖功能
+2021/02/25 13:11:05:783  <console>    [JS Console]: 设置的为不抽奖
+2021/02/25 13:11:05:938  <console>    [JS Console]: [普通货架] 已解锁，当前等级：11级
+2021/02/25 13:11:05:941  <console>    [JS Console]: [冰柜] 未解锁
+2021/02/25 13:11:05:944  <console>    [JS Console]: [水果摊] 未解锁
+2021/02/25 13:11:05:948  <console>    [JS Console]: [酒柜] 未解锁
+2021/02/25 13:11:06:258  <console>    [JS Console]: 
+收取营业额：获得 4397蓝币
+2021/02/25 13:11:06:376  <console>    [JS Console]: 【京东账号1】zuojiaotuo
+【收取小费】今日小费已达上限
+【第4日签到】当日已签到
+【店铺等级】19
+【总蓝币】103400个
+2021/02/25 13:11:06:382  <console>    [JS Console]: 
+🔔东东超市, 结束! 🕛 2.862 秒
+2021/02/25 13:11:06:385  <console>    [JS Console]: 
+2021/02/25 13:11:07:314  <console>    [JS Console]: 随机取5个码放到您固定的互助码后面(不影响已有固定互助)
+2021/02/25 13:11:07:319  <console>    [JS Console]: 
+❗️京喜工厂, 错误!
+SyntaxError: JSON Parse error: Unrecognized token '<'
+2021/02/25 13:11:07:322  <console>    [JS Console]: 第1个京东账号将要助力的好友["V5LkjP4WRyjeCKR9VRwcRX0bBuTz7MEK0-E99EJ7u0k=","0WtCMPNq7jekehT6d3AbFw=="]
+2021/02/25 13:11:07:431  <console>    [JS Console]: 助力朋友[V5LkjP4WRyjeCKR9VRwcRX0bBuTz7MEK0-E99EJ7u0k=]失败：亲,好友的工厂的工人已经满员了,不能去好友工厂打工啦!
+2021/02/25 13:11:07:544  <console>    [JS Console]: 助力朋友[0WtCMPNq7jekehT6d3AbFw==]失败：亲,好友的工厂的工人已经满员了,不能去好友工厂打工啦!
+2021/02/25 13:11:07:665  <console>    [JS Console]: 
+nextCollectDoubleFlag::0
+2021/02/25 13:11:07:669  <console>    [JS Console]: nextCollectDoubleType::0
+2021/02/25 13:11:07:671  <console>    [JS Console]: 下次集满收取不可双倍电力
+2021/02/25 13:11:07:674  <console>    [JS Console]: 发电机：当前 330 电力，最大值 330 电力
+2021/02/25 13:11:07:800  <console>    [JS Console]: 收取 330 电力
+2021/02/25 13:11:07:944  <console>    [JS Console]: 完成任务：共领取330电力
+2021/02/25 13:11:08:064  <console>    [JS Console]: 成功投入电力400电力
+2021/02/25 13:11:09:557  <console>    [JS Console]: 随机取5个码放到您固定的互助码后面(不影响已有固定互助)
+2021/02/25 13:11:09:560  <console>    [JS Console]: 
+❗️东东工厂, 错误!
+SyntaxError: JSON Parse error: Unrecognized token '<'
+2021/02/25 13:11:09:563  <console>    [JS Console]: 第1个京东账号将要助力的好友["P04z54XCjVWnYaS5u2ak7ZCdan1Bdd2GGiWvC6_uERj"]
+2021/02/25 13:11:10:048  <console>    [JS Console]: 收取自家零件成功:获得1电力
+2021/02/25 13:11:10:762  <console>    [JS Console]: {"code":0,"data":{"bizCode":-9,"bizMsg":"助力失败丨助力已满员！谢谢你哦~","success":false},"msg":"调用成功"}
+2021/02/25 13:11:10:861  <console>    [JS Console]: 成功收集366电量，当前蓄电池总电量：345909
+2021/02/25 13:11:11:009  <console>    [JS Console]: 
+【京东账号1（zuojiaotuo）的东东工厂好友互助码】T0149LgsGkdIqhCSfwCjVWnYaS5kRrbA
+2021/02/25 13:11:11:015  <console>    [JS Console]: 每日开工打卡已完成
+2021/02/25 13:11:11:018  <console>    [JS Console]: 准备做此任务：好友助力
+2021/02/25 13:11:11:020  <console>    [JS Console]: 去京东首页点击“数码电器”已完成
+2021/02/25 13:11:11:023  <console>    [JS Console]: 逛会场/互动游戏已做完
+2021/02/25 13:11:11:025  <console>    [JS Console]: 看看商品已做完
+2021/02/25 13:11:11:027  <console>    [JS Console]: 关注店铺已做完
+2021/02/25 13:11:11:030  <console>    [JS Console]: 此任务：开通趣猫品牌会员，跳过
+2021/02/25 13:11:11:032  <console>    [JS Console]: 每日10-13点巡厂已完成
+2021/02/25 13:11:11:146  <console>    [JS Console]: 
+已选商品：极米H3智能家庭影院
+2021/02/25 13:11:11:149  <console>    [JS Console]: 当前已投入电量/所需电量：0/8888888
+2021/02/25 13:11:11:152  <console>    [JS Console]: 已选商品剩余量：12
+2021/02/25 13:11:11:154  <console>    [JS Console]: 当前总电量：345909
+2021/02/25 13:11:11:157  <console>    [JS Console]: 当前完成度：4%
+2021/02/25 13:11:11:160  <console>    [JS Console]: BoxJs或环境变量暂未提供心仪商品
+如需兑换心仪商品，请提供心仪商品名称，否则满足条件后会为您兑换当前所选商品：极米H3智能家庭影院
+2021/02/25 13:11:11:162  <console>    [JS Console]: 
+所选商品极米H3智能家庭影院目前数量：12，且当前总电量为：345909，【不满足】兑换此商品所需总电量：8888888
+2021/02/25 13:11:11:165  <console>    [JS Console]: 故不一次性投入电力，一直放到蓄电池累计
+2021/02/25 13:11:11:168  <console>    [JS Console]: 京东账号1zuojiaotuo
+京东账号1 zuojiaotuo
+已选商品：极米H3智能家庭影院
+当前已投入电量/所需电量：0/8888888
+已选商品剩余量：12
+当前总电量：345909
+当前完成度：4%
+2021/02/25 13:11:11:173  <console>    [JS Console]: 
+🔔东东工厂, 结束! 🕛 7.652 秒
+2021/02/25 13:11:11:175  <console>    [JS Console]: 
+2021/02/25 13:11:11:189  <console>    [JS Console]: 收取自家零件成功:获得2电力
+2021/02/25 13:11:12:373  <console>    [JS Console]: 收取自家零件成功:获得4电力
+2021/02/25 13:11:13:556  <console>    [JS Console]: 收取自家零件成功:获得1电力
+2021/02/25 13:11:14:732  <console>    [JS Console]: 收取自家零件成功:获得4电力
+2021/02/25 13:11:15:516  <console>    [JS Console]: 好友【bxCmRhdPvDDh8X72ZbyNcA==】地下暂无零件可收
+2021/02/25 13:11:16:159  <console>    [JS Console]: 好友【ConR1bHIbgyz2WsHpVj34A==】地下暂无零件可收
+2021/02/25 13:11:16:809  <console>    [JS Console]: 好友【cyCIY1_APsSKHJ2JIgf0zg==】地下暂无零件可收
+2021/02/25 13:11:16:923  <console>    [JS Console]: 
+团活动ID  TvjO5k4gaVqVHMRJIogd_g==
+2021/02/25 13:11:16:927  <console>    [JS Console]: 团ID  xJya8o-Gml_tGdgzefeIHQ==
+2021/02/25 13:11:16:931  <console>    [JS Console]: 今日剩余开团次数：2次
+2021/02/25 13:11:16:942  <console>    [JS Console]: st:_time:1614229876934&activeId:&tuanId:
+2021/02/25 13:11:17:039  <console>    [JS Console]: 之前的团已过期，准备重新开团
+2021/02/25 13:11:17:049  <console>    [JS Console]: st:_time:1614229877042&activeId:&isOpenApp:
+2021/02/25 13:11:17:166  <console>    [JS Console]: 开团成功tuanId为
+XHe5ld4l-CW5-qm18aQNvg==
+2021/02/25 13:11:17:171  <console>    [JS Console]: 
+开团情况:1/5
+2021/02/25 13:11:17:174  <console>    [JS Console]: 
+此团未达领取团奖励人数：5人
+2021/02/25 13:11:17:297  <console>    [JS Console]: 2021/2/25 下午1:11:17参加团主【MNU1o08zJOSUaOULm8-Hxg==】失败
+2021/02/25 13:11:17:301  <console>    [JS Console]: 2021/2/25 上午12:10:43参加团主【MNU1o08zJOSUaOULm8-Hxg==】失败
+2021/02/25 13:11:17:305  <console>    [JS Console]: 2021/2/24 上午9:08:49参加团主【MNU1o08zJOSUaOULm8-Hxg==】失败
+2021/02/25 13:11:17:309  <console>    [JS Console]: 2021/2/23 下午5:10:25参加团主【MNU1o08zJOSUaOULm8-Hxg==】失败
+2021/02/25 13:11:17:313  <console>    [JS Console]: 2021/2/21 下午12:09:41参加团主【MNU1o08zJOSUaOULm8-Hxg==】失败
+2021/02/25 13:11:17:439  <console>    [JS Console]: 
+  商品名     兑换状态
+2021/02/25 13:11:17:444  <console>    [JS Console]: 洁柔厨房纸2卷    已兑换
+2021/02/25 13:11:17:451  <console>    [JS Console]: 
+【京东账号1】zuojiaotuo
+【生产商品】保鲜袋套装
+【当前等级】高级学徒 2
+【生产进度】37.75%
+【招工进度】0/8
+【收取发电站】收取成功，获得 330 电力
+【每日任务】领奖成功，共计 330 电力
+【投入电力】投入成功，共计 400 电力
+【收取自己零件】今日已达上限
+【收取好友零件】今日已达上限
+2021/02/25 13:11:17:456  <console>    [JS Console]: zuojiaotuo去参加第一个cookie账号开的团
+2021/02/25 13:11:17:815  <console>    [JS Console]: 参团失败：{"msg":"您已成功参团","nowTime":1614229877,"ret":10208}
+2021/02/25 13:11:18:069  <console>    [JS Console]: 
+🔔京喜工厂, 结束! 🕛 14.535 秒
+2021/02/25 13:11:18:073  <console>    [JS Console]: 
+2021/02/25 13:12:00:346  <console>    [QTXTaskManager] Fire task<京东金融养猪猪> https://jdsharedresourcescdn.azureedge.net/jdresource/jd_pigPet.js.
+2021/02/25 13:12:00:427  <console>    [JS Console]: 
+🔔金融养猪, 开始!
+2021/02/25 13:12:00:913  <console>    [JS Console]: 
+开始【京东账号1】zuojiaotuo
+2021/02/25 13:12:01:987  <console>    [JS Console]: 第3天已签到
+2021/02/25 13:12:02:247  <console>    [JS Console]: 开宝箱失败:宝箱次数上限
+2021/02/25 13:12:02:733  <console>    [JS Console]: 
+去京东到家签到未完成
+2021/02/25 13:12:02:737  <console>    [JS Console]: 
+小金库还信用卡未完成
+2021/02/25 13:12:02:739  <console>    [JS Console]: 
+购买黄金产品未完成
+2021/02/25 13:12:02:741  <console>    [JS Console]: 
+去领金贴页面签到未完成
+2021/02/25 13:12:02:744  <console>    [JS Console]: 
+花金贴兑权益未完成
+2021/02/25 13:12:02:746  <console>    [JS Console]: 
+0.01元购大牌权益卡未完成
+2021/02/25 13:12:02:749  <console>    [JS Console]: 
+浏览京喜工厂活动未完成
+2021/02/25 13:12:02:751  <console>    [JS Console]: 
+浏览东东农场未完成
+2021/02/25 13:12:02:757  <console>    [JS Console]: 
+为自己充1笔话费未完成
+2021/02/25 13:12:02:760  <console>    [JS Console]: 
+完成一笔金币兑换未完成
+2021/02/25 13:12:02:762  <console>    [JS Console]: 
+浏览京喜财富岛活动未完成
+2021/02/25 13:12:02:765  <console>    [JS Console]: 
+完成每日分享已领取
+2021/02/25 13:12:02:876  <console>    [JS Console]: 
+食物名称     数量
+2021/02/25 13:12:02:879  <console>    [JS Console]: 普通猪粮      7g
+2021/02/25 13:12:02:882  <console>    [JS Console]: 南瓜      15g
+2021/02/25 13:12:02:884  <console>    [JS Console]: 白菜      3g
+2021/02/25 13:12:02:886  <console>    [JS Console]: 胡萝卜      15g
+2021/02/25 13:12:02:890  <console>    [JS Console]: 
+🔔金融养猪, 结束! 🕛 2.465 秒
+2021/02/25 13:12:02:892  <console>    [JS Console]: 
+2021/02/25 13:15:00:218  <console>    [QTXTaskManager] Fire task<京东宠汪汪喂食> https://jdsharedresourcescdn.azureedge.net/jdresource/jd_joy_feedPets.js.
+2021/02/25 13:15:00:413  <console>    [JS Console]: 
+🔔宠汪汪🐕喂食, 开始!
+2021/02/25 13:15:00:825  <console>    [JS Console]: 
+开始【京东账号1】zuojiaotuo
+2021/02/25 13:15:00:829  <console>    [JS Console]: 您设置的喂食数量::10g
+2021/02/25 13:15:00:832  <console>    [JS Console]: 实际的喂食数量::10g
+2021/02/25 13:15:01:211  <console>    [JS Console]: 喂食成功
+2021/02/25 13:15:01:285  <console>    [JS Console]: 
+【喂食成功】10g
+
+2021/02/25 13:15:01:291  <console>    [JS Console]: 
+🔔宠汪汪🐕喂食, 结束! 🕛 0.881 秒
+2021/02/25 13:15:01:295  <console>    [JS Console]: 
+2021/02/25 13:58:27:246  <console>    [JS Console]: 
+🔔京喜农场, 开始!
+2021/02/25 13:58:27:253  <console>    [JS Console]: 开始获取配置文件
+2021/02/25 13:58:27:264  <console>    [JS Console]: 共2个京东账号
+2021/02/25 13:58:27:268  <console>    [JS Console]: 您提供了0个账号的京喜农场助力码
+2021/02/25 13:58:27:273  <console>    [JS Console]: 
+************* 检查【京东账号1】zuojiaotuo cookie 是否有效 *************
+2021/02/25 13:58:27:654  <console>    [JS Console]: 开始【京东账号1】zuojiaotuo
+2021/02/25 13:58:27:659  <console>    [JS Console]: 由于您第1个京东账号未提供shareCode,将采纳本脚本自带的助力码
+2021/02/25 13:58:27:662  <console>    [JS Console]: 第1个京东账号将要助力的好友["{\"smp\":\"22bd6fbbabbaa770a45ab2607e7a1e8a\",\"active\":\"jdnc_1_3yuanxuecheng210202_2\",\"joinnum\":\"1\"}","{\"smp\":\"197c6094e965fdf3d33621b47719e0b1\",\"active\":\"jdnc_1_3yuanxuecheng210202_2\",\"joinnum\":\"1\"}","{\"smp\":\"22bd6fbbabbaa770a45ab2607e7a1e8a\",\"active\":\"jdnc_1_3yuanxuecheng210202_2\",\"joinnum\":\"2\"}","{\"smp\":\"197c6094e965fdf3d33621b47719e0b1\",\"active\":\"jdnc_1_3yuanxuecheng210202_2\",\"joinnum\":\"2\"}","{\"smp\":\"22bd6fbbabbaa770a45ab2607e7a1e8a\",\"active\":\"jdnc_1_3yuanxuecheng210202_2\",\"joinnum\":\"3\"}","{\"smp\":\"197c6094e965fdf3d33621b47719e0b1\",\"active\":\"jdnc_1_3yuanxuecheng210202_2\",\"joinnum\":\"3\"}","{\"smp\":\"22bd6fbbabbaa770a45ab2607e7a1e8a\",\"active\":\"jdnc_1_3yuanxuecheng210202_2\",\"joinnum\":\"4\"}","{\"smp\":\"197c6094e965fdf3d33621b47719e0b1\",\"active\":\"jdnc_1_3yuanxuecheng210202_2\",\"joinnum\":\"4\"}"]
+2021/02/25 13:58:27:667  <console>    [JS Console]: 获取用户信息 & 任务列表
+2021/02/25 13:58:27:782  <console>    [JS Console]: 获取任务列表  总共14个任务！
+2021/02/25 13:58:27:787  <console>    [JS Console]: 【京东账号1（zuojiaotuo）的京喜农场好友互助码】{"smp":"8a1e913c8c115e911d11083eb4de987f","active":"jdnc_1_1yuanqingdou210129_2","joinnum":1}
+2021/02/25 13:58:28:302  <console>    [JS Console]: 开始第1个任务：每日签到
+2021/02/25 13:58:30:137  <console>    [JS Console]: 每日签到[做任务]：ret:0 retmsg:"成功"
+2021/02/25 13:58:30:141  <console>    [JS Console]: 结束第1个任务：每日签到
+2021/02/25 13:58:30:145  <console>    [JS Console]: 开始第2个任务：开启每日免费领水滴提醒
+2021/02/25 13:58:31:505  <console>    [JS Console]: 开启每日免费领水滴提醒[做任务]：ret:0 retmsg:"成功"
+2021/02/25 13:58:31:510  <console>    [JS Console]: 结束第2个任务：开启每日免费领水滴提醒
+2021/02/25 13:58:31:513  <console>    [JS Console]: 开始第3个任务：开启明日免费领水滴提醒
+2021/02/25 13:58:34:528  <console>    [JS Console]: 开启明日免费领水滴提醒[做任务]：ret:0 retmsg:"成功"
+2021/02/25 13:58:34:532  <console>    [JS Console]: 结束第3个任务：开启明日免费领水滴提醒
+2021/02/25 13:58:34:536  <console>    [JS Console]: 开始第4个任务：去每日提现100元
+2021/02/25 13:58:34:694  <console>    [JS Console]: 去每日提现100元[做任务]：ret:0 retmsg:"成功"
+2021/02/25 13:58:34:698  <console>    [JS Console]: 结束第4个任务：去每日提现100元
+2021/02/25 13:58:34:701  <console>    [JS Console]: 开始第5个任务：天天收金果，点点就赚钱
+2021/02/25 13:58:37:632  <console>    [JS Console]: 天天收金果，点点就赚钱[做任务]：ret:0 retmsg:"成功"
+2021/02/25 13:58:37:637  <console>    [JS Console]: 结束第5个任务：天天收金果，点点就赚钱
+2021/02/25 13:58:37:640  <console>    [JS Console]: 开始第6个任务：9.9元抢3斤耙耙柑
+2021/02/25 13:58:37:978  <console>    [JS Console]: 9.9元抢3斤耙耙柑[做任务]：ret:0 retmsg:"成功"
+2021/02/25 13:58:37:983  <console>    [JS Console]: 结束第6个任务：9.9元抢3斤耙耙柑
+2021/02/25 13:58:37:986  <console>    [JS Console]: 开始第7个任务：吐司面包500g只要7.9元
+2021/02/25 13:58:39:305  <console>    [JS Console]: 吐司面包500g只要7.9元[做任务]：ret:0 retmsg:"成功"
+2021/02/25 13:58:39:309  <console>    [JS Console]: 结束第7个任务：吐司面包500g只要7.9元
+2021/02/25 13:58:39:312  <console>    [JS Console]: 开始第8个任务：逛产地直发会场抢好货
+2021/02/25 13:58:41:637  <console>    [JS Console]: 逛产地直发会场抢好货[做任务]：ret:0 retmsg:"成功"
+2021/02/25 13:58:41:641  <console>    [JS Console]: 结束第8个任务：逛产地直发会场抢好货
+2021/02/25 13:58:41:644  <console>    [JS Console]: 开始第9个任务：原产地好货8.9元封顶
+2021/02/25 13:58:42:482  <console>    [JS Console]: 原产地好货8.9元封顶[做任务]：ret:0 retmsg:"成功"
+2021/02/25 13:58:42:486  <console>    [JS Console]: 结束第9个任务：原产地好货8.9元封顶
+2021/02/25 13:58:42:490  <console>    [JS Console]: 开始第10个任务：爆款好物,全网超低价
+2021/02/25 13:58:43:532  <console>    [JS Console]: 爆款好物,全网超低价[做任务]：ret:0 retmsg:"成功"
+2021/02/25 13:58:43:536  <console>    [JS Console]: 结束第10个任务：爆款好物,全网超低价
+2021/02/25 13:58:43:540  <console>    [JS Console]: 开始第11个任务：上岛0元领好物
+2021/02/25 13:58:44:964  <console>    [JS Console]: 上岛0元领好物[做任务]：ret:0 retmsg:"成功"
+2021/02/25 13:58:44:968  <console>    [JS Console]: 结束第11个任务：上岛0元领好物
+2021/02/25 13:58:44:972  <console>    [JS Console]: 开始第12个任务：去工厂0元领好物
+2021/02/25 13:58:45:138  <console>    [JS Console]: 去工厂0元领好物[做任务]：ret:0 retmsg:"成功"
+2021/02/25 13:58:45:142  <console>    [JS Console]: 结束第12个任务：去工厂0元领好物
+2021/02/25 13:58:45:145  <console>    [JS Console]: 开始第13个任务：加入官方活动群，抢1元好货
+2021/02/25 13:58:46:434  <console>    [JS Console]: 加入官方活动群，抢1元好货[做任务]：ret:0 retmsg:"成功"
+2021/02/25 13:58:46:438  <console>    [JS Console]: 结束第13个任务：加入官方活动群，抢1元好货
+2021/02/25 13:58:46:950  <console>    [JS Console]: 准备做答题任务：每日答题
+2021/02/25 13:58:47:081  <console>    [JS Console]: 每日答题[做任务]：ret:0 retmsg:"成功"
+2021/02/25 13:58:47:728  <console>    [JS Console]: 获取任务列表  总共0个任务！
+2021/02/25 13:58:49:054  <console>    [JS Console]: 邀请码提交：200
+2021/02/25 13:58:49:569  <console>    [JS Console]: 即将助力 share {"smp":"22bd6fbbabbaa770a45ab2607e7a1e8a","active":"jdnc_1_3yuanxuecheng210202_2","joinnum":"1"}
+2021/02/25 13:58:49:753  <console>    [JS Console]: 助力结果：ret=1011 retmsg="shareuser not join this active"
+2021/02/25 13:58:50:766  <console>    [JS Console]: 即将助力 share {"smp":"197c6094e965fdf3d33621b47719e0b1","active":"jdnc_1_3yuanxuecheng210202_2","joinnum":"1"}
+2021/02/25 13:58:50:949  <console>    [JS Console]: 助力结果：ret=1011 retmsg="shareuser not join this active"
+2021/02/25 13:58:51:962  <console>    [JS Console]: 即将助力 share {"smp":"22bd6fbbabbaa770a45ab2607e7a1e8a","active":"jdnc_1_3yuanxuecheng210202_2","joinnum":"2"}
+2021/02/25 13:58:52:135  <console>    [JS Console]: 助力结果：ret=1011 retmsg="shareuser not join this active"
+2021/02/25 13:58:53:148  <console>    [JS Console]: 即将助力 share {"smp":"197c6094e965fdf3d33621b47719e0b1","active":"jdnc_1_3yuanxuecheng210202_2","joinnum":"2"}
+2021/02/25 13:58:53:318  <console>    [JS Console]: 助力结果：ret=1011 retmsg="shareuser not join this active"
+2021/02/25 13:58:54:326  <console>    [JS Console]: 即将助力 share {"smp":"22bd6fbbabbaa770a45ab2607e7a1e8a","active":"jdnc_1_3yuanxuecheng210202_2","joinnum":"3"}
+2021/02/25 13:58:54:513  <console>    [JS Console]: 助力结果：ret=1011 retmsg="shareuser not join this active"
+2021/02/25 13:58:55:526  <console>    [JS Console]: 即将助力 share {"smp":"197c6094e965fdf3d33621b47719e0b1","active":"jdnc_1_3yuanxuecheng210202_2","joinnum":"3"}
+2021/02/25 13:58:55:698  <console>    [JS Console]: 助力结果：ret=1011 retmsg="shareuser not join this active"
+2021/02/25 13:58:56:711  <console>    [JS Console]: 即将助力 share {"smp":"22bd6fbbabbaa770a45ab2607e7a1e8a","active":"jdnc_1_3yuanxuecheng210202_2","joinnum":"4"}
+2021/02/25 13:58:56:884  <console>    [JS Console]: 助力结果：ret=1011 retmsg="shareuser not join this active"
+2021/02/25 13:58:57:896  <console>    [JS Console]: 即将助力 share {"smp":"197c6094e965fdf3d33621b47719e0b1","active":"jdnc_1_3yuanxuecheng210202_2","joinnum":"4"}
+2021/02/25 13:58:58:080  <console>    [JS Console]: 助力结果：ret=1011 retmsg="shareuser not join this active"
+2021/02/25 13:58:59:375  <console>    [JS Console]: 获取随机助力码成功 {"smp":"64f51c37a51c420adeb37a01a55df148","active":"jdnc_1_1yuanqingdou210129_2","joinnum":"1"}
+2021/02/25 13:58:59:887  <console>    [JS Console]: 即将助力 share {"smp":"64f51c37a51c420adeb37a01a55df148","active":"jdnc_1_1yuanqingdou210129_2","joinnum":"1"}
+2021/02/25 13:59:00:472  <console>    [JS Console]: 助力结果：ret=1013 retmsg="has expired"
+2021/02/25 13:59:01:714  <console>    [JS Console]: 获取随机助力码成功 {"smp":"b61ce9e95848d0665c97d86315690348","active":"jdnc_1_1yuanqingdou210129_2","joinnum":"1"}
+2021/02/25 13:59:02:227  <console>    [JS Console]: 即将助力 share {"smp":"b61ce9e95848d0665c97d86315690348","active":"jdnc_1_1yuanqingdou210129_2","joinnum":"1"}
+2021/02/25 13:59:02:405  <console>    [JS Console]: 助力结果：ret=1011 retmsg="shareuser not join this active"
+2021/02/25 13:59:03:720  <console>    [JS Console]: 获取随机助力码成功 {"smp":"98cd6ae75411cd89b153ef349c1e200d","active":"jdnc_1_1yuanqingdou210129_2","joinnum":"1"}
+2021/02/25 13:59:04:233  <console>    [JS Console]: 即将助力 share {"smp":"98cd6ae75411cd89b153ef349c1e200d","active":"jdnc_1_1yuanqingdou210129_2","joinnum":"1"}
+2021/02/25 13:59:04:389  <console>    [JS Console]: 助力结果：ret=1013 retmsg="has expired"
+2021/02/25 13:59:05:555  <console>    [JS Console]: 获取随机助力码成功 {"smp":"9974b071c5f6b0204f91f86b01bef474","active":"jdnc_1_1yuanqingdou210129_2","joinnum":"3"}
+2021/02/25 13:59:06:068  <console>    [JS Console]: 即将助力 share {"smp":"9974b071c5f6b0204f91f86b01bef474","active":"jdnc_1_1yuanqingdou210129_2","joinnum":"3"}
+2021/02/25 13:59:06:253  <console>    [JS Console]: 助力结果：ret=0 retmsg="OK"
+2021/02/25 13:59:07:270  <console>    [JS Console]: 
+==============📣系统通知📣==============
+京喜农场
+【京东账号1】zuojiaotuo
+【水果名称】蒜香青豆
+【水滴】本次获得100 离线获得0 今日获得100 还需水滴640
+【预测】还需 7 天
+【邀请码】提交成功！
+2021/02/25 13:59:07:283  <console>    [JS Console]: 
+🔔京喜农场, 结束! 🕛 40.038 秒
+2021/02/25 13:59:07:288  <console>    [JS Console]: 
+2021/02/25 14:00:00:213  <console>    [QTXTaskManager] Fire task<中国联通> https://raw.githubusercontent.com/chavyleung/scripts/master/10010/10010.js.
+2021/02/25 14:00:00:316  <console>    [JS Console]: 🔔 中国联通
+2021/02/25 14:00:00:319  <console>    [JS Console]: [object Object]
+2021/02/25 14:00:01:090  <console>    [JS Console]: ❌ 中国联通 签到失败: TypeError: undefined is not an object (evaluating 'VAL_signurl.endsWith')
